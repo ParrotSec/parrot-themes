@@ -1,0 +1,48 @@
+style "panel" = "adaptive-dark"
+{
+	xthickness = 2
+	ythickness = 2
+}
+
+style "panel_button" = "adaptive-dark"
+{
+		engine "murrine" {
+		contrast			= 0.9
+		roundness			= 0
+		border_shades		= { 1.2, 0.8 }
+	}
+}
+
+# Theme panel elements
+#class "*Panel*" style "panel"
+
+#widget_class "*Mail*" style "panel" # Change bg of evolution widget...
+widget "*PanelWidget*"			style "panel"
+widget "*PanelApplet*"			style "panel"
+widget "*fast-user-switch*"		style "panel" # workaround for Fast User Switch applet
+widget "*CPUFreq*Applet*"		style "panel"
+class "PanelApp*" 				style "panel"
+class "PanelToplevel*"			style "panel"
+widget_class "*PanelToplevel*"	style "panel"
+
+#XFCE panel
+widget_class "*notif*"			style "panel"
+widget_class "*Notif*"			style "panel"
+widget_class "*Tray*"			style "panel"
+widget_class "*tray*"			style "panel"
+widget "*Xfce*Panel*"			style "panel"
+class "*Xfce*Panel*"			style "panel"
+
+# Panel buttons
+widget_class "*Panel*GtkToggleButton"	style:highest "panel_button"
+
+# XFCE panel buttons
+widget "*Xfce*Panel*Button*"		style:highest "panel_button"
+class "*Xfce*Panel*Button*"			style:highest "panel_button"
+widget_class "*LauncherPlugin*"		style:highest "panel_button"
+widget_class "*ActionsPlugin*"		style:highest "panel_button"
+
+# lxpanel and fbpanel
+widget "*.tclock.*"			style "panel_button"
+widget "*.taskbar.*"		style "panel_button"
+widget_class "*GtkBgbox*"	style "panel_button"

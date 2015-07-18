@@ -1,0 +1,25 @@
+#Patch for LibreOffice applications.
+# To run this file add the following command in the application launcher :
+# bash -c 'GTK2_RC_FILES=/path/to/your/themes/Zen/apps/libreoffice.rc application-command'
+
+		style "large_scrollbar"
+		{
+		GtkScrollbar::slider-width = 10
+		GtkScrollbar::trough-border = 3
+		}
+		widget_class "*" style "large_scrollbar"
+
+#To set the Gtk theme
+#include "/path/to/your/themes/Zen/gtk-2.0/gtkrc"
+
+#To set the icon theme
+#gtk-icon-theme-name = "GnomeCorsair"
+
+#To set the font
+#style "Sans"
+#{
+#font_name = "Sans 8"
+#}
+#widget_class "*" style "Sans"
+#gtk-font-name = "Sans 8"
+#gtk-font-name = "Sans 8"

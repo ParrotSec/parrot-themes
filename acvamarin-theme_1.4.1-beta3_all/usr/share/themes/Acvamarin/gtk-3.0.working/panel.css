@@ -1,0 +1,65 @@
+/* Fallback Mode Panel */
+
+PanelWidget,
+PanelApplet,
+PanelToplevel,
+PanelSeparator {
+    color: @panel_fg_normal;
+    background-image: none;
+    background-color: @panel_bg_normal;
+}
+
+.gnome-panel-menu-bar,
+PanelMenuBar.menubar,
+PanelAppletFrame, PanelApplet .button {
+    color: @panel_fg_normal;
+    background-color: @panel_bg_normal; 
+    background-image: -gtk-gradient(linear, left top, left bottom,
+                                     from (shade(@panel_bg_normal, 1.05)),
+                                     to (shade(@panel_bg_normal, 0.95)));
+}
+
+PanelApplet .button {
+    border-radius: 1px;
+    border-color: shade(@panel_bg_normal, 0.8);
+    border-style: solid;
+    border-top-color: shade(@panel_bg_normal, 0.8);
+    border-right-color: shade(@panel_bg_normal, 0.7);
+    border-bottom-color: shade(@panel_bg_normal, 0.6);
+    border-left-color: shade(@panel_bg_normal, 0.7);
+}
+
+PanelApplet .button:active {
+    color: @panel_fg_selected;
+    background-image: -gtk-gradient(linear, left top, left bottom,
+                                     from (shade(@panel_bg_active, 1.05)),
+                                     to (shade(@panel_bg_active, 0.95)));
+    border-top-color: shade(@border_selected, 1.12);
+    border-right-color: @border_selected;
+    border-bottom-color: shade(@border_selected, 0.9);
+    border-left-color: @border_selected;
+}
+
+PanelApplet .button:prelight, PanelApplet .button:active:prelight  {
+    color: @panel_fg_selected;
+    background-image: -gtk-gradient(linear, left top, left bottom,
+                                     from (shade(@panel_bg_prelight, 1.05)),
+                                     to (shade(@panel_bg_prelight, 0.95)));
+}
+
+PanelSeparator {
+    border-width: 0;
+    background-image: -gtk-gradient(linear, left top, left bottom,
+                                     from (shade(@panel_bg_normal, 0.8)),
+                                     to (shade(@panel_bg_normal, 0.6)));
+
+    color: @panel_fg_normal;
+}
+
+ClockBox {
+    color: @panel_fg_normal;
+}
+
+WnckPager, WnckTasklist {
+    background-color: @panel_bg_normal;
+}

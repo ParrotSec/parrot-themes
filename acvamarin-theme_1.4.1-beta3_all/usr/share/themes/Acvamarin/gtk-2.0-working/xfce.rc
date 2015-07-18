@@ -1,0 +1,35 @@
+# Xfce specific theming
+
+style "xfwm-tabwin"
+{
+	Xfwm4TabwinWidget::icon-size = 64
+}
+
+widget "xfwm4-tabwin*"			style "xfwm-tabwin"
+
+style "titlebar-adaptive" = "default"
+{
+	bg[SELECTED]		= shade(0.9, @selected_bg_color)
+	fg[SELECTED]        = mix(0.26, @bg_color, @selected_text_color)
+	fg[INSENSITIVE]		= mix(0.5, @bg_color, @fg_color)
+}
+
+style "titlebar-dark" = "default"
+{
+	bg[NORMAL]			= shade(1.82, @dark_bg_color)
+	bg[SELECTED]		= shade(1.82, @dark_bg_color)
+	fg[SELECTED]		= @dark_text_color
+	fg[INSENSITIVE]		= shade(0.75, @dark_text_color)
+}
+
+style"xfceheaders"
+{
+	text[NORMAL]	=@fg_color
+	base[NORMAL]	=@bg_color
+}
+
+style"xfceheaders-dark"
+{
+	text[NORMAL]	=@dark_text_color
+	base[NORMAL]	=shade(1.82, @dark_bg_color)
+}
