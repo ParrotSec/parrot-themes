@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Circle
+Type=X-GNOME-Metatheme
+Comment=
+
+[X-GNOME-Metatheme]
+GtkTheme=Circle
+MetacityTheme=Circle
+IconTheme=Acvamarin
+GtkColorScheme=fg_color:#4766ffffedb1,bg_color:#2609314031d1,text_color:#14e5ab9fb2e5,base_color:#3bcc4d2a54bf,selected_fg_color:#ffffffffffff,selected_bg_color:#1e715d307f88,tooltip_fg_color:#0000ffff0000,tooltip_bg_color:#000000000000
+CursorTheme=DMZ-White
+CursorSize=24

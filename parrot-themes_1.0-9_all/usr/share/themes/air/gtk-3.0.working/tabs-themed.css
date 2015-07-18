@@ -1,0 +1,117 @@
+/*****************
+ * Notebooks and *
+ * tabs          *
+ *****************/
+@define-color theme_tab_bg_color mix (@theme_base_color, @theme_selected_bg_color, 0.90);
+
+.notebook {
+    padding: 0px;
+
+	background-color: shade(@theme_base_color, 0.80);
+    background-image: linear-gradient(to bottom, 
+									  shade(@notebook_border, 1.07) 1px,
+                                      shade(@theme_bg_color, 0.86)  1px,
+                                      shade(@theme_bg_color, 0.97)  4px,
+                                      shade(@theme_bg_color, 0.97));
+
+	border-style: solid;
+    border-width: 0px 1px 1px 1px;
+	border-radius: 4px;
+    border-left-color: 		shade(@notebook_border, 1.25);
+    border-right-color: 	shade(@notebook_border, 1.25);
+    border-bottom-color: 	shade(@notebook_border, 1.40);
+	border-image: none;
+
+    -GtkWidget-focus-line-width: 0;
+}
+
+.notebook GtkDrawingArea {
+	background-color: shade (@theme_bg_color, 0.97);
+}
+
+.notebook tab {
+    background-image: -gtk-gradient (linear,
+                                     left top, left bottom,
+                                     from (shade(@theme_tab_bg_color, 1.05)),
+                                     color-stop (0.48, shade(@theme_tab_bg_color, 1.01)),
+                                     color-stop (0.52, shade(@theme_tab_bg_color, 0.92)),
+                                     to (shade(@theme_tab_bg_color, 0.88)));
+
+    border-width: 1px 1px 0px 1px;
+    border-style: solid; 
+	border-radius: 0px;
+	border-color: shade(@theme_tab_bg_color, 0.80);
+    border-top-color: 	shade(@theme_tab_bg_color, 0.85);
+    border-left-color: 	shade(@theme_tab_bg_color, 0.80);
+    border-right-color: shade(@theme_tab_bg_color, 0.80);
+	border-image: none;
+
+    box-shadow: inset  0px  1px alpha(#eee, 0.1),
+                inset  1px  0px alpha(#eee, 0.1),
+                inset -1px  0px alpha(#eee, 0.1); 
+}
+
+
+.notebook tab:first-child:active,
+.notebook tab:first-child {
+    border-radius: 3px 0px 0px 0px;
+}
+
+.notebook tab:last-child:active,
+.notebook tab:last-child {
+    border-radius: 0px 3px 0px 0px;
+}
+
+.notebook tab:only-child {
+    border-radius: 0px 0px 0px 0px;
+}
+
+.notebook tab.top {
+    padding: 2px 6px;
+}
+
+.notebook tab.bottom {
+    padding: 2px 6px;
+}
+
+.notebook tab.right {
+    padding: 3px 4px 3px 0px;
+}
+
+.notebook tab.left {
+    padding: 3px 0px 3px 4px;
+}
+
+.notebook tab:active {
+     background-image: -gtk-gradient (linear,
+                                     left top, left bottom,
+                                     from (shade(@theme_tab_bg_color, 0.55)),
+                                     to   (shade(@theme_tab_bg_color, 0.65)));
+
+    border-width: 1px 1px 0px 1px;
+    border-style: solid; 
+	border-radius: 0px;
+	border-color: shade(@theme_tab_bg_color, 0.50);
+    border-top-color: 	shade(@theme_tab_bg_color, 0.45);
+    border-left-color: 	shade(@theme_tab_bg_color, 0.55);
+    border-right-color: shade(@theme_tab_bg_color, 0.55);
+	border-image: none;
+    box-shadow: inset  0px  3px alpha(#000, 0.02),
+				inset  0px  2px alpha(#000, 0.03),
+				inset  0px  1px alpha(#000, 0.04),
+                inset  2px  0px alpha(#000, 0.02),
+                inset  1px  0px alpha(#000, 0.04),
+                inset -2px  0px alpha(#000, 0.02),
+                inset -1px  0px alpha(#000, 0.04);
+	
+}
+
+.notebook tab GtkLabel {
+	color: #fff;
+	text-shadow: 1px 1px alpha(#000, 0.18);
+}
+
+.notebook tab *:insensitive {
+	text-shadow: none;
+}
+

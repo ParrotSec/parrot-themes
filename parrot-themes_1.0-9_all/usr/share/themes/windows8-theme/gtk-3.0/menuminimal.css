@@ -1,0 +1,90 @@
+* {  
+	-GtkMenu-horizontal-padding: 2px;
+	-GtkMenu-vertical-padding: 2px;  
+	-GtkMenuBar-internal-padding: 0;
+	-GtkMenuItem-arrow-scaling: 0.6;
+}
+
+.menu {
+	background-color: @menu_bg_color;
+	border-color: #b8cadc;
+	border-width: 1px;
+}
+
+.menubar,
+.app-menu {
+	background-image: -gtk-gradient (linear,
+                            left top, left bottom,
+                            from (#fefeff),
+			    color-stop (0.37, #e5eaf5),
+			    color-stop (0.41, #d2d9ec),
+			    color-stop (0.95, #e2e7f7),
+                            to (#b6bccc));
+}
+
+.menubar.menuitem:prelight {
+	background-image: -gtk-gradient (linear,
+                            left top, left bottom,
+                            from (#dbdde2),
+                            to (#eaedfc));
+	background-color: @theme_base_color;
+	border-width: 1px;
+        border-radius: 3px;
+	border-color: #696b6d;
+	border-style: solid;
+ 
+	-unico-border-gradient: -gtk-gradient (linear,
+                            left top, left bottom,
+                            from (shade (#757576, 1.00)),
+                            to (shade (#5f6165, 1.00)));
+	-unico-inner-stroke-width: 1;
+	-unico-inner-stroke-gradient: -gtk-gradient (linear,
+                    				left top, left bottom,
+                    				from (alpha (#b7b8ba, 0.92)),
+                    				to (alpha (#eaeefc, 0.99)));
+}
+
+.menuitem {
+	border-radius: 3px;
+	border-style: solid;
+	border-width: 1px;
+	padding: 3px 2px 3px 2px;
+
+	-unico-inner-stroke-width: 1px;	
+}
+
+.menuitem:active,
+.menuitem *:active,
+.menuitem:prelight,
+.menuitem *:prelight {
+	background-image: -gtk-gradient (linear,
+                            left top, left bottom,
+                            from (alpha (#dffdff, 0.70)),
+                            to (alpha (#c7e4ff, 0.70)));
+	border-color: shade (@theme_bg_color, 0.90);
+	border-style: solid;
+}
+
+.menuitem.check:active,
+.menuitem.radio:active {
+	engine:unico;
+	color: @theme_fg_color;
+	-unico-bullet-color: @theme_fg_color;
+}
+
+.menuitem.check:active:prelight,
+.menuitem.radio:active:prelight {
+	engine:unico;
+	color: @selected_fg_color;
+	-unico-bullet-color: #3c7fb1;
+}
+
+.menuitem.separator {
+	-GtkMenuItem-horizontal-padding: 0;
+	-GtkWidget-separator-height: 4;
+	padding: 2px 0 2px 25px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: shade (@theme_bg_color, 0.95);
+}
+

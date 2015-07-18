@@ -1,0 +1,67 @@
+/*****************
+ * Notebooks and *
+ * tabs          *
+ *****************/
+
+.notebook tab *:active:insensitive {
+	text-shadow: none;
+}
+
+.notebook tab .button,
+.notebook tab .button:hover,
+.notebook tab .button:hover:active {
+	padding: 0;
+}
+
+.notebook {
+	padding: 0;
+	border-color: @notebook_border;
+	border-style: solid;
+	border-radius: 0;
+	border-width: 1px;
+	text-shadow: none;
+	-unico-border-gradient: -gtk-gradient (linear,
+                                             left top, left bottom,
+                                             from (shade(@notebook_border, 0.90)),
+                                             to (shade(@notebook_border, 1.18)));
+
+	background-color: @base_color;
+	-GtkNotebook-tab-overlap: 3;
+	-GtkNotebook-tab-curvature: 5;
+
+	-unico-focus-border-color: alpha (@selected_bg_color, 0.0);
+	-unico-focus-border-radius: 3;
+	-unico-focus-fill-color: alpha (@selected_bg_color, 0.0);
+	-unico-focus-outer-stroke-color: @transparent;
+}
+
+.notebook tab {
+	padding: 0;
+	border-radius: 0;
+	border-width: 1px;
+	-unico-border-gradient: -gtk-gradient (linear,
+                                             left top, left bottom,
+                                             from (shade(@notebook_border, 0.80)),
+                                             to (shade(@notebook_border, 0.90)));
+
+	background-image: -gtk-gradient (linear,
+                                     left top, left bottom,
+                                     from (shade (#f6f6f6, 0.95)),
+                                     color-stop (0.50, shade (#ececed, 1.00)),
+                                     color-stop (0.51, shade (#dedee0, 1.00)),
+                                     to (shade (#c8c8cc, 1.05)));
+	color: @text_color;
+}
+
+.notebook tab:active,
+.notebook tab *:active  {
+	padding: 2px 0 0 0;
+
+	-unico-border-gradient: -gtk-gradient (linear,
+                                             left top, left bottom,
+                                             from (shade(@notebook_border, 0.97)),
+                                             to (shade(@notebook_border, 0.90)));
+	background-image: none;
+	background-color: @base_color;
+}
+

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=winXP
+Type=X-GNOME-Metatheme
+Comment=
+
+[X-GNOME-Metatheme]
+GtkTheme=Win-XP-theme
+MetacityTheme=Win-XP-theme
+IconTheme=Acvamarin
+GtkColorScheme=base_color:#FFFFFF,fg_color:#000000,tooltip_fg_color:#FFFFFF,selected_bg_color:#3399ff,selected_fg_color:#FFFFFF,text_color:#313739,bg_color:#F0F0F0,insensitive_bg_color:#F4F4F2,tooltip_bg_color:#FFFFE1
+CursorTheme=default
+CursorSize=32
+NotificationTheme=slider

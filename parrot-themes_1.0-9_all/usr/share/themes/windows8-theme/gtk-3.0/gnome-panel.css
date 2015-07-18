@@ -1,0 +1,107 @@
+/* Fallback Mode Panel */
+PanelWidget:backdrop,
+PanelApplet:backdrop,
+PanelToplevel:backdrop,
+PanelWidget,
+PanelApplet,
+PanelToplevel {
+	background-image: -gtk-gradient (linear, left top, left bottom,
+                                     from (shade (@theme_bg_color, 1.2)),
+                                     to (shade (@theme_bg_color, 0.85)));
+	border-width: 0;
+	color: @theme_fg_color;
+}
+
+PanelSeparator:backdrop,
+PanelSeparator {
+	border-width: 0;
+	background-image: -gtk-gradient (linear, left top, left bottom,
+                                     from (shade (@theme_bg_color, 1.2)),
+                                     to (shade (@theme_bg_color, 0.85)));
+}
+
+PanelApplet > GtkMenuBar.menubar,
+PanelApplet > GtkMenuBar.menubar.menuitem,
+PanelMenuBar.menubar,
+PanelMenuBar.menubar.menuitem {
+	-PanelMenuBar-icon-visible: true;
+
+	background-image: -gtk-gradient (linear, left top, left bottom,
+                                     from (shade (@theme_bg_color, 1.2)),
+                                     to (shade (@theme_bg_color, 0.85)));
+	border-width: 0;
+}
+
+PanelAppletFrame {
+	background-color: @theme_bg_color;
+	background-image: -gtk-gradient (linear, left top, left bottom,
+                                     from (shade (@theme_bg_color, 1.2)),
+                                     to (shade (@theme_bg_color, 0.85)));
+	border-width: 0;
+}
+
+PanelApplet .button:backdrop,
+PanelApplet .button {
+	-GtkButton-inner-border: 2;
+
+	background-image: -gtk-gradient (linear, left top, left bottom,
+                                     from (shade (@theme_bg_color, 1.2)),
+                                     to (shade (@theme_bg_color, 0.85)));
+
+	border-color: shade (@theme_bg_color, 0.9);
+	border-radius: 0;
+	border-width: 0 1px 0 1px;
+	border-style: solid; 
+
+	-unico-border-gradient: -gtk-gradient(linear,
+				             left top, left bottom,
+				             from (shade (@toolbar_gradient_base, 1.20)),
+			                     color-stop (0.50, shade (@toolbar_gradient_base, 0.75) ),
+				             to   (shade (@toolbar_gradient_base, 1.10)));
+	-unico-glow-radius: 0;
+	-unico-inner-stroke-width: 0;
+	-unico-outer-stroke-width: 0;
+}
+
+PanelApplet .button:prelight:active:backdrop,
+PanelApplet .button:active:backdrop,
+PanelApplet .button:prelight:active,
+PanelApplet .button:active {
+	-unico-border-gradient: -gtk-gradient(linear,
+				             left top, left bottom,
+				             from (shade (@toolbar_gradient_base, 1.10)),
+			                     color-stop (0.50, shade (@toolbar_gradient_base, 0.65) ),
+				             to   (shade (@toolbar_gradient_base, 1.00)));
+
+	-unico-inner-stroke-width: 0 1 0 1;
+	-unico-inner-stroke-gradient: -gtk-gradient(linear,
+				             left top, left bottom,
+				             from (alpha (@toolbar_gradient_base, 0.00)),
+			                     color-stop (0.50, shade (@toolbar_gradient_base, 0.90) ),
+				             to   (alpha (@toolbar_gradient_base, 0.00)));
+
+	background-image: -gtk-gradient(linear,
+				     left top, left bottom,
+				     from (alpha (shade (@toolbar_gradient_base, 1.15), 0.0)),
+			             color-stop (0.50, shade (@toolbar_gradient_base, 0.98) ),
+				     to   (alpha (shade (@toolbar_gradient_base, 1.05), 0.0)));
+	-unico-glow-radius: 0;
+	-unico-outer-stroke-width: 0;
+}
+
+PanelApplet .button:prelight {
+	background-image: -gtk-gradient(linear,
+				     left top, left bottom,
+				     from (alpha (shade (#f1f1f1, 1.15), 0.3)),
+			             color-stop (0.50, shade (#f1f1f1, 1.00) ),
+				     to   (alpha (shade (#d1d1d1, 1.05), 0.3)));
+
+	-unico-border-gradient: -gtk-gradient(linear,
+				             left top, left bottom,
+				             from (shade (@toolbar_gradient_base, 1.20)),
+			                     color-stop (0.50, shade (@toolbar_gradient_base, 0.75) ),
+				             to   (shade (@toolbar_gradient_base, 1.10)));
+	-unico-glow-radius: 0;
+	-unico-inner-stroke-width: 0;
+	-unico-outer-stroke-width: 0;
+}
