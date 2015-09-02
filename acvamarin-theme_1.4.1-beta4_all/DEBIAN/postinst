@@ -1,3 +1,0 @@
-#!/bin/sh
-set -e
-update-icon-caches /usr/share/icons/Acvamarin

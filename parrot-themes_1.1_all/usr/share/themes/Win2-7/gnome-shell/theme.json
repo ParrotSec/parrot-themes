@@ -1,0 +1,9 @@
+{ 
+   "shell-theme": {
+   "name": "Win2-7", 
+   "author": "Hlz_andrew", 
+   "version": "1.0",
+   "type":   "custom",
+   "thumbnail": "Win2-7-preview.jpg",  
+    }
+}
