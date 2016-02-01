@@ -1,0 +1,173 @@
+/*************
+ * scrollbar *
+ *************/
+.scrollbar {
+	-GtkScrollbar-activate-slider: 1;
+	-GtkScrollbar-trough-border: 0;
+	-GtkScrollbar-min-slider-length: 20; 
+	-GtkScrollbar-has-forward-stepper: 1;
+	-GtkScrollbar-has-backward-stepper: 1;
+	-GtkScrollbar-has-secondary-forward-stepper: 0;
+	-GtkScrollbar-has-secondary-backward-stepper: 0;
+	-GtkRange-arrow-scaling: 0.6;
+	-GtkRange-trough-border: 0;
+	-GtkRange-stepper-size: 16;
+	-GtkRange-slider-width: 15; 
+	-GtkScrollbar-slider-width: 15; 
+	engine: unico;
+	border-width: 0;
+	color: @selected_bg_color;
+}
+
+.scrollbar.button,
+.scrollbar.button:insensitive {
+	-unico-outer-stroke-width: 0;
+	border-width: 0px;
+	border-style: none;
+	color: @transparent;
+}
+
+.scrollbar.button.vertical.top,
+.scrollbar.button.vertical.top:insensitive {
+	background-image: url("assets/stepper-up-insens.png");
+}
+
+.scrollbar.button.vertical.bottom,
+.scrollbar.button.vertical.bottom:insensitive {
+	background-image: url("assets/stepper-down-insens.png");
+}
+
+.scrollbar.button.horizontal.left,
+.scrollbar.button.horizontal.left:insensitive {
+	background-image: url("assets/stepper-left-insens.png");
+}
+
+.scrollbar.button.horizontal.right,
+.scrollbar.button.horizontal.right:insensitive {
+	background-image: url("assets/stepper-right-insens.png");
+}
+
+.scrollbar.button.vertical.top:prelight {
+	background-image: url("assets/stepper-up-prelight.png");
+}
+
+.scrollbar.button.vertical.bottom:prelight {
+	background-image: url("assets/stepper-down-prelight.png");
+}
+
+.scrollbar.button.horizontal.left:prelight {
+	background-image: url("assets/stepper-left-prelight.png");
+}
+
+.scrollbar.button.horizontal.right:prelight {
+	background-image: url("assets/stepper-right-prelight.png");
+}
+
+.scrollbar.trough {
+	-unico-border-gradient: -gtk-gradient (linear, left top, left bottom,
+                                           from (shade (@bg_color, 0.74)),
+                                           to (shade (@bg_color, 0.74)));
+	border-radius: 0;
+}
+
+.scrollbar.trough.vertical {
+	background-image: -gtk-gradient (linear,
+                                     left top, right top,
+                                     from (#e9e9e9),
+                                     to (#fcfcfc));
+}
+
+.scrollbar.trough.horizontal {
+	background-image: -gtk-gradient (linear,
+                                     left top, left bottom,
+                                     from (#e9e9e9),
+                                     to (#fcfcfc));
+}
+
+.scrollbar.slider {
+	border-width: 0; 
+	border-radius: 2px;
+
+	-unico-border-gradient: -gtk-gradient (linear, left top, left bottom,
+                                           from (shade (@bg_color, 0.74)),
+                                           to (shade (@bg_color, 0.74)));
+
+	-unico-inner-stroke-width: 1;
+	-unico-inner-stroke-gradient: -gtk-gradient (linear,
+                    				left top, left bottom,
+                    				from (alpha (#8a8a8c, 0.92)),
+                    				to (alpha (#8a8a8c, 0.99)));
+}
+
+.scrollbar.slider.vertical {
+	background-image: -gtk-gradient (linear,
+                                     left top, right top,
+                                     from (shade (#f6f6f6, 1.05)),
+                                     color-stop (0.50, shade (#ececed, 1.00)),
+                                     color-stop (0.51, shade (#dedee0, 1.00)),
+                                     to (shade (#c8c8cc, 1.05))); 
+	-unico-centroid-texture:  url("assets/handle.vert.png");
+}
+
+.scrollbar.slider.horizontal { 
+	background-image: -gtk-gradient (linear,
+                                     left top, left bottom,
+                                     from (shade (#f6f6f6, 1.05)),
+                                     color-stop (0.50, shade (#ececed, 1.00)),
+                                     color-stop (0.51, shade (#dedee0, 1.00)),
+                                     to (shade (#c8c8cc, 1.05))); 
+
+	-unico-centroid-texture:  url("assets/handle.horiz.png");
+}
+
+.scrollbar.slider.horizontal:prelight,
+.scrollbar.slider.horizontal:hover {
+	background-image: -gtk-gradient (linear,
+                                     left top, left bottom,
+                                     from (#fdfeff),
+                                     color-stop (0.50, #d6eefb),
+                                     color-stop (0.51, shade (#9ccae3, 1.05)),
+                                     color-stop (0.99, #dbdddf),
+                                     to (#dbdddf));
+
+	-unico-inner-stroke-gradient: -gtk-gradient (linear,
+                    				left top, left bottom,
+                    				from (alpha (#3c7fb1, 0.92)),
+                    				to (alpha (#3c7fb1, 0.99)));
+} 
+
+.scrollbar.slider.vertical:prelight,
+.scrollbar.slider.vertical:hover {
+	background-image: -gtk-gradient (linear,
+                                     left top, right top,
+                                     from (#fdfeff),
+                                     color-stop (0.50, #d6eefb),
+                                     color-stop (0.51, shade (#9ccae3, 1.05)),
+                                     color-stop (0.99, #dbdddf),
+                                     to (#dbdddf));
+
+	-unico-inner-stroke-gradient: -gtk-gradient (linear,
+                    				left top, right top,
+                    				from (alpha (#3c7fb1, 0.92)),
+                    				to (alpha (#3c7fb1, 0.99)));
+} 
+
+/* overlay scrollbar */
+OsThumb,
+OsScrollbar {
+	color: @theme_fg_color;
+}
+
+OsThumb:selected,
+OsScrollbar:selected {
+	background-color: @selected_bg_color;
+}
+
+OsThumb:active,
+OsScrollbar:active {
+}
+
+OsThumb:insensitive,
+OsScrollbar:insensitive {
+}
+

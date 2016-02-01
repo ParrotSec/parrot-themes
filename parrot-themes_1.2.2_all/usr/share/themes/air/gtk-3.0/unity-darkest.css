@@ -1,0 +1,20 @@
+/* Unity */
+
+UnityPanelWidget,
+.unity-panel {
+	background-image: none;
+	background-color: @theme_fg_color;
+	color: @theme_base_color;
+	border-width: 0ps;
+}
+
+.unity-panel.menubar.menuitem:hover {
+	background-color: @menu_bg_color;
+	border-style: none;
+	border-width: 1px 1px 0px;
+	border-color: @core_color_a;
+	border-radius: 0px 0px 0px 0px
+	color: @theme_fg_color;
+	background-color: @theme_selected_bg_color; 	
+}
+

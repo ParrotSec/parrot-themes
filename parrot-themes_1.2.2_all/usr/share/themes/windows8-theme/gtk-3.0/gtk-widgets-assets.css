@@ -1,0 +1,365 @@
+/*************************
+ * Check and Radio items *
+ *************************/
+
+/* draw regular check and radio items using our SVG assets */
+
+.check {
+	background-image: url("assets/checkbox-unchecked.svg");
+}
+
+.check:prelight {
+	background-image: url("assets/checkbox-unchecked-prelight.svg");
+}
+
+.check:active {
+	background-image: url("assets/checkbox-checked.svg");
+}
+
+.check:active:prelight {
+	background-image: url("assets/checkbox-checked-prelight.svg");
+}
+
+.check:insensitive {
+	background-image: url("assets/checkbox-unchecked-insensitive.svg");
+}
+
+.check:active:insensitive {
+	background-image: url("assets/checkbox-checked-insensitive.svg");
+}
+
+.check:inconsistent {
+	background-image: url("assets/checkbox-mixed.svg");
+}
+
+.check:inconsistent:insensitive{
+	background-image: url("assets/checkbox-mixed-insensitive.svg");
+}
+
+.check row, 
+.check row:selected,
+.check row:selected:focused {
+	background-image: url("assets/checkbox-unchecked.svg");
+}
+
+.check row:prelight, 
+.check row:selected:prelight,
+.check row:selected:focused:prelight {
+	background-image: url("assets/checkbox-unchecked-prelight.svg");
+}
+
+.check row:active, 
+.check row:selected:active,
+.check row:selected:focused:active {
+	background-image: url("assets/checkbox-checked.svg");
+}
+
+.check row:active:prelight, 
+.check row:selected:active:prelight,
+.check row:selected:focused:active:prelight {
+	background-image: url("assets/checkbox-checked-prelight.svg");
+}
+
+.check row:insensitive,
+.check row:selected:insensitive,
+.check row:selected:focused:insensitive {
+	background-image: url("assets/checkbox-unchecked-insensitive.svg");
+}
+
+
+.check row:active:insensitive,
+.check row:selected:active:insensitive,
+.check row:selected:focused:active:insensitive {
+	background-image: url("assets/checkbox-checked-insensitive.svg");
+}
+
+.check row:inconsistent,
+.check row:selected:inconsistent,
+.check row:selected:focused:inconsistent {
+	background-image: url("assets/checkbox-mixed.svg");
+}
+
+.check row:inconsistent:insensitive,
+.check row:selected:inconsistent:insensitive,
+.check row:selected:focused:inconsistent:insensitive {
+	background-image: url("assets/checkbox-mixed-insensitive.svg");
+}
+
+.radio {
+	background-image: url("assets/radio-unselected.svg");
+}
+
+.radio:prelight {
+	background-image: url("assets/radio-unselected-prelight.svg");
+}
+
+.radio:active {
+	background-image: url("assets/radio-selected.svg");
+}
+
+.radio:active:prelight {
+	background-image: url("assets/radio-selected-prelight.svg");
+}
+
+.radio:insensitive {
+	background-image: url("assets/radio-unselected-insensitive.svg");
+}
+
+.radio:active:insensitive {
+	background-image: url("assets/radio-selected-insensitive.svg");
+}
+
+.radio:inconsistent {
+	background-image: url("assets/radio-mixed.svg");
+}
+
+.radio:inconsistent:insensitive {
+	background-image: url("assets/radio-mixed-insensitive.svg");
+}
+
+.radio row,
+.radio row:selected,
+.radio row:selected:focused {
+	background-image: url("assets/radio-unselected.svg");
+}
+
+.radio row:prelight,
+.radio row:selected:prelight,
+.radio row:selected:focused:prelight {
+	background-image: url("assets/radio-unselected-prelight.svg");
+}
+
+.radio row:active, 
+.radio row:selected:active,
+.radio row:selected:focused:active {
+	background-image: url("assets/radio-selected.svg");
+}
+
+.radio row:active:prelight, 
+.radio row:selected:active:prelight,
+.radio row:selected:focused:active:prelight {
+	background-image: url("assets/radio-selected-prelight.svg");
+}
+
+.radio row:insensitive,
+.radio row:selected:insensitive,
+.radio row:selected:focused:insensitive {
+	background-image: url("assets/radio-unselected-insensitive.svg");
+}
+
+.radio row:active:insensitive,
+.radio row:selected:active:insensitive,
+.radio row:selected:focused:active:insensitive {
+	background-image: url("assets/radio-selected-insensitive.svg");
+}
+
+.radio row:inconsistent,
+.radio row:selected:inconsistent,
+.radio row:selected:focused:inconsistent {
+	background-image: url("assets/radio-mixed.svg");
+}
+
+.radio row:inconsistent:insensitive,
+.radio row:selected:inconsistent:insensitive,
+.radio row:selected:focused:inconsistent:insensitive {
+	background-image: url("assets/radio-mixed-insensitive.svg");
+}
+
+.sidebar .radio:active,
+.sidebar .radio:active:focused,
+.sidebar .radio:active:prelight {
+	background-image: url("assets/sidebar-radio-checked.svg");
+}
+
+.sidebar .radio:prelight {
+	background-image: url("assets/sidebar-radio-prelight.svg");
+}
+
+.sidebar .radio:active:selected,
+.sidebar .radio:active:selected:focused {
+	background-image: url("assets/sidebar-radio-selected.svg");
+}
+
+.sidebar .radio:selected:prelight,
+.sidebar .radio:selected:focused {
+	background-image: url("assets/sidebar-radio-selected-prelight.svg");    
+}
+
+.primary-toolbar GtkComboBox.combobox-entry .button,
+GtkComboBox.combobox-entry .button,
+.primary-toolbar GtkComboBox.combobox-entry .button:nth-child(last),
+GtkComboBox.combobox-entry .button:nth-child(last) {
+
+}
+
+.primary-toolbar GtkComboBox.combobox-entry .button:active,
+.primary-toolbar GtkComboBox.combobox-entry .button:hover:active,
+GtkComboBox.combobox-entry .button:active,
+GtkComboBox.combobox-entry .button:hover:active,
+.primary-toolbar GtkComboBox.combobox-entry .button:active:nth-child(last),
+.primary-toolbar GtkComboBox.combobox-entry .button:hover:active:nth-child(last),
+GtkComboBox.combobox-entry .button:active:nth-child(last),
+GtkComboBox.combobox-entry .button:hover:active:nth-child(last) {
+   
+}
+
+/* for RTL languages */
+.primary-toolbar GtkComboBox.combobox-entry .button:nth-child(first),
+GtkComboBox.combobox-entry .button:nth-child(first) {
+	border-image: url("assets/entry-border-normal.svg") 2 / 2 0 2 2 stretch;
+}
+
+.primary-toolbar GtkComboBox.combobox-entry .button:active:nth-child(first),
+.primary-toolbar GtkComboBox.combobox-entry .button:hover:active:nth-child(first),
+GtkComboBox.combobox-entry .button:active:nth-child(first),
+GtkComboBox.combobox-entry .button:hover:active:nth-child(first) {
+	border-image: url("assets/combobox-entry-border-active.svg") 2 / 2 0 2 2 stretch;
+}
+
+GtkScale.trough,
+GtkScale.trough.horizontal {
+	border-image: url("assets/trough-border-horizontal.svg") 2 / 2 stretch;
+}
+
+GtkScale.trough.vertical {
+	border-image: url("assets/trough-border-vertical.svg") 2 / 2 stretch;
+}
+
+
+GtkScale.progressbar.horizontal {
+	border-image: url("assets/trough-active-border-horizontal.svg") 2 / 2 stretch;
+}
+
+GtkScale.progressbar.vertical {
+	border-image: url("assets/trough-active-border-vertical.svg") 2 / 2 stretch;
+}
+
+.progressbar,
+.entry.progressbar,
+.progressbar row,
+.progressbar row:hover,
+.progressbar row:selected,
+.progressbar row:selected:focused {
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 3px;    
+	-unico-border-gradient: -gtk-gradient (linear,
+							left top, left bottom,
+							from (shade (#80B8EA, 0.70)),
+							to (shade (#80B8EA, 0.60)));
+}
+
+.progressbar.vertical {
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 3px;    
+	-unico-border-gradient: -gtk-gradient (linear,
+							left top, left bottom,
+							from (shade (#80B8EA, 0.70)),
+							to (shade (#80B8EA, 0.60)));
+}
+
+GtkScale.slider,
+GtkScale.slider.horizontal,
+GtkScale.slider.horizontal:hover {
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 4px;
+	border-color: alpha (#003db8, 0.85);
+	/*background-image: url("assets/slider_vertical.png");*/
+	background-image: -gtk-gradient (linear,
+							left bottom, left top,
+							from (#ffffff),
+							color-stop (0.15, #bbc7e9),
+							color-stop (0.45, #003db8),
+							color-stop (0.15, #ffffff),
+							to (#ffffff));
+}
+
+
+
+GtkScale.slider.vertical,
+GtkScale.slider.vertical:hover {
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 4px;
+	border-color: alpha (#003db8, 0.85);
+	/*background-image: url("assets/slider.png");*/
+	background-image: -gtk-gradient (linear,
+							right top, left top,
+							from (#ffffff),
+							color-stop (0.15, #bbc7e9),
+							color-stop (0.45, #003db8),
+							color-stop (0.15, #ffffff),
+							to (#ffffff));
+}
+
+.button:active,
+.toolbar .button:active,
+.button:hover:active,
+.toolbar .button:hover:active {
+
+}
+
+.primary-toolbar .toolbar .button:active,
+.primary-toolbar.toolbar .button:active,
+.primary-toolbar .toolbar .button:active:hover,
+.primary-toolbar.toolbar .button:active:hover {
+
+}
+
+.toolbar .raised .button,
+.toolbar .raised.button {
+
+}
+
+/* nth-child for linked areas */
+.toolbar .raised.linked.button,
+.toolbar .raised.linked.button:active,
+.toolbar .raised.linked.button:active:hover,
+.toolbar .raised.linked .button,
+.toolbar .raised.linked .button:active,
+.toolbar .raised.linked .button:active:hover {
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 4px 0;
+    
+	-unico-border-gradient: -gtk-gradient (linear,
+                            left top, left bottom,
+                            from (shade (@button_border, 0.90)),
+                            to (shade (@button_border, 1.00)));
+}
+
+.toolbar .raised.linked.button:nth-child(first) ,
+.toolbar .raised.linked.button:active:nth-child(first),
+.toolbar .raised.linked.button:active:hover:nth-child(first),
+.toolbar .raised.linked:nth-child(first) .button,
+.toolbar .raised.linked:nth-child(first) .button:active,
+.toolbar .raised.linked:nth-child(first) .button:active:hover {
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 4px 0 4px 4px;
+    
+	-unico-border-gradient: -gtk-gradient (linear,
+                            left top, left bottom,
+                            from (shade (@button_border, 0.90)),
+                            to (shade (@button_border, 1.00)));
+
+}
+
+.toolbar .raised.linked.button:nth-child(last),
+.toolbar .raised.linked.button:active:nth-child(last),
+.toolbar .raised.linked.button:active:hover:nth-child(last),
+.toolbar .raised.linked:nth-child(last) .button,
+.toolbar .raised.linked:nth-child(last) .button:active,
+.toolbar .raised.linked:nth-child(last) .button:active:hover {
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 4px 4px 4px 0;
+    
+	-unico-border-gradient: -gtk-gradient (linear,
+                            left top, left bottom,
+                            from (shade (@button_border, 0.90)),
+                            to (shade (@button_border, 1.00)));
+
+}
