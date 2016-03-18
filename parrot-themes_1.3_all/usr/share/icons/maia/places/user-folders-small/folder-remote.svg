@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   id="svg4359"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="folder-network.svg">
+  <defs
+     id="defs4361">
+    <linearGradient
+       id="linearGradient4103">
+      <stop
+         style="stop-color:#bdecfb;stop-opacity:1"
+         offset="0"
+         id="stop4105" />
+      <stop
+         style="stop-color:#f5feff;stop-opacity:1"
+         offset="1"
+         id="stop4107" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4314">
+      <stop
+         style="stop-color:#ff4b00;stop-opacity:1"
+         offset="0"
+         id="stop4316" />
+      <stop
+         style="stop-color:#ff5500;stop-opacity:1"
+         offset="1"
+         id="stop4318" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5020-1">
+      <stop
+         id="stop5022-6"
+         offset="0"
+         style="stop-color:#0da8db;stop-opacity:1" />
+      <stop
+         id="stop5024-0"
+         offset="1"
+         style="stop-color:#1fe1fb;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#ffffff"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="23.53185"
+     inkscape:cx="8.4109005"
+     inkscape:cy="7.214719"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="-4"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     showguides="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:object-nodes="true"
+     inkscape:object-paths="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4105"
+       originx="-3px"
+       originy="-3px" />
+    <sodipodi:guide
+       position="0,16"
+       orientation="16,0"
+       id="guide4205" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,16"
+       id="guide4207" />
+    <sodipodi:guide
+       position="16,10"
+       orientation="-16,0"
+       id="guide4209" />
+    <sodipodi:guide
+       position="16,16"
+       orientation="0,-16"
+       id="guide4211" />
+    <sodipodi:guide
+       position="2,8"
+       orientation="12,0"
+       id="guide4213" />
+    <sodipodi:guide
+       position="15,15"
+       orientation="0,-12"
+       id="guide4219" />
+    <sodipodi:guide
+       position="15,1"
+       orientation="0,11.999984"
+       id="guide4225" />
+    <sodipodi:guide
+       position="14,11"
+       orientation="-6,0"
+       id="guide4227" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4364">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(-3,-29)">
+    <path
+       style="fill:#182128;fill-opacity:1;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 2 1 L 2 5 L 2 6 L 2 10 L 2 11 L 2 13 L 2 15 L 14 15 L 14 14 L 14 11 L 14 4 L 14 1 L 2 1 z M 12 2 A 1 1 0 0 1 13 3 A 1 1 0 0 1 12 4 A 1 1 0 0 1 11 3 A 1 1 0 0 1 12 2 z M 3 5 L 13 5 L 13 6 L 3 6 L 3 5 z M 12 7 A 1 1 0 0 1 13 8 A 1 1 0 0 1 12 9 A 1 1 0 0 1 11 8 A 1 1 0 0 1 12 7 z M 3 10 L 13 10 L 13 11 L 3 11 L 3 10 z M 12 12 A 1 1 0 0 1 13 13 A 1 1 0 0 1 12 14 A 1 1 0 0 1 11 13 A 1 1 0 0 1 12 12 z "
+       transform="translate(3,29)"
+       id="rect4163" />
+  </g>
+</svg>

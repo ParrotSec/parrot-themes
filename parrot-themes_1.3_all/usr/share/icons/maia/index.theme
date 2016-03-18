@@ -1,0 +1,149 @@
+[Icon Theme]
+Name=Maia
+Comment=Green colors icons for plasma desktop
+DisplayDepth=32
+
+Inherits=hicolor
+
+Example=folder
+
+DesktopDefault=48
+DesktopSizes=16,22,32,48,64,128,256
+ToolbarDefault=22
+ToolbarSizes=16,22,32,48
+MainToolbarDefault=22
+MainToolbarSizes=16,22,32,48
+SmallDefault=16
+SmallSizes=16,22,32,48
+PanelDefault=32
+PanelSizes=16,22,32,48,64,128,256
+DialogDefault=32
+DialogSizes=16,22,32,48,64,128,256
+
+Directories=actions/16,actions/22,actions/24,apps/scalable,categories/start-menu,categories/start-menu-medium,devices/hardware,devices/sidebars,emblems/scalable,emblems/small,mimetypes/file-types,places/user-folders,places/user-folders-small,status/im-status,status/toolbar,status/panel,status/dialogs,parrot-categories
+
+## Actions Start
+
+[actions/16]
+Size=16
+Context=Actions
+Type=Fixed
+
+[actions/22]
+Size=22
+Context=Actions
+Type=Fixed
+
+[actions/24]
+Size=24
+Context=Actions
+Type=Fixed
+
+## Actions End
+
+[apps/scalable]
+Size=512
+Context=Applications
+Type=Scalable
+MinSize=22
+MaxSize=512
+
+## Categories Start
+
+[categories/start-menu]
+Size=32
+Context=Categories
+Type=Fixed
+
+[categories/start-menu-medium]
+Size=22
+Context=Categories
+Type=Fixed
+
+## Categories End
+
+## Device Start
+
+[devices/hardware]
+Size=64
+Context=Devices
+Type=Scalable
+MinSize=32
+MaxSize=256
+
+[devices/sidebars]
+Size=16
+Context=Devices
+Type=Fixed
+
+## Device End
+
+## Emblems Start
+
+[emblems/scalable]
+Size=22
+Context=Emblems
+Type=Fixed
+
+[emblems/small]
+Size=8
+Context=Emblems
+Type=Fixed
+
+## Emblems End
+
+## Mimetypes Start
+
+[mimetypes/file-types]
+Size=64
+Context=MimeTypes
+Type=Scalable
+MinSize=32
+MaxSize=512
+
+## Mimetypes End
+
+## Places Start
+
+[places/user-folders]
+Size=512
+Context=Places
+Type=Scalable
+MinSize=32
+MaxSize=512
+
+[places/user-folders-small]
+Size=16
+Context=Places
+Type=Scalable
+Type=Fixed
+
+## Places End
+
+## Status Start
+
+[status/im-status]
+Size=16
+Context=Status
+Type=Fixed
+
+[status/toolbar]
+Size=22
+Context=Status
+Type=Fixed
+
+[status/panel]
+Size=22
+Context=Status
+Type=Fixed
+
+[status/dialogs]
+Size=64
+Context=Status
+Type=Fixed
+
+[parrot-categories]
+Size=22
+Context=Status
+Type=Scalable
+## Status End
