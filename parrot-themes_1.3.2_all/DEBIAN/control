@@ -1,11 +1,13 @@
 Package: parrot-themes
-Version: 1.3.1
+Version: 1.3.2
 Architecture: all
 Maintainer: Lorenzo EclipseSpark Faletra <eclipse@frozenbox.org>
 Installed-Size: 35600
 Depends: gtk2-engines
 Recommends: humanity-icon-theme, gtk2-engines-pixbuf, gtk2-engines-murrine
 Suggests: pwn-icon-theme, acvamarin-theme
+Includes: acvamarin-theme
+Replaces: acvamarin-theme
 Section: mate
 Priority: optional
 Description: frozenbox default themes
