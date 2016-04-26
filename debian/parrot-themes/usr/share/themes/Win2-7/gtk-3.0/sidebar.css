@@ -1,0 +1,82 @@
+/***********
+ * Sidebar *
+ ***********/
+
+.sidebar {
+	-GtkTreeView-horizontal-separator:	6;
+	-GtkTreeView-vertical-separator:	1;
+}
+
+.sidebar,
+.sidebar.view, 
+.sidebar .view {
+	border-radius:    	0;
+	background-color: 	@sidebar_background;	
+	color:      		shade(@theme_text_color, 0.80);
+	text-shadow: none;
+}
+
+.sidebar .view:prelight {
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 3px;
+	background-image: -gtk-gradient (linear,
+                    left top, left bottom,
+                    from (shade (#dffdff, 1.05)), to (shade (#c7e4ff, 1.05)));
+	border-color: shade (@theme_bg_color, 0.90);;
+	color: @theme_fg_color;    
+	text-shadow: none;
+}
+
+.sidebar .view:selected {
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 3px;
+	background-image: -gtk-gradient (linear,
+                    left top, left bottom,
+                    from (#dffdff), to (#c7e4ff));
+	border-color: shade (@theme_bg_color, 0.90);;
+	color: @theme_fg_color;    
+	text-shadow: none;
+}
+
+.sidebar .radio,
+.sidebar .radio:focused,
+.sidebar .radio:selected {
+	background-image: none;
+	background-color: alpha(@theme_base_color, 0.0);
+}
+
+GtkHCollapsablePaned,
+SourceList.pane-separator {
+	border-width:			0;
+	-GtkPaned-handle-size:	2;
+}
+
+GtkHCollapsablePaned.pane-separator,
+GtkHCollapsablePaned.pane-separator:prelight,
+GtkHCollapsablePaned.pane-separator:selected {
+	background-image: 	none;
+	background-color: 	@sidebar_background;
+	border-width: 		0 1px 0 0;
+	border-style: 		solid;
+	border-color: 		shade (@button_border, 0.90);
+	color:			@theme_fg_color;
+
+}
+
+/* Marlin sidebar separator */
+VarkaWidgetsHCollapsiblePaned,
+VarkaWidgetsHCollapsiblePaned.pane-separator,
+VarkaWidgetsHCollapsiblePaned.pane-separator:prelight,
+VarkaWidgetsHCollapsiblePaned.pane-separator:selected {
+	border-width:		0;
+	border-color:		shade(@sidebar_background, 0.80);
+	background-image: -gtk-gradient(linear,
+                                    left top, right top,
+                                    from(@sidebar_background),
+                                    color-stop(0.80, @sidebar_background),
+                                    color-stop(0.80, shade(@sidebar_background, 1.90)),
+                                    to(shade (@button_border, 0.20)));
+}
+

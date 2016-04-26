@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   id="svg3070"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="view-list-details.svg">
+  <defs
+     id="defs3072" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8.1508128"
+     inkscape:cx="2.7329116"
+     inkscape:cy="21.14339"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1280"
+     inkscape:window-height="670"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="9.0000117,39.000012"
+       orientation="30,0"
+       id="guide3268" />
+    <sodipodi:guide
+       position="9.0000117,9.0000118"
+       orientation="0,30"
+       id="guide3270" />
+    <sodipodi:guide
+       position="39.000012,9.0000118"
+       orientation="-30,0"
+       id="guide3272" />
+    <sodipodi:guide
+       position="39.000012,39.000012"
+       orientation="0,-30"
+       id="guide3274" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3075">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-424.57143,-522.6479)">
+    <rect
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3264"
+       width="30"
+       height="30"
+       x="433.57144"
+       y="531.64789" />
+    <rect
+       y="554.64789"
+       x="433.57144"
+       height="7"
+       width="7"
+       id="rect3276"
+       style="fill:#8c8c8c;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#8c8c8c;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3278"
+       width="7"
+       height="7"
+       x="433.57144"
+       y="531.64789" />
+    <rect
+       style="fill:#8c8c8c;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3280"
+       width="7"
+       height="7"
+       x="433.57144"
+       y="543.14789" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path3282"
+       sodipodi:cx="442.57007"
+       sodipodi:cy="535.14789"
+       sodipodi:rx="2.0013857"
+       sodipodi:ry="2.0000615"
+       d="m 444.57145,535.14789 c 0,1.1046 -0.89605,2.00006 -2.00138,2.00006 -1.10534,0 -2.00139,-0.89546 -2.00139,-2.00006 0,-1.10461 0.89605,-2.00006 2.00139,-2.00006 1.10533,0 2.00138,0.89545 2.00138,2.00006 z" />
+    <rect
+       y="533.14789"
+       x="444.57144"
+       height="4"
+       width="19.000002"
+       id="rect3284"
+       style="fill:#8c8c8c;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#8c8c8c;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3286"
+       width="19.000002"
+       height="4"
+       x="444.57144"
+       y="544.64789" />
+    <rect
+       y="556.14789"
+       x="444.57144"
+       height="4"
+       width="19.000002"
+       id="rect3271"
+       style="fill:#8c8c8c;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  </g>
+</svg>

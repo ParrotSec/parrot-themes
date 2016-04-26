@@ -1,0 +1,7 @@
+parrot-themes (2.0+parrot0) testing; urgency=medium
+
+  * Debianized and imported into parrot source tree
+  * maia-icon-theme updated to fix dark icons
+
+ -- Lorenzo "Palinuro" Faletra <eclipse@frozenbox.org>  Tue, 26 Apr 2016 01:19:38 +0200
+

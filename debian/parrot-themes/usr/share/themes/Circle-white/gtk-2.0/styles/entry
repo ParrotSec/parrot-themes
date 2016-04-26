@@ -1,0 +1,84 @@
+style "entry"			= "default"
+{
+  xthickness            			= 2
+  ythickness            			= 2
+  GtkWidget::interior_focus	= 0
+  base[NORMAL] = "#fafafa"
+  base[PRELIGHT] = "#fafafa"
+  base[SELECTED] = "#00aaff"
+  base[ACTIVE] = "#fafafa"
+  base[INSENSITIVE] = "#fafafa" 
+  text[NORMAL] = "#2e3436"
+  text[PRELIGHT] = "#2e3436"
+  text[SELECTED] = "#ffffff"
+  text[ACTIVE] = "#2e3436"
+  text[INSENSITIVE] = "#a2a2a2"
+ 
+  engine "pixmap"
+  {
+    image
+    {
+      function			= FOCUS
+      recolorable		= TRUE
+      file			= "Shadows/entry-shadow-in.png"
+      border			= { 6,6,6,6 }
+      stretch			= TRUE
+    }	
+ image
+    {
+      function			= BOX
+      recolorable		= TRUE
+	 shadow			= IN
+      state			= NORMAL
+      file			= "Shadows/entry-shadow-in.png"
+      border			= { 6,6,6,6 }
+      stretch			= TRUE
+    }	
+image
+    {
+      function			= BOX
+      recolorable		= TRUE
+	shadow			= OUT
+      state			= NORMAL
+      file			= "Shadows/text-entry.png"
+      border			= { 24,24,11,11 }
+      stretch			= TRUE
+    }  
+image
+    {
+      function			= BOX
+      recolorable		= TRUE
+	shadow			= OUT
+      state			= INSENSITIVE
+      file			= "Shadows/text-entry-inactive.png"
+      border			= { 24,24,11,11 }
+      stretch			= TRUE
+    }  
+  image
+   {
+     function			= SHADOW
+     detail			= "entry"
+     shadow			= IN
+     recolorable		= FALSE
+      state			= NORMAL
+     file			= "Shadows/text-entry.png"
+      border			= { 24,24,11,11 }
+     stretch			= TRUE
+    }
+  image
+   {
+     function			= SHADOW
+     detail			= "entry"
+     shadow			= IN
+     recolorable		= FALSE
+      state			= INSENSITIVE
+     file			= "Shadows/text-entry.png"
+      border			= { 24,24,11,11 }
+     stretch			= TRUE
+    }
+  }
+}
+
+class "GtkEntry"           		style "entry"
+class "GtkOldEditable" 			style "entry"
+class "GtkEditable" 			style "entry"

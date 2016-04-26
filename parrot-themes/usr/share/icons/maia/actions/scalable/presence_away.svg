@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   id="svg3760"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="kimproxyaway.svg">
+  <defs
+     id="defs3762" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.3631025"
+     inkscape:cx="18.092912"
+     inkscape:cy="28.048047"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="602"
+     inkscape:window-height="455"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       position="8.9999856,39.000012"
+       orientation="30,0"
+       id="guide3265" />
+    <sodipodi:guide
+       position="8.9999856,9.0000118"
+       orientation="0,30"
+       id="guide3267" />
+    <sodipodi:guide
+       position="38.999986,9.0000118"
+       orientation="-30,0"
+       id="guide3269" />
+    <sodipodi:guide
+       position="38.999986,39.000012"
+       orientation="0,-30"
+       id="guide3271" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3765">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-550.28572,-582.6479)">
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#ffdd55;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.80000000999999998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3017"
+       sodipodi:cx="23.493864"
+       sodipodi:cy="23.573839"
+       sodipodi:rx="15.426148"
+       sodipodi:ry="15.426148"
+       d="m 38.920012,23.573839 c 0,8.519627 -6.906521,15.426149 -15.426148,15.426149 -8.519626,0 -15.4261484,-6.906522 -15.4261484,-15.426149 0,-8.519626 6.9065224,-15.4261482 15.4261484,-15.4261482 8.519627,0 15.426148,6.9065222 15.426148,15.4261482 z"
+       transform="matrix(0.89121503,0,0,0.89121503,553.34764,585.63854)" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.80000001;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path2987"
+       sodipodi:cx="18.739153"
+       sodipodi:cy="20.87018"
+       sodipodi:rx="1.7713628"
+       sodipodi:ry="1.3984443"
+       d="m 20.510516,20.87018 a 1.7713628,1.3984443 0 1 1 -3.542726,0 1.7713628,1.3984443 0 1 1 3.542726,0 z"
+       transform="matrix(1,0,0,1.2,550.28572,578.19418)" />
+    <path
+       transform="matrix(1,0,0,1.2,560.28572,578.19418)"
+       d="m 20.510516,20.87018 a 1.7713628,1.3984443 0 1 1 -3.542726,0 1.7713628,1.3984443 0 1 1 3.542726,0 z"
+       sodipodi:ry="1.3984443"
+       sodipodi:rx="1.7713628"
+       sodipodi:cy="20.87018"
+       sodipodi:cx="18.739153"
+       id="path2989"
+       style="color:#000000;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.80000001;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc" />
+  </g>
+</svg>

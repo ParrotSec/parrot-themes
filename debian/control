@@ -1,0 +1,18 @@
+Source: parrot-themes
+Section: parrot
+Priority: optional
+Maintainer: Lorenzo "Palinuro" Faletra <palinuro@frozenbox.org>
+Uploaders: Lorenzo "Palinuro" Faletra <palinuro@frozenbox.org>,
+           Lisetta "Sheireen" Ferrero <sheireen@frozenbox.org>
+Standards-Version: 3.9.6
+Build-Depends: debhelper (>= 9)
+Build-Depends-Indep: pkg-config
+Homepage: http://www.parrotsec.org/
+
+Package: parrot-themes
+Architecture: all
+Priority: optional
+Depends: gtk2-engines
+Recommends: humanity-icon-theme, gtk2-engines-pixbuf, gtk2-engines-murrine
+Description: Parrot Security default themes and icons
+ This package contains the default themes and icons for Parrot Security OS
