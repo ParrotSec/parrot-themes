@@ -1,3 +1,9 @@
+parrot-themes (2.0+parrot1) testing; urgency=medium
+
+  * Fix conflicts with old versions of acvamarin-theme
+
+ -- Lisetta "Sheireen" Ferrero <sheireen@parrotsec.org>  Wed, 04 May 2016 02:39:07 +0400
+
 parrot-themes (2.0+parrot0) testing; urgency=medium
 
   * Debianized and imported into parrot source tree

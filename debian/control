@@ -14,5 +14,7 @@ Architecture: all
 Priority: optional
 Depends: gtk2-engines
 Recommends: humanity-icon-theme, gtk2-engines-pixbuf, gtk2-engines-murrine
+Replaces: acvamarin-theme
+Includes: acvamarin-theme
 Description: Parrot Security default themes and icons
  This package contains the default themes and icons for Parrot Security OS
