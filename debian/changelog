@@ -1,3 +1,9 @@
+parrot-themes (2.0+parrot2) testing; urgency=medium
+
+  * Remove gtk3 theme support waiting for it to be fixed
+
+ -- Lisetta "Sheireen" Ferrero <sheireen@autistiche.org>  Fri, 20 May 2016 19:16:28 +0400
+
 parrot-themes (2.0+parrot1) testing; urgency=medium
 
   * Fix conflicts with old versions of acvamarin-theme
