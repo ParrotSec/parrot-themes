@@ -1,6 +1,13 @@
+parrot-themes (2.2+parrot0) testing; urgency=medium
+
+  [Oscar Di Primio]
+  * Suggest most of the icon fixes
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Sun, 24 Jul 2016 04:05:13 +0200
+
 parrot-themes (2.1+parrot1) testing; urgency=medium
 
-  * Fix icon sized
+  * Fix icon sizes
   * Do minor icon fixes
 
  -- Lorenzo "Palinuro" Faletra <eclipse@parrotsec.org>  Fri, 3 Jun 2016 16:47:32 +0200

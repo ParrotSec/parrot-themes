@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Sun, 24 Jul 2016 04:05:13 +0200
+Source: parrot-themes
+Binary: parrot-themes
+Architecture: source all
+Version: 2.2+parrot0
+Distribution: testing
+Urgency: medium
+Maintainer: Lorenzo "Palinuro" Faletra <palinuro@frozenbox.org>
+Changed-By: Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>
+Description:
+ parrot-themes - Parrot Security default themes and icons
+Changes:
+ parrot-themes (2.2+parrot0) testing; urgency=medium
+ .
+   [Oscar Di Primio]
+   * Suggest most of the icon fixes
+Checksums-Sha1:
+ 63c36cc2fe3f7a03500022c58fe3b0cef918893c 773 parrot-themes_2.2+parrot0.dsc
+ 208fa23d3da3bbf27a2777d56ae4a692ee782d64 5197736 parrot-themes_2.2+parrot0.tar.xz
+ f2ca03cb65413d9aec11d96e87a815ad2cf45c33 3964708 parrot-themes_2.2+parrot0_all.deb
+Checksums-Sha256:
+ a3d8a0485544c423214eeb95cc7423de6f5d47639f4ad3f2542dba50132861eb 773 parrot-themes_2.2+parrot0.dsc
+ 6da19726138c64f01bc074ffa2796c75731211c5b30ee6b3df885d8e2f5d6e10 5197736 parrot-themes_2.2+parrot0.tar.xz
+ 401868063378057f03b99f35ba49ab5e8fd5d37224c3d386ab4a7d5ff02dd344 3964708 parrot-themes_2.2+parrot0_all.deb
+Files:
+ b600bfb6638c0a5ed82f5d1fa6a99353 773 parrot optional parrot-themes_2.2+parrot0.dsc
+ 3bccf392e2aa254d5beb2eb330087aea 5197736 parrot optional parrot-themes_2.2+parrot0.tar.xz
+ 5c7e8e6f50f9c0eca85bd37b4a0e7fa2 3964708 parrot optional parrot-themes_2.2+parrot0_all.deb
