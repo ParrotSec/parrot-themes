@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=ARK-Dark
+Comment=A flat theme with transparent elements
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=ARK-Dark
+MetacityTheme=ARK-Dark
+IconTheme=maia
+CursorTheme=Breeze
+ButtonLayout=close,maximize,minimize:menu,minimize,maximize,close

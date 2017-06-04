@@ -1,3 +1,11 @@
+parrot-themes (2.3+parrot0) testing; urgency=medium
+
+  * Import ARK themes
+  * Change Icy-Dark metacity theme
+  * Drop old Circle themes
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Sun, 04 Jun 2017 19:43:33 +0200
+
 parrot-themes (2.2+parrot0) testing; urgency=medium
 
   [Oscar Di Primio]
