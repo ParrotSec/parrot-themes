@@ -74,7 +74,7 @@ Type=Scalable
 MinSize=22
 MaxSize=256
 
-[devices/hardware]
+[devices/scalable]
 Size=64
 Context=Devices
 Type=Scalable
