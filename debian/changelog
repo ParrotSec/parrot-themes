@@ -1,3 +1,17 @@
+parrot-themes (2.4+parrot2) testing; urgency=medium
+
+  * Fix broken icons with spaces in names
+  * Rebuild icon cache.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Tue, 09 Jan 2018 03:13:52 +0100
+
+parrot-themes (2.4+parrot1) testing; urgency=medium
+
+  * Fix devices/scalable entry in maia icon theme.
+  * Change source package structure.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Thu, 28 Dec 2017 23:47:41 +0100
+
 parrot-themes (2.3+parrot1) testing; urgency=medium
 
   * Adjust metacity background color in icy-dark theme.
