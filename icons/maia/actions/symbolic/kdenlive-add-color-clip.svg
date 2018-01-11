@@ -13,10 +13,8 @@
    height="22"
    id="svg3760"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="kdenlive-add-color-clip.svg">
-  <defs
-     id="defs3762" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,7 +23,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="32.625"
-     inkscape:cx="7.0279055"
+     inkscape:cx="2.2769476"
      inkscape:cy="8.7143255"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -34,50 +32,52 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1885"
-     inkscape:window-height="1060"
-     inkscape:window-x="-2"
-     inkscape:window-y="-3"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      showguides="true"
      inkscape:snap-bbox="true">
     <sodipodi:guide
-       position="0,14"
+       id="guide4116"
        orientation="22,0"
-       id="guide4116" />
+       position="0,14" />
     <sodipodi:guide
-       position="4.1796875e-06,-2.6953124e-06"
+       id="guide4118"
        orientation="0,22"
-       id="guide4118" />
+       position="4.1796875e-06,-2.6953124e-06" />
     <sodipodi:guide
-       position="22.000004,-2.6953124e-06"
+       id="guide4120"
        orientation="-22,0"
-       id="guide4120" />
+       position="22.000004,-2.6953124e-06" />
     <sodipodi:guide
-       position="22.000004,21.999997"
+       id="guide4122"
        orientation="0,-22"
-       id="guide4122" />
+       position="22.000004,21.999997" />
     <sodipodi:guide
-       position="19,-33"
+       id="guide4124"
        orientation="18,0"
-       id="guide4124" />
+       position="19,-33" />
     <sodipodi:guide
-       position="3.0000042,18.999997"
+       id="guide4132"
        orientation="16,0"
-       id="guide4132" />
+       position="3.0000042,18.999997" />
     <sodipodi:guide
-       position="3.0000042,2.9999973"
+       id="guide4134"
        orientation="0,16"
-       id="guide4134" />
+       position="3.0000042,2.9999973" />
     <sodipodi:guide
-       position="19.000004,18.999997"
+       id="guide4138"
        orientation="0,-16"
-       id="guide4138" />
+       position="19.000004,18.999997" />
     <inkscape:grid
-       type="xygrid"
-       id="grid4140" />
+       id="grid4140"
+       type="xygrid" />
   </sodipodi:namedview>
+  <defs
+     id="defs3762" />
   <metadata
      id="metadata3765">
     <rdf:RDF>
@@ -86,19 +86,19 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
+     transform="translate(-553.72253,-583.11926)"
      id="layer1"
-     transform="translate(-553.72253,-583.11926)">
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1">
     <path
-       style="fill:#182128;fill-opacity:1;stroke:none"
-       d="M 3 3 L 3 17 L 3 18 L 3 19 L 19 19 L 19 18 L 19 17 L 19 3 L 3 3 z M 15.59375 8 C 16.0802 9.7025 17.28759 11.17195 17.8125 12.34375 C 17.99621 12.69215 18.09375 13.0773 18.09375 13.5 C 18.09375 14.885 16.97875 16 15.59375 16 C 14.20875 16 13.09375 14.885 13.09375 13.5 C 13.09375 13.0773 13.22255 12.69215 13.40625 12.34375 C 13.93118 11.17195 15.10729 9.7025 15.59375 8 z "
+       id="rect4151"
        transform="translate(553.72253,583.11926)"
-       id="rect4151" />
+       d="M 3 3 L 3 17 L 3 18 L 3 19 L 19 19 L 19 18 L 19 17 L 19 3 L 3 3 z M 15.59375 8 C 16.0802 9.7025 17.28759 11.17195 17.8125 12.34375 C 17.99621 12.69215 18.09375 13.0773 18.09375 13.5 C 18.09375 14.885 16.97875 16 15.59375 16 C 14.20875 16 13.09375 14.885 13.09375 13.5 C 13.09375 13.0773 13.22255 12.69215 13.40625 12.34375 C 13.93118 11.17195 15.10729 9.7025 15.59375 8 z "
+       style="fill:#e7ded7;fill-opacity:1;stroke:none" />
   </g>
 </svg>

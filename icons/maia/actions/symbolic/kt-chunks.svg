@@ -16,8 +16,6 @@
    inkscape:version="0.91 r13725"
    viewBox="0 0 22 22"
    sodipodi:docname="kt-chunks.svg">
-  <defs
-     id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,7 +24,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="32"
-     inkscape:cx="17.185373"
+     inkscape:cx="12.341623"
      inkscape:cy="10.885306"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -35,56 +33,58 @@
      borderlayer="true"
      inkscape:showpageshadow="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1021"
-     inkscape:window-x="-4"
-     inkscape:window-y="0"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:object-nodes="true"
      inkscape:snap-bbox="true">
     <sodipodi:guide
-       position="2,20.000017"
+       id="guide4066"
        orientation="18,0"
-       id="guide4066" />
+       position="2,20.000017" />
     <sodipodi:guide
-       position="2,2.0000174"
+       id="guide4068"
        orientation="0,18"
-       id="guide4068" />
+       position="2,2.0000174" />
     <sodipodi:guide
-       position="20,2.0000174"
+       id="guide4070"
        orientation="-18,0"
-       id="guide4070" />
+       position="20,2.0000174" />
     <sodipodi:guide
-       position="20,20.000017"
+       id="guide4072"
        orientation="0,-18"
-       id="guide4072" />
+       position="20,20.000017" />
     <sodipodi:guide
-       position="3,19.000017"
+       id="guide4074"
        orientation="16,0"
-       id="guide4074" />
+       position="3,19.000017" />
     <sodipodi:guide
-       position="3,3.0000174"
+       id="guide4076"
        orientation="0,16"
-       id="guide4076" />
+       position="3,3.0000174" />
     <sodipodi:guide
-       position="19,3.0000174"
+       id="guide4078"
        orientation="-16,0"
-       id="guide4078" />
+       position="19,3.0000174" />
     <sodipodi:guide
-       position="19,19.000017"
+       id="guide4080"
        orientation="0,-16"
-       id="guide4080" />
+       position="19,19.000017" />
     <inkscape:grid
-       type="xygrid"
-       id="grid4101" />
+       id="grid4101"
+       type="xygrid" />
     <sodipodi:guide
-       position="8,19.000017"
+       id="guide4124"
        orientation="0,-5"
-       id="guide4124" />
+       position="8,19.000017" />
     <sodipodi:guide
-       position="11,3.0000174"
+       id="guide4241"
        orientation="0,4"
-       id="guide4241" />
+       position="11,3.0000174" />
   </sodipodi:namedview>
+  <defs
+     id="defs4" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -93,47 +93,47 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
+     transform="translate(0,-1030.3622)"
      id="layer1"
-     transform="translate(0,-1030.3622)">
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1">
     <path
-       style="fill:#182128;fill-opacity:1;stroke:none"
-       d="M 3 3 L 3 19 L 19 19 L 19 3 L 3 3 z M 4 4 L 18 4 L 18 18 L 4 18 L 4 4 z "
+       id="rect4438"
        transform="translate(0,1030.3622)"
-       id="rect4438" />
+       d="M 3 3 L 3 19 L 19 19 L 19 3 L 3 3 z M 4 4 L 18 4 L 18 18 L 4 18 L 4 4 z "
+       style="fill:#e7ded7;fill-opacity:1;stroke:none" />
     <rect
-       style="fill:#182128;fill-opacity:1;stroke:none"
-       id="rect4443"
-       width="2"
-       height="14"
+       y="1034.3622"
        x="5"
-       y="1034.3622" />
-    <rect
-       style="fill:#182128;fill-opacity:1;stroke:none"
-       id="rect4445"
-       width="1"
        height="14"
-       x="9"
-       y="1034.3622" />
-    <rect
-       style="fill:#182128;fill-opacity:1;stroke:none"
-       id="rect4447"
        width="2"
-       height="14"
-       x="11"
-       y="1034.3622" />
+       id="rect4443"
+       style="fill:#e7ded7;fill-opacity:1;stroke:none" />
     <rect
-       style="fill:#182128;fill-opacity:1;stroke:none"
-       id="rect4449"
-       width="1"
+       y="1034.3622"
+       x="9"
        height="14"
+       width="1"
+       id="rect4445"
+       style="fill:#e7ded7;fill-opacity:1;stroke:none" />
+    <rect
+       y="1034.3622"
+       x="11"
+       height="14"
+       width="2"
+       id="rect4447"
+       style="fill:#e7ded7;fill-opacity:1;stroke:none" />
+    <rect
+       y="1034.3622"
        x="15"
-       y="1034.3622" />
+       height="14"
+       width="1"
+       id="rect4449"
+       style="fill:#e7ded7;fill-opacity:1;stroke:none" />
   </g>
 </svg>

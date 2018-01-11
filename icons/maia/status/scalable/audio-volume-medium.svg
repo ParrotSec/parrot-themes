@@ -1,35 +1,113 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48">
-<defs>
-<defs
-     id="defs5">
-  </defs>
-  <path
-     d="m 20.9375,6.40625 -12.15625,12.1875 -6.78125,0 0,10.8125 6.78125,0 12.15625,12.1875 0,-35.1875 z M 33.71875,9.5 31.8125,11.40625 c 3.297159,3.197407 5.375,7.641617 5.375,12.59375 0,4.952132 -2.077841,9.396342 -5.375,12.59375 L 33.71875,38.5 C 37.504944,34.812727 39.875002,29.698409 39.875,24 39.874999,18.301591 37.504944,13.187272 33.71875,9.5 z M 28,15.21875 l -1.9375,1.9375 c 1.825264,1.726705 3,4.134768 3,6.84375 -1e-6,2.708981 -1.174736,5.117045 -3,6.84375 L 28,32.78125 C 30.317236,30.564022 31.78125,27.457902 31.78125,24 31.781249,20.542098 30.317237,17.435978 28,15.21875 z"
-     id="path-main"
-      />
-</defs>
-<acyl-settings>
-<linearGradient
-     id="linearGradient4321">
-    <stop
-       style="stop-color:#00F6FF;stop-opacity:1.0;"
-       offset="0.0"
-       id="stop1" />
-    <stop
-       style="stop-color:#00F6FF;stop-opacity:1.0;"
-       offset="1.0"
-       id="stop2" />
-  </linearGradient>
-<linearGradient
-     inkscape:collect="always"
-     xlink:href="#linearGradient4321"
-     id="acyl_gradient"
-     x1="91.0%"
-     y1="22.0%"
-     x2="88.0%"
-     y2="82.0%" />
-<filter>
-    </filter>
-<use id="1" style="fill:url(#acyl_gradient);filter:url(#filter1111)" xlink:href="#path-main" />
-</acyl-settings>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   id="svg3760"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="audio-volume-medium.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#ffffff"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.627417"
+     inkscape:cx="9.7341051"
+     inkscape:cy="10.808961"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="false"
+     showguides="true">
+    <inkscape:grid
+       originy="-1.0000252px"
+       originx="-0.99998557px"
+       id="grid4106"
+       type="xygrid" />
+    <sodipodi:guide
+       id="guide4229"
+       orientation="0,18"
+       position="2.00001,19.99997" />
+    <sodipodi:guide
+       id="guide4231"
+       orientation="18,0"
+       position="20.00001,19.99997" />
+    <sodipodi:guide
+       id="guide4233"
+       orientation="0,-18"
+       position="20.00001,1.99997" />
+    <sodipodi:guide
+       id="guide4235"
+       orientation="-18,0"
+       position="2.00001,1.99997" />
+    <sodipodi:guide
+       id="guide4241"
+       orientation="0,-16"
+       position="19.00001,2.99997" />
+    <sodipodi:guide
+       id="guide4155"
+       orientation="6,0"
+       position="2.9999956,18.999992" />
+    <sodipodi:guide
+       id="guide4167"
+       orientation="-6,0"
+       position="18.999996,12.999992" />
+    <sodipodi:guide
+       id="guide4169"
+       orientation="0,-6"
+       position="18.999996,18.999992" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3762" />
+  <metadata
+     id="metadata3765">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-551.28571,-607.64788)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1">
+    <path
+       id="path4151"
+       transform="translate(551.28571,607.64788)"
+       d="M 10.988281 3 L 6 6.9960938 L 6 8 L 6 15 L 6 15.003906 L 10.988281 19 L 11 19 L 12 19 L 12 18.529297 L 12 3.4707031 L 12 3 L 11 3 L 10.988281 3 z M 11 4.2714844 L 11 17.728516 L 7 14.523438 L 7 7.4765625 L 11 4.2714844 z M 3 8 L 3 14 L 5 14 L 5 8 L 3 8 z "
+       style="opacity:1;fill:#e7ded7;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455" />
+    <path
+       id="path4147"
+       d="m 568.31501,612.07757 -0.77149,0.63086 a 11.000019,11 0 0 1 1.74219,5.93945 11.000019,11 0 0 1 -1.75,5.93164 l 0.7832,0.64258 a 12.000019,11.999998 0 0 0 1.9668,-6.57422 12.000019,11.999998 0 0 0 -1.9707,-6.57031 z"
+       style="opacity:0.5;fill:#e7ded7;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455" />
+    <path
+       id="path4145"
+       d="m 565.97516,613.99358 -0.78125,0.63867 a 8.000012,7.9999986 0 0 1 1.0918,4.01563 8.000012,7.9999986 0 0 1 -1.08984,4.01758 l 0.78125,0.64062 a 9.0000135,8.9999984 0 0 0 1.30859,-4.6582 9.0000135,8.9999984 0 0 0 -1.31055,-4.6543 z"
+       style="opacity:1;fill:#e7ded7;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455" />
+  </g>
 </svg>

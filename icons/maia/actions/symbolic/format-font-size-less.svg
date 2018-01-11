@@ -13,11 +13,9 @@
    height="22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.91 r13725"
    viewBox="0 0 22 22"
    sodipodi:docname="format-font-size-less.svg">
-  <defs
-     id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,63 +24,65 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16.785514"
-     inkscape:cx="3.3858439"
+     inkscape:cx="-5.8483088"
      inkscape:cy="12.017712"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="670"
-     inkscape:window-x="-4"
-     inkscape:window-y="29"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      showguides="true">
     <inkscape:grid
-       type="xygrid"
-       id="grid4120" />
+       id="grid4120"
+       type="xygrid" />
     <sodipodi:guide
-       position="2,20.000017"
+       id="guide4126"
        orientation="18,0"
-       id="guide4126" />
+       position="2,20.000017" />
     <sodipodi:guide
-       position="2,2.0000174"
+       id="guide4128"
        orientation="0,18"
-       id="guide4128" />
+       position="2,2.0000174" />
     <sodipodi:guide
-       position="20,2.0000174"
+       id="guide4130"
        orientation="-18,0"
-       id="guide4130" />
+       position="20,2.0000174" />
     <sodipodi:guide
-       position="20,20.000017"
+       id="guide4132"
        orientation="0,-18"
-       id="guide4132" />
+       position="20,20.000017" />
     <sodipodi:guide
-       position="3,19.000017"
+       id="guide4134"
        orientation="16,0"
-       id="guide4134" />
+       position="3,19.000017" />
     <sodipodi:guide
-       position="3,3.0000174"
+       id="guide4136"
        orientation="0,16"
-       id="guide4136" />
+       position="3,3.0000174" />
     <sodipodi:guide
-       position="19,3.0000174"
+       id="guide4138"
        orientation="-16,0"
-       id="guide4138" />
+       position="19,3.0000174" />
     <sodipodi:guide
-       position="19,19.000017"
+       id="guide4140"
        orientation="0,-16"
-       id="guide4140" />
+       position="19,19.000017" />
     <sodipodi:guide
-       position="19,13.000017"
+       id="guide4199"
        orientation="-6,0"
-       id="guide4199" />
+       position="19,13.000017" />
     <sodipodi:guide
-       position="19,19.000017"
+       id="guide4201"
        orientation="0,-6.0000172"
-       id="guide4201" />
+       position="19,19.000017" />
   </sodipodi:namedview>
+  <defs
+     id="defs4" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -96,15 +96,15 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
+     transform="translate(0,-1030.3622)"
      id="layer1"
-     transform="translate(0,-1030.3622)">
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1">
     <path
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:Oxygen;-inkscape-font-specification:Oxygen;letter-spacing:0px;word-spacing:0px;fill:#182128;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 8.216797,1033.3622 -5.216797,14 1.6875,0 1.667969,-4.4297 5.5625,0 0.148437,0.4297 1.666016,0 -3.521484,-10 z m 1.015625,1.6113 2.128906,6.6739 -4.488281,0 z M 15.5,1049.3622 15.292969,1049.1552 12,1045.8622 l 0.707031,-0.707 2.292969,2.2929 0,-4.2929 1,0 0,4.2929 2.292969,-2.2929 0.707031,0.707 -3.292969,3.293 z"
-       id="path4149"
+       sodipodi:nodetypes="ccccccccccccccccccccccccc"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccccccccc" />
+       id="path4149"
+       d="m 8.216797,1033.3622 -5.216797,14 1.6875,0 1.667969,-4.4297 5.5625,0 0.148437,0.4297 1.666016,0 -3.521484,-10 z m 1.015625,1.6113 2.128906,6.6739 -4.488281,0 z M 15.5,1049.3622 15.292969,1049.1552 12,1045.8622 l 0.707031,-0.707 2.292969,2.2929 0,-4.2929 1,0 0,4.2929 2.292969,-2.2929 0.707031,0.707 -3.292969,3.293 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:Oxygen;-inkscape-font-specification:Oxygen;letter-spacing:0px;word-spacing:0px;fill:#e7ded7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>

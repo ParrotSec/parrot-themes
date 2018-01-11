@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=Maia
-Comment=Green colors icons for plasma desktop
+Comment=Green colors icons for Parrot OS
 DisplayDepth=32
 
 Inherits=hicolor
@@ -20,7 +20,7 @@ PanelSizes=16,22,32,48,64,128,256
 DialogDefault=32
 DialogSizes=16,22,32,48,64,128,256
 
-Directories=parrot-categories,places/user-folders,places/user-folders-small,apps/scalable,actions/scalable,actions/symbolic,categories/scalable,categories/start-menu,devices/hardware,devices/scalable,devices/symbolic,emblems/scalable,emblems/small,mimetypes/file-types,status/scalable,status/small
+Directories=actions/scalable,actions/symbolic,apps/scalable,categories/scalable,categories/start-menu,devices/hardware,devices/scalable,devices/symbolic,emblems/scalable,emblems/small,mimetypes/file-types,parrot-categories,places/user-folders,places/user-folders-small,status/scalable,status/small
 
 ## Actions Start
 
@@ -28,76 +28,69 @@ Directories=parrot-categories,places/user-folders,places/user-folders-small,apps
 Size=48
 Context=Actions
 Type=Scalable
-MinSize=16
+MinSize=22
 MaxSize=512
 
 [actions/symbolic]
-Size=24
+Size=22
 Context=Actions
 Type=Scalable
-MinSize=16
-MaxSize=512
+MinSize=8
+MaxSize=22
 
 ## Actions End
 
 [apps/scalable]
-Size=512
+Size=48
 Context=Applications
 Type=Scalable
-MinSize=22
+MinSize=16
 MaxSize=512
 
 ## Categories Start
 
 [categories/start-menu]
-Size=32
+Size=256
 Context=Categories
 Type=Scalable
 MinSize=16
 MaxSize=512
 
 [categories/scalable]
-Size=22
+Size=16
 Context=Categories
 Type=Scalable
-MinSize=16
-MaxSize=512
+MinSize=8
+MaxSize=32
 
 ## Categories End
 
 ## Device Start
 
 [devices/hardware]
-Size=64
+Size=512
 Context=Devices
 Type=Scalable
 MinSize=22
-MaxSize=256
+MaxSize=512
 
 [devices/scalable]
-Size=64
+Size=256
 Context=Devices
 Type=Scalable
-MinSize=22
-MaxSize=256
-
-[devices/symbolic]
-Size=16
-Context=Devices
-Type=Scalable
-MinSize=12
-MaxSize=32
+MinSize=8
+MaxSize=512
 
 ## Device End
 
 ## Emblems Start
 
 [emblems/scalable]
-Size=48
+Size=22
 Context=Emblems
 Type=Scalable
 MinSize=16
-MaxSize=512
+MaxSize=64
 
 [emblems/small]
 Size=8
@@ -111,7 +104,7 @@ MaxSize=32
 ## Mimetypes Start
 
 [mimetypes/file-types]
-Size=64
+Size=256
 Context=MimeTypes
 Type=Scalable
 MinSize=16
@@ -125,13 +118,15 @@ MaxSize=512
 Size=512
 Context=Places
 Type=Scalable
-MinSize=22
+MinSize=24
 MaxSize=512
 
 [places/user-folders-small]
 Size=16
 Context=Places
-Type=Fixed
+Type=Scalable
+MinSize=8
+MaxSize=24
 
 ## Places End
 
@@ -141,21 +136,21 @@ Type=Fixed
 Size=48
 Context=Status
 Type=Scalable
-MinSize=22
+MinSize=32
 MaxSize=512
 
 [status/small]
 Size=16
 Context=Status
 Type=Scalable
-MinSize=12
+MinSize=8
 MaxSize=32
-
+## Status End
 
 [parrot-categories]
-Size=22
-Context=Status
+Size=50
+Context=Categories
 Type=Scalable
 MinSize=12
-MaxSize=512
-## Status End
+MaxSize=128
+

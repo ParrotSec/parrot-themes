@@ -9,88 +9,103 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   id="svg2"
    version="1.1"
-   width="16"
-   height="16"
-   id="svg7384"
-   inkscape:version="0.48+devel r12662"
-   sodipodi:docname="view-list-details-symbolic.svg">
+   inkscape:version="0.91 r13725"
+   viewBox="0 0 22 22"
+   sodipodi:docname="format-list-unordered.svg">
   <sodipodi:namedview
+     id="base"
      pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
+     bordercolor="#ffffff"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="714"
-     id="namedview7"
-     showgrid="false"
-     inkscape:zoom="10.600649"
-     inkscape:cx="12.06053"
-     inkscape:cy="6.5926127"
+     inkscape:zoom="25.647899"
+     inkscape:cx="6.946519"
+     inkscape:cy="10.833098"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:showpageshadow="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg7384" />
-  <title
-     id="title9167">Gnome Symbolic Icon Theme</title>
+     showguides="true">
+    <inkscape:grid
+       id="grid4120"
+       type="xygrid" />
+    <sodipodi:guide
+       id="guide4126"
+       orientation="18,0"
+       position="2,20.000017" />
+    <sodipodi:guide
+       id="guide4128"
+       orientation="0,18"
+       position="2,2.0000174" />
+    <sodipodi:guide
+       id="guide4130"
+       orientation="-18,0"
+       position="20,2.0000174" />
+    <sodipodi:guide
+       id="guide4132"
+       orientation="0,-18"
+       position="20,20.000017" />
+    <sodipodi:guide
+       id="guide4134"
+       orientation="16,0"
+       position="3,19.000017" />
+    <sodipodi:guide
+       id="guide4136"
+       orientation="0,16"
+       position="3,3.0000174" />
+    <sodipodi:guide
+       id="guide4138"
+       orientation="-16,0"
+       position="19,3.0000174" />
+    <sodipodi:guide
+       id="guide4140"
+       orientation="0,-16"
+       position="19,19.000017" />
+    <sodipodi:guide
+       id="guide4199"
+       orientation="-6,0"
+       position="19,13.000017" />
+    <sodipodi:guide
+       id="guide4201"
+       orientation="0,-6.0000172"
+       position="19,19.000017" />
+  </sodipodi:namedview>
   <defs
-     id="defs11" />
+     id="defs4" />
   <metadata
-     id="metadata90">
+     id="metadata7">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <rect
-     y="11.200001"
-     x="1.9999988"
-     height="2.8000004"
-     width="2.8000004"
-     id="rect3276"
-     style="fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:none" />
-  <rect
-     style="fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:none"
-     id="rect3278"
-     width="2.8000004"
-     height="2.8000004"
-     x="1.9999988"
-     y="1.999999" />
-  <rect
-     style="fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:none"
-     id="rect3280"
-     width="2.8000004"
-     height="2.8000004"
-     x="1.9999988"
-     y="6.5999999" />
-  <rect
-     y="2.5999992"
-     x="6.3999996"
-     height="1.6000003"
-     width="7.6000018"
-     id="rect3284"
-     style="fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:none" />
-  <rect
-     style="fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:none"
-     id="rect3286"
-     width="7.6000018"
-     height="1.6000003"
-     x="6.3999996"
-     y="7.1999998" />
-  <rect
-     y="11.8"
-     x="6.3999996"
-     height="1.6000003"
-     width="7.6000018"
-     id="rect3271"
-     style="fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <g
+     transform="translate(0,-1030.3622)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1">
+    <path
+       sodipodi:nodetypes="sssssccccccccccsssssccccccccccsssssccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4174"
+       transform="translate(0,1030.3622)"
+       d="M 4,3 C 3.4477153,3 3,3.4477153 3,4 3,4.5522847 3.4477153,5 4,5 4.5522847,5 5,4.5522847 5,4 5,3.4477153 4.5522847,3 4,3 Z m 6,0 0,1 9,0 0,-1 z m 0,2 0,1 6,0 0,-1 z M 4,9 C 3.4477153,9 3,9.4477153 3,10 3,10.552285 3.4477153,11 4,11 4.5522847,11 5,10.552285 5,10 5,9.4477153 4.5522847,9 4,9 Z m 6,0 0,1 9,0 0,-1 z m 0,2 0,1 2,0 0,-1 z m -6,4 c -0.5522847,0 -1,0.447715 -1,1 0,0.552285 0.4477153,1 1,1 0.5522847,0 1,-0.447715 1,-1 0,-0.552285 -0.4477153,-1 -1,-1 z m 6,0 0,1 9,0 0,-1 z m 0,2 0,1 6,0 0,-1 z m 7,1 0,1 2,0 0,-1 z"
+       style="opacity:1;fill:#e7ded7;fill-opacity:1;stroke:none" />
+  </g>
 </svg>

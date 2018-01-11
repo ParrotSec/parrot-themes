@@ -13,10 +13,8 @@
    height="22"
    id="svg3869"
    version="1.1"
-   inkscape:version="0.48+devel r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="list-add-font.svg">
-  <defs
-     id="defs3871" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,7 +23,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16.826247"
-     inkscape:cx="6.7687295"
+     inkscape:cx="-2.4430692"
      inkscape:cy="15.66022"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -34,48 +32,50 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1366"
-     inkscape:window-height="666"
-     inkscape:window-x="-2"
-     inkscape:window-y="25"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false">
     <inkscape:grid
-       type="xygrid"
-       id="grid4132" />
+       id="grid4132"
+       type="xygrid" />
     <sodipodi:guide
-       position="2,20.000017"
+       id="guide4138"
        orientation="18,0"
-       id="guide4138" />
+       position="2,20.000017" />
     <sodipodi:guide
-       position="2,2.0000174"
+       id="guide4140"
        orientation="0,18"
-       id="guide4140" />
+       position="2,2.0000174" />
     <sodipodi:guide
-       position="20,2.0000174"
+       id="guide4142"
        orientation="-18,0"
-       id="guide4142" />
+       position="20,2.0000174" />
     <sodipodi:guide
-       position="20,20.000017"
+       id="guide4144"
        orientation="0,-18"
-       id="guide4144" />
+       position="20,20.000017" />
     <sodipodi:guide
-       position="3,19.000017"
+       id="guide4146"
        orientation="16,0"
-       id="guide4146" />
+       position="3,19.000017" />
     <sodipodi:guide
-       position="3,3.0000174"
+       id="guide4148"
        orientation="0,16"
-       id="guide4148" />
+       position="3,3.0000174" />
     <sodipodi:guide
-       position="19,3.0000174"
+       id="guide4150"
        orientation="-16,0"
-       id="guide4150" />
+       position="19,3.0000174" />
     <sodipodi:guide
-       position="19,19.000017"
+       id="guide4152"
        orientation="0,-16"
-       id="guide4152" />
+       position="19,19.000017" />
   </sodipodi:namedview>
+  <defs
+     id="defs3871" />
   <metadata
      id="metadata3874">
     <rdf:RDF>
@@ -89,14 +89,14 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
+     transform="translate(-326,-534.3622)"
      id="layer1"
-     transform="translate(-326,-534.3622)">
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1">
     <path
-       style="opacity:1;fill:#182128;fill-opacity:1;stroke:none"
-       d="M 3 3 L 3 19 L 5 19 L 5 12 L 12 12 L 12 10 L 5 10 L 5 5 L 15 5 L 15 3 L 5 3 L 3 3 z M 16 14 L 16 16 L 14 16 L 14 17 L 16 17 L 16 19 L 17 19 L 17 17 L 19 17 L 19 16 L 17 16 L 17 14 L 16 14 z "
+       id="rect4112"
        transform="translate(326,534.3622)"
-       id="rect4112" />
+       d="M 3 3 L 3 19 L 5 19 L 5 12 L 12 12 L 12 10 L 5 10 L 5 5 L 15 5 L 15 3 L 5 3 L 3 3 z M 16 14 L 16 16 L 14 16 L 14 17 L 16 17 L 16 19 L 17 19 L 17 17 L 19 17 L 19 16 L 17 16 L 17 14 L 16 14 z "
+       style="opacity:1;fill:#e7ded7;fill-opacity:1;stroke:none" />
   </g>
 </svg>

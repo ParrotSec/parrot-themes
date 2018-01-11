@@ -15,21 +15,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    viewBox="0 0 22 22"
-   sodipodi:docname="visible.svg">
-  <defs
-     id="defs4">
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath4160">
-      <rect
-         style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-opacity:1"
-         id="rect4162"
-         width="1"
-         height="1"
-         x="7"
-         y="1023.3622" />
-    </clipPath>
-  </defs>
+   sodipodi:docname="visibility.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -38,7 +24,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="36.363636"
-     inkscape:cx="13.769336"
+     inkscape:cx="9.506836"
      inkscape:cy="15.338604"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -46,57 +32,71 @@
      units="px"
      borderlayer="true"
      inkscape:showpageshadow="false"
-     inkscape:window-width="2560"
-     inkscape:window-height="1016"
-     inkscape:window-x="-4"
-     inkscape:window-y="35"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:object-nodes="true">
     <sodipodi:guide
-       position="2,20.000017"
+       id="guide4066"
        orientation="18,0"
-       id="guide4066" />
+       position="2,20.000017" />
     <sodipodi:guide
-       position="2,2.0000174"
+       id="guide4068"
        orientation="0,18"
-       id="guide4068" />
+       position="2,2.0000174" />
     <sodipodi:guide
-       position="20,2.0000174"
+       id="guide4070"
        orientation="-18,0"
-       id="guide4070" />
+       position="20,2.0000174" />
     <sodipodi:guide
-       position="20,20.000017"
+       id="guide4072"
        orientation="0,-18"
-       id="guide4072" />
+       position="20,20.000017" />
     <sodipodi:guide
-       position="3,19.000017"
+       id="guide4074"
        orientation="16,0"
-       id="guide4074" />
+       position="3,19.000017" />
     <sodipodi:guide
-       position="3,3.0000174"
+       id="guide4076"
        orientation="0,16"
-       id="guide4076" />
+       position="3,3.0000174" />
     <sodipodi:guide
-       position="19,3.0000174"
+       id="guide4078"
        orientation="-16,0"
-       id="guide4078" />
+       position="19,3.0000174" />
     <sodipodi:guide
-       position="19,19.000017"
+       id="guide4080"
        orientation="0,-16"
-       id="guide4080" />
+       position="19,19.000017" />
     <inkscape:grid
-       type="xygrid"
-       id="grid4101" />
+       id="grid4101"
+       type="xygrid" />
     <sodipodi:guide
-       position="8,19.000017"
+       id="guide4124"
        orientation="0,-5"
-       id="guide4124" />
+       position="8,19.000017" />
     <sodipodi:guide
-       position="11,3.0000174"
+       id="guide4241"
        orientation="0,4"
-       id="guide4241" />
+       position="11,3.0000174" />
   </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <clipPath
+       id="clipPath4160"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="1023.3622"
+         x="7"
+         height="1"
+         width="1"
+         id="rect4162"
+         style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-opacity:1" />
+    </clipPath>
+  </defs>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -110,14 +110,14 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
+     transform="translate(0,-1030.3622)"
      id="layer1"
-     transform="translate(0,-1030.3622)">
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1">
     <path
-       style="opacity:1;fill:#292f34;fill-opacity:1"
-       d="M 11 6 A 10 9.9999752 0 0 0 2.3144531 11.070312 C 2.4995619 11.36174 2.7600799 11.597238 3.0664062 11.759766 A 9 8.9999781 0 0 1 11 7 A 4 4 0 0 0 7 11 A 4 4 0 0 0 11 15 A 4 4 0 0 0 15 11 A 4 4 0 0 0 11.34375 7.0175781 A 9 8.9999781 0 0 1 18.931641 11.761719 C 19.241063 11.598077 19.503624 11.359295 19.689453 11.064453 A 10 9.9999752 0 0 0 11 6 z M 11 8 A 3 3 0 0 1 14 11 A 3 3 0 0 1 11 14 A 3 3 0 0 1 8 11 A 3 3 0 0 1 11 8 z M 11 9 C 9.892 9 9 9.892 9 11 C 9 12.108 9.892 13 11 13 C 12.108 13 13 12.108 13 11 C 13 10.79519 12.960983 10.601795 12.904297 10.416016 C 12.746415 10.759733 12.404317 11 12 11 C 11.446 11 11 10.554 11 10 C 11 9.5956829 11.240267 9.253585 11.583984 9.0957031 C 11.398205 9.0390166 11.20481 9 11 9 z "
+       id="rect4148"
        transform="translate(0,1030.3622)"
-       id="rect4148" />
+       d="M 11 6 A 10 9.9999752 0 0 0 2.3144531 11.070312 C 2.4995619 11.36174 2.7600799 11.597238 3.0664062 11.759766 A 9 8.9999781 0 0 1 11 7 A 4 4 0 0 0 7 11 A 4 4 0 0 0 11 15 A 4 4 0 0 0 15 11 A 4 4 0 0 0 11.34375 7.0175781 A 9 8.9999781 0 0 1 18.931641 11.761719 C 19.241063 11.598077 19.503624 11.359295 19.689453 11.064453 A 10 9.9999752 0 0 0 11 6 z M 11 8 A 3 3 0 0 1 14 11 A 3 3 0 0 1 11 14 A 3 3 0 0 1 8 11 A 3 3 0 0 1 11 8 z M 11 9 C 9.892 9 9 9.892 9 11 C 9 12.108 9.892 13 11 13 C 12.108 13 13 12.108 13 11 C 13 10.79519 12.960983 10.601795 12.904297 10.416016 C 12.746415 10.759733 12.404317 11 12 11 C 11.446 11 11 10.554 11 10 C 11 9.5956829 11.240267 9.253585 11.583984 9.0957031 C 11.398205 9.0390166 11.20481 9 11 9 z "
+       style="opacity:1;fill:#d6d0cb;fill-opacity:1" />
   </g>
 </svg>

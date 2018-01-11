@@ -16,8 +16,6 @@
    inkscape:version="0.91 r13725"
    viewBox="0 0 24 24"
    sodipodi:docname="tool-spray.svg">
-  <defs
-     id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,7 +24,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="33.683996"
-     inkscape:cx="8.8351784"
+     inkscape:cx="4.2335866"
      inkscape:cy="13.354899"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -34,9 +32,9 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1920"
-     inkscape:window-height="957"
-     inkscape:window-x="-4"
-     inkscape:window-y="0"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      units="px"
      fit-margin-top="0"
@@ -46,51 +44,53 @@
      inkscape:object-nodes="true"
      inkscape:snap-bbox="true">
     <sodipodi:guide
-       position="4,20"
+       id="guide4093"
        orientation="16,0"
-       id="guide4093" />
+       position="4,20" />
     <sodipodi:guide
-       position="4,4"
+       id="guide4095"
        orientation="0,16"
-       id="guide4095" />
+       position="4,4" />
     <sodipodi:guide
-       position="20,4"
+       id="guide4097"
        orientation="-16,0"
-       id="guide4097" />
+       position="20,4" />
     <sodipodi:guide
-       position="20,20"
+       id="guide4099"
        orientation="0,-16"
-       id="guide4099" />
+       position="20,20" />
     <inkscape:grid
-       type="xygrid"
-       id="grid4101"
+       originy="0.99998262px"
        originx="1px"
-       originy="0.99998262px" />
+       id="grid4101"
+       type="xygrid" />
     <sodipodi:guide
-       position="4,20"
+       id="guide4123"
        orientation="16,0"
-       id="guide4123" />
+       position="4,20" />
     <sodipodi:guide
-       position="4,4"
+       id="guide4125"
        orientation="0,2.000001"
-       id="guide4125" />
+       position="4,4" />
     <sodipodi:guide
-       position="6.000001,20"
+       id="guide4129"
        orientation="0,-2.000001"
-       id="guide4129" />
+       position="6.000001,20" />
     <sodipodi:guide
-       position="18,4"
+       id="guide4133"
        orientation="0,2"
-       id="guide4133" />
+       position="18,4" />
     <sodipodi:guide
-       position="20,4"
+       id="guide4135"
        orientation="-16,0"
-       id="guide4135" />
+       position="20,4" />
     <sodipodi:guide
-       position="20,20"
+       id="guide4137"
        orientation="0,-2"
-       id="guide4137" />
+       position="20,20" />
   </sodipodi:namedview>
+  <defs
+     id="defs4" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -99,58 +99,58 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
+     transform="translate(1,-1029.3622)"
      id="layer1"
-     transform="translate(1,-1029.3622)">
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1">
     <path
-       inkscape:connector-curvature="0"
-       style="fill:#292f34;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4149"
        d="m 15.499996,1034.3622 a 1.5,1.5 0 0 0 -1.5,1.5 l 0,1.5 -1,0 0,2 -1,0 0,10 7,0 0,-10 -1,0 0,-2 -1,0 0,-1.5 a 1.5,1.5 0 0 0 -1.5,-1.5 z"
-       id="rect4149" />
+       style="fill:#d6d0cb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
     <circle
-       style="fill:#292f34;fill-opacity:1;stroke:none"
+       r="1"
+       cy="1034.3622"
+       cx="8"
        id="path4160"
-       cx="8"
-       cy="1034.3622"
-       r="1" />
+       style="fill:#d6d0cb;fill-opacity:1;stroke:none" />
     <circle
-       style="fill:#292f34;fill-opacity:1;stroke:none"
+       r="1"
+       cy="1037.3622"
+       cx="8"
        id="path4162"
-       cx="8"
-       cy="1037.3622"
-       r="1" />
+       style="fill:#d6d0cb;fill-opacity:1;stroke:none" />
     <circle
-       style="fill:#292f34;fill-opacity:1;stroke:none"
-       id="path4164"
-       cx="12"
+       r="1"
        cy="1035.3622"
-       r="1" />
+       cx="12"
+       id="path4164"
+       style="fill:#d6d0cb;fill-opacity:1;stroke:none" />
     <ellipse
-       style="fill:#292f34;fill-opacity:1;stroke:none"
-       id="path4166"
-       cx="4"
-       cy="1034.3622"
+       ry="0.99999851"
        rx="1"
-       ry="0.99999851" />
-    <ellipse
-       style="fill:#292f34;fill-opacity:1;stroke:none"
-       id="path4168"
+       cy="1034.3622"
        cx="4"
+       id="path4166"
+       style="fill:#d6d0cb;fill-opacity:1;stroke:none" />
+    <ellipse
+       ry="1"
+       rx="0.99999791"
        cy="1037.3622"
-       rx="0.99999791"
-       ry="1" />
-    <ellipse
-       style="fill:#292f34;fill-opacity:1;stroke:none"
-       id="path4170"
        cx="4"
-       cy="1040.3622"
+       id="path4168"
+       style="fill:#d6d0cb;fill-opacity:1;stroke:none" />
+    <ellipse
+       ry="1"
        rx="0.99999791"
-       ry="1" />
+       cy="1040.3622"
+       cx="4"
+       id="path4170"
+       style="fill:#d6d0cb;fill-opacity:1;stroke:none" />
   </g>
 </svg>

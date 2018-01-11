@@ -16,8 +16,6 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="edit-select-none.svg"
    viewBox="0 0 22 22">
-  <defs
-     id="defs3817" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,7 +24,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="25.930187"
-     inkscape:cx="8.5241484"
+     inkscape:cx="2.5465594"
      inkscape:cy="12.509525"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -36,50 +34,52 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1021"
-     inkscape:window-x="-4"
-     inkscape:window-y="0"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="false"
      inkscape:snap-bbox="false"
      inkscape:object-nodes="true">
     <sodipodi:guide
-       position="2.0000044,19.999979"
+       id="guide3338"
        orientation="18,0"
-       id="guide3338" />
+       position="2.0000044,19.999979" />
     <sodipodi:guide
-       position="2.0000044,1.9999785"
+       id="guide3340"
        orientation="0,18"
-       id="guide3340" />
+       position="2.0000044,1.9999785" />
     <sodipodi:guide
-       position="20.000004,1.9999785"
+       id="guide3342"
        orientation="-18,0"
-       id="guide3342" />
+       position="20.000004,1.9999785" />
     <sodipodi:guide
-       position="20.000004,19.999979"
+       id="guide3344"
        orientation="0,-18"
-       id="guide3344" />
+       position="20.000004,19.999979" />
     <sodipodi:guide
-       position="3.0000044,18.999979"
+       id="guide3346"
        orientation="16,0"
-       id="guide3346" />
+       position="3.0000044,18.999979" />
     <sodipodi:guide
-       position="3.0000044,2.9999785"
+       id="guide3348"
        orientation="0,16"
-       id="guide3348" />
+       position="3.0000044,2.9999785" />
     <sodipodi:guide
-       position="19.000004,2.9999785"
+       id="guide3350"
        orientation="-16,0"
-       id="guide3350" />
+       position="19.000004,2.9999785" />
     <sodipodi:guide
-       position="17,19"
+       id="guide3352"
        orientation="0,-16"
-       id="guide3352" />
+       position="17,19" />
     <inkscape:grid
-       type="xygrid"
-       id="grid3354" />
+       id="grid3354"
+       type="xygrid" />
   </sodipodi:namedview>
+  <defs
+     id="defs3817" />
   <metadata
      id="metadata3820">
     <rdf:RDF>
@@ -88,24 +88,24 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
+     transform="translate(-461.71429,-525.79075)"
      id="layer1"
-     transform="translate(-461.71429,-525.79075)">
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1">
     <path
-       inkscape:connector-curvature="0"
-       id="rect4108-3"
+       style="opacity:1;fill:#d6d0cb;fill-opacity:1;stroke:none"
        d="m 464.71429,528.79075 0,1 0,3 1,0 0,-3 3,0 0,-1 -3,0 -1,0 z m 12,0 0,1 3,0 0,3 1,0 0,-4 -4,0 z m -10,2 0,5 5,0 0,-5 -5,0 z m 7,0 0,5 5,0 0,-5 -5,0 z m -6,1 3,0 0,3 -3,0 0,-3 z m 7,0 3,0 0,3 -3,0 0,-3 z m -8,6 0,5 5,0 0,-5 -5,0 z m 1,1 3,0 0,3 -3,0 0,-3 z m -3,2 0,4 1,0 3,0 0,-1 -3,0 0,-3 -1,0 z"
-       style="opacity:1;fill:#292f34;fill-opacity:1;stroke:none" />
+       id="rect4108-3"
+       inkscape:connector-curvature="0" />
     <path
-       inkscape:connector-curvature="0"
-       style="opacity:1;fill:#da4453;fill-opacity:1;stroke:none"
+       id="rect4126"
        d="m 475.70452,538.79075 -0.99023,0.99023 2.00976,2.00977 -2.00976,2.00977 0.99023,0.99023 2.00977,-2.00977 2.00976,2.00977 0.99024,-0.99023 -2.00977,-2.00977 2.00977,-2.00977 -0.99024,-0.99023 -2.00976,2.00977 -2.00977,-2.00977 z"
-       id="rect4126" />
+       style="opacity:1;fill:#da4453;fill-opacity:1;stroke:none"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

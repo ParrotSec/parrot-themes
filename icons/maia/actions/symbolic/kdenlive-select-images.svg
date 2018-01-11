@@ -13,10 +13,8 @@
    height="22"
    id="svg3760"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="kdenlive-zone-end.svg">
-  <defs
-     id="defs3762" />
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="kdenlive-select-images.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,7 +23,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="23.069359"
-     inkscape:cx="5.0435553"
+     inkscape:cx="-1.6753137"
      inkscape:cy="13.783463"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -34,50 +32,52 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1885"
-     inkscape:window-height="1060"
-     inkscape:window-x="-2"
-     inkscape:window-y="-3"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      showguides="true"
      inkscape:snap-bbox="true">
     <sodipodi:guide
-       position="0,14"
+       id="guide4116"
        orientation="22,0"
-       id="guide4116" />
+       position="0,14" />
     <sodipodi:guide
-       position="4.1796875e-06,-2.6953124e-06"
+       id="guide4118"
        orientation="0,22"
-       id="guide4118" />
+       position="4.1796875e-06,-2.6953124e-06" />
     <sodipodi:guide
-       position="22.000004,-2.6953124e-06"
+       id="guide4120"
        orientation="-22,0"
-       id="guide4120" />
+       position="22.000004,-2.6953124e-06" />
     <sodipodi:guide
-       position="22.000004,21.999997"
+       id="guide4122"
        orientation="0,-22"
-       id="guide4122" />
+       position="22.000004,21.999997" />
     <sodipodi:guide
-       position="19,-33"
+       id="guide4124"
        orientation="18,0"
-       id="guide4124" />
+       position="19,-33" />
     <sodipodi:guide
-       position="3.0000042,18.999997"
+       id="guide4132"
        orientation="16,0"
-       id="guide4132" />
+       position="3.0000042,18.999997" />
     <sodipodi:guide
-       position="3.0000042,2.9999973"
+       id="guide4134"
        orientation="0,16"
-       id="guide4134" />
+       position="3.0000042,2.9999973" />
     <sodipodi:guide
-       position="19.000004,18.999997"
+       id="guide4138"
        orientation="0,-16"
-       id="guide4138" />
+       position="19.000004,18.999997" />
     <inkscape:grid
-       type="xygrid"
-       id="grid4140" />
+       id="grid4140"
+       type="xygrid" />
   </sodipodi:namedview>
+  <defs
+     id="defs3762" />
   <metadata
      id="metadata3765">
     <rdf:RDF>
@@ -86,31 +86,31 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
+     transform="translate(-553.72253,-583.11926)"
      id="layer1"
-     transform="translate(-553.72253,-583.11926)">
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1">
     <g
-       transform="translate(0,3e-6)"
+       inkscape:label="Capa 1"
        id="layer1-8"
-       inkscape:label="Capa 1">
+       transform="translate(0,3e-6)">
       <path
-         sodipodi:nodetypes="ccccccccccccccccccccccsssss"
-         inkscape:connector-curvature="0"
-         id="rect4112-1"
-         transform="translate(552.72253,582.11926)"
+         style="fill:#e7ded7;fill-opacity:1;stroke:none"
          d="m 4,4 0,1 0,15 1,0 6,0 0,-1 0,-1 5,-5 0.5,-0.5 L 15,11 11,15 10,14 5.15625,18.84375 5,19 5,5 19,5 19,12 20,12 20,5 20,4 5,4 z M 8,6 C 6.892,6 6,6.892 6,8 6,9.108 6.892,10 8,10 9.108,10 10,9.108 10,8 10,6.892 9.108,6 8,6 z"
-         style="fill:#182128;fill-opacity:1;stroke:none" />
-      <path
+         transform="translate(552.72253,582.11926)"
+         id="rect4112-1"
          inkscape:connector-curvature="0"
-         id="rect4139-4"
+         sodipodi:nodetypes="ccccccccccccccccccccccsssss" />
+      <path
+         style="fill:#e7ded7;fill-opacity:1;stroke:none"
          d="m 570.72253,594.11926 -1,1 -5,5 0,1 0,1 2,0 0,-0.0312 1,-0.96875 4,-4 1,-1 -2,-2 z m -0.28125,1.6875 0.5625,0.59375 -4.96875,5 -0.59375,-0.59375 5,-5 z"
-         style="fill:#182128;fill-opacity:1;stroke:none" />
+         id="rect4139-4"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
 </svg>

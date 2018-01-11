@@ -13,10 +13,8 @@
    height="24"
    id="svg3813"
    version="1.1"
-   inkscape:version="0.91+devel r"
-   sodipodi:docname="lc_textdirectiontoptobottom.svg">
-  <defs
-     id="defs3815" />
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="format-text-direction-vertical.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,7 +23,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="23.979306"
-     inkscape:cx="11.016589"
+     inkscape:cx="4.5526822"
      inkscape:cy="13.407836"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -34,51 +32,53 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1366"
-     inkscape:window-height="670"
-     inkscape:window-x="-4"
-     inkscape:window-y="29"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:snap-bbox="true">
     <inkscape:grid
-       type="xygrid"
-       id="grid4109"
+       originy="1.0000071px"
        originx="0.99999278px"
-       originy="1.0000071px" />
+       id="grid4109"
+       type="xygrid" />
     <sodipodi:guide
-       position="3,21"
+       id="guide4115"
        orientation="18,0"
-       id="guide4115" />
+       position="3,21" />
     <sodipodi:guide
-       position="3,3"
+       id="guide4117"
        orientation="0,18"
-       id="guide4117" />
+       position="3,3" />
     <sodipodi:guide
-       position="21,3"
+       id="guide4119"
        orientation="-18,0"
-       id="guide4119" />
+       position="21,3" />
     <sodipodi:guide
-       position="21,21"
+       id="guide4121"
        orientation="0,-18"
-       id="guide4121" />
+       position="21,21" />
     <sodipodi:guide
-       position="4,20"
+       id="guide4123"
        orientation="16,0"
-       id="guide4123" />
+       position="4,20" />
     <sodipodi:guide
-       position="4,4"
+       id="guide4125"
        orientation="0,16"
-       id="guide4125" />
+       position="4,4" />
     <sodipodi:guide
-       position="20,4"
+       id="guide4127"
        orientation="-16,0"
-       id="guide4127" />
+       position="20,4" />
     <sodipodi:guide
-       position="20,20"
+       id="guide4129"
        orientation="0,-16"
-       id="guide4129" />
+       position="20,20" />
   </sodipodi:namedview>
+  <defs
+     id="defs3815" />
   <metadata
      id="metadata3818">
     <rdf:RDF>
@@ -92,14 +92,14 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
+     transform="translate(-377.85715,-539.07648)"
      id="layer1"
-     transform="translate(-377.85715,-539.07648)">
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1">
     <path
-       style="opacity:1;fill:#292f34;fill-opacity:1;stroke:none;stroke-opacity:1"
-       d="M 7.9433594 4 L 4 10.828125 L 4 11 L 5.0566406 11 L 6.2109375 9 L 10.789062 9 L 11.943359 11 L 13 11 L 13 10.828125 L 9.0566406 4 L 9 4 L 7.9433594 4 z M 16 4 L 16 17 L 17 17 L 17 4 L 16 4 z M 19 4 L 19 17 L 20 17 L 20 4 L 19 4 z M 8.5 5.0371094 L 10.210938 8 L 6.7890625 8 L 8.5 5.0371094 z M 4 12 L 4 17 L 5 17 L 5 12 L 4 12 z M 7 12 L 7 17 L 8 17 L 8 12 L 7 12 z M 10 12 L 10 17 L 11 17 L 11 12 L 10 12 z M 13 12 L 13 17 L 14 17 L 14 12 L 13 12 z M 4 18 L 6 20 L 8 18 L 4 18 z M 10 18 L 12 20 L 14 18 L 10 18 z M 16 18 L 18 20 L 20 18 L 16 18 z "
+       id="path4163"
        transform="translate(377.85715,539.07648)"
-       id="path4163" />
+       d="M 7.9433594 4 L 4 10.828125 L 4 11 L 5.0566406 11 L 6.2109375 9 L 10.789062 9 L 11.943359 11 L 13 11 L 13 10.828125 L 9.0566406 4 L 9 4 L 7.9433594 4 z M 16 4 L 16 17 L 17 17 L 17 4 L 16 4 z M 19 4 L 19 17 L 20 17 L 20 4 L 19 4 z M 8.5 5.0371094 L 10.210938 8 L 6.7890625 8 L 8.5 5.0371094 z M 4 12 L 4 17 L 5 17 L 5 12 L 4 12 z M 7 12 L 7 17 L 8 17 L 8 12 L 7 12 z M 10 12 L 10 17 L 11 17 L 11 12 L 10 12 z M 13 12 L 13 17 L 14 17 L 14 12 L 13 12 z M 4 18 L 6 20 L 8 18 L 4 18 z M 10 18 L 12 20 L 14 18 L 10 18 z M 16 18 L 18 20 L 20 18 L 16 18 z "
+       style="opacity:1;fill:#d6d0cb;fill-opacity:1;stroke:none;stroke-opacity:1" />
   </g>
 </svg>

@@ -13,37 +13,9 @@
    height="22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    viewBox="0 0 22 22"
-   sodipodi:docname="media_equalizer.svg">
-  <defs
-     id="defs4">
-    <linearGradient
-       id="linearGradient4290-48">
-      <stop
-         style="stop-color:#a5a5a5;stop-opacity:1;"
-         offset="0"
-         id="stop4292-0" />
-      <stop
-         style="stop-color:#f5f2f5;stop-opacity:1;"
-         offset="1"
-         id="stop4294-0" />
-    </linearGradient>
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 12 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="24 : 12 : 1"
-       inkscape:persp3d-origin="12 : 8 : 1"
-       id="perspective4146-9" />
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 12 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="24 : 12 : 1"
-       inkscape:persp3d-origin="12 : 8 : 1"
-       id="perspective4146" />
-  </defs>
+   sodipodi:docname="view-media-lyrics.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -52,7 +24,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627417"
-     inkscape:cx="2.3024999"
+     inkscape:cx="-4.547597"
      inkscape:cy="10.356527"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-4"
@@ -60,56 +32,84 @@
      units="px"
      borderlayer="true"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1864"
-     inkscape:window-height="1060"
-     inkscape:window-x="54"
-     inkscape:window-y="-3"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true">
     <sodipodi:guide
-       position="2,20.000017"
+       id="guide4066"
        orientation="18,0"
-       id="guide4066" />
+       position="2,20.000017" />
     <sodipodi:guide
-       position="2,2.0000174"
+       id="guide4068"
        orientation="0,18"
-       id="guide4068" />
+       position="2,2.0000174" />
     <sodipodi:guide
-       position="20,2.0000174"
+       id="guide4070"
        orientation="-18,0"
-       id="guide4070" />
+       position="20,2.0000174" />
     <sodipodi:guide
-       position="20,20.000017"
+       id="guide4072"
        orientation="0,-18"
-       id="guide4072" />
+       position="20,20.000017" />
     <sodipodi:guide
-       position="3,19.000017"
+       id="guide4074"
        orientation="16,0"
-       id="guide4074" />
+       position="3,19.000017" />
     <sodipodi:guide
-       position="3,3.0000174"
+       id="guide4076"
        orientation="0,16"
-       id="guide4076" />
+       position="3,3.0000174" />
     <sodipodi:guide
-       position="19,3.0000174"
+       id="guide4078"
        orientation="-16,0"
-       id="guide4078" />
+       position="19,3.0000174" />
     <sodipodi:guide
-       position="19,19.000017"
+       id="guide4080"
        orientation="0,-16"
-       id="guide4080" />
+       position="19,19.000017" />
     <inkscape:grid
-       type="xygrid"
-       id="grid4101" />
+       id="grid4101"
+       type="xygrid" />
     <sodipodi:guide
-       position="8,19.000017"
+       id="guide4124"
        orientation="0,-5"
-       id="guide4124" />
+       position="8,19.000017" />
     <sodipodi:guide
-       position="11,3.0000174"
+       id="guide4241"
        orientation="0,4"
-       id="guide4241" />
+       position="11,3.0000174" />
   </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4290-48">
+      <stop
+         id="stop4292-0"
+         offset="0"
+         style="stop-color:#a5a5a5;stop-opacity:1;" />
+      <stop
+         id="stop4294-0"
+         offset="1"
+         style="stop-color:#f5f2f5;stop-opacity:1;" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective4146-9"
+       inkscape:persp3d-origin="12 : 8 : 1"
+       inkscape:vp_z="24 : 12 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 12 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4146"
+       inkscape:persp3d-origin="12 : 8 : 1"
+       inkscape:vp_z="24 : 12 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 12 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -118,72 +118,72 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
+     transform="translate(0,-1030.3622)"
      id="layer1"
-     transform="translate(0,-1030.3622)">
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1">
     <g
-       id="layer1-4"
+       transform="matrix(0,1,-1,0,1052.3622,1030.3622)"
        inkscape:label="Capa 1"
-       transform="matrix(0,1,-1,0,1052.3622,1030.3622)">
+       id="layer1-4">
       <path
-         style="text-decoration:none;color:#000000;fill:#292f34;fill-opacity:1;fill-rule:nonzero;stroke:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 8.00003,1036.3622 1,0 5.5,0 c -0.3148,0.4182 -0.5,0.934 -0.5,1.5 0,1.385 1.115,2.5 2.5,2.5 1.385,0 2.5,-1.115 2.5,-2.5 0,-1.385 -1.115,-2.5 -2.5,-2.5 l -6.5,0 0,-2 c -1.108,0 -2,0.892 -2,2 l 0,1 z"
+         inkscape:connector-curvature="0"
          id="path4167"
-         inkscape:connector-curvature="0" />
+         d="m 8.00003,1036.3622 1,0 5.5,0 c -0.3148,0.4182 -0.5,0.934 -0.5,1.5 0,1.385 1.115,2.5 2.5,2.5 1.385,0 2.5,-1.115 2.5,-2.5 0,-1.385 -1.115,-2.5 -2.5,-2.5 l -6.5,0 0,-2 c -1.108,0 -2,0.892 -2,2 l 0,1 z"
+         style="text-decoration:none;color:#000000;fill:#d6d0cb;fill-opacity:1;fill-rule:nonzero;stroke:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <rect
-         style="color:#000000;fill:#292f34;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect3796"
-         width="16.000013"
-         height="1.00003"
-         x="-1049.3622"
+         transform="matrix(0,-1,1,0,0,0)"
          y="2.99997"
-         transform="matrix(0,-1,1,0,0,0)" />
-      <rect
-         style="color:#000000;fill:#292f34;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect3798"
-         width="10.999983"
-         height="1"
          x="-1049.3622"
-         y="9"
-         transform="matrix(0,-1,1,0,0,0)" />
-      <rect
-         style="color:#000000;fill:#292f34;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect3800"
-         width="8.9999828"
-         height="1"
-         x="-1049.3622"
-         y="12"
-         transform="matrix(0,-1,1,0,0,0)" />
-      <rect
-         style="color:#000000;fill:#292f34;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect3804"
-         width="6.9999828"
-         height="1"
-         x="-1049.3622"
-         y="15"
-         transform="matrix(0,-1,1,0,0,0)" />
-      <rect
-         style="color:#000000;fill:#292f34;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect3806"
-         width="6.9999828"
-         height="1"
-         x="-1049.3622"
-         y="18"
-         transform="matrix(0,-1,1,0,0,0)" />
-      <rect
-         style="color:#000000;fill:#292f34;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect3796-6"
-         width="8.9999828"
          height="1.00003"
+         width="16.000013"
+         id="rect3796"
+         style="color:#000000;fill:#d6d0cb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         y="9"
          x="-1049.3622"
+         height="1"
+         width="10.999983"
+         id="rect3798"
+         style="color:#000000;fill:#d6d0cb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         y="12"
+         x="-1049.3622"
+         height="1"
+         width="8.9999828"
+         id="rect3800"
+         style="color:#000000;fill:#d6d0cb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         y="15"
+         x="-1049.3622"
+         height="1"
+         width="6.9999828"
+         id="rect3804"
+         style="color:#000000;fill:#d6d0cb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         y="18"
+         x="-1049.3622"
+         height="1"
+         width="6.9999828"
+         id="rect3806"
+         style="color:#000000;fill:#d6d0cb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
          y="6"
-         transform="matrix(0,-1,1,0,0,0)" />
+         x="-1049.3622"
+         height="1.00003"
+         width="8.9999828"
+         id="rect3796-6"
+         style="color:#000000;fill:#d6d0cb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
   </g>
 </svg>

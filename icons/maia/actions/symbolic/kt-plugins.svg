@@ -16,8 +16,6 @@
    inkscape:version="0.91 r13725"
    viewBox="0 0 22 22"
    sodipodi:docname="kt-plugins.svg">
-  <defs
-     id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,7 +24,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627417"
-     inkscape:cx="5.0957488"
+     inkscape:cx="-1.7543481"
      inkscape:cy="10.576799"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -35,56 +33,58 @@
      borderlayer="true"
      inkscape:showpageshadow="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1021"
-     inkscape:window-x="-4"
-     inkscape:window-y="0"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:object-nodes="true"
      inkscape:snap-bbox="true">
     <sodipodi:guide
-       position="2,20.000017"
+       id="guide4066"
        orientation="18,0"
-       id="guide4066" />
+       position="2,20.000017" />
     <sodipodi:guide
-       position="2,2.0000174"
+       id="guide4068"
        orientation="0,18"
-       id="guide4068" />
+       position="2,2.0000174" />
     <sodipodi:guide
-       position="20,2.0000174"
+       id="guide4070"
        orientation="-18,0"
-       id="guide4070" />
+       position="20,2.0000174" />
     <sodipodi:guide
-       position="20,20.000017"
+       id="guide4072"
        orientation="0,-18"
-       id="guide4072" />
+       position="20,20.000017" />
     <sodipodi:guide
-       position="3,19.000017"
+       id="guide4074"
        orientation="16,0"
-       id="guide4074" />
+       position="3,19.000017" />
     <sodipodi:guide
-       position="3,3.0000174"
+       id="guide4076"
        orientation="0,16"
-       id="guide4076" />
+       position="3,3.0000174" />
     <sodipodi:guide
-       position="19,3.0000174"
+       id="guide4078"
        orientation="-16,0"
-       id="guide4078" />
+       position="19,3.0000174" />
     <sodipodi:guide
-       position="19,19.000017"
+       id="guide4080"
        orientation="0,-16"
-       id="guide4080" />
+       position="19,19.000017" />
     <inkscape:grid
-       type="xygrid"
-       id="grid4101" />
+       id="grid4101"
+       type="xygrid" />
     <sodipodi:guide
-       position="8,19.000017"
+       id="guide4124"
        orientation="0,-5"
-       id="guide4124" />
+       position="8,19.000017" />
     <sodipodi:guide
-       position="11,3.0000174"
+       id="guide4241"
        orientation="0,4"
-       id="guide4241" />
+       position="11,3.0000174" />
   </sodipodi:namedview>
+  <defs
+     id="defs4" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -93,24 +93,24 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
+     transform="translate(0,-1030.3622)"
      id="layer1"
-     transform="translate(0,-1030.3622)">
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1">
     <g
-       id="layer1-2"
-       inkscape:label="Capa 1">
+       inkscape:label="Capa 1"
+       id="layer1-2">
       <path
-         id="rect2992"
-         transform="translate(-1,1029.3622)"
+         inkscape:connector-curvature="0"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#e7ded7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
          d="M 6,5 6,7 4,7 4,19 20,19 20,7 18,7 18,5 14,5 14,7 10,7 10,5 6,5 Z"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#182128;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-         inkscape:connector-curvature="0" />
+         transform="translate(-1,1029.3622)"
+         id="rect2992" />
     </g>
   </g>
 </svg>

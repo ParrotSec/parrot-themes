@@ -13,11 +13,9 @@
    height="22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r"
+   inkscape:version="0.91 r13725"
    viewBox="0 0 22 22"
    sodipodi:docname="download-later.svg">
-  <defs
-     id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,56 +23,58 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="47.039865"
-     inkscape:cx="5.9253086"
-     inkscape:cy="8.0534388"
+     inkscape:zoom="16.631104"
+     inkscape:cx="-2.7174004"
+     inkscape:cy="9.9196396"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="668"
-     inkscape:window-x="-2"
-     inkscape:window-y="23"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      units="px">
     <sodipodi:guide
-       position="2,20.000017"
+       id="guide4085"
        orientation="18,0"
-       id="guide4085" />
+       position="2,20.000017" />
     <sodipodi:guide
-       position="2,2.0000174"
+       id="guide4087"
        orientation="0,18"
-       id="guide4087" />
+       position="2,2.0000174" />
     <sodipodi:guide
-       position="20,2.0000174"
+       id="guide4089"
        orientation="-18,0"
-       id="guide4089" />
+       position="20,2.0000174" />
     <sodipodi:guide
-       position="20,20.000017"
+       id="guide4091"
        orientation="0,-18"
-       id="guide4091" />
+       position="20,20.000017" />
     <sodipodi:guide
-       position="3,19.000017"
+       id="guide4093"
        orientation="16,0"
-       id="guide4093" />
+       position="3,19.000017" />
     <sodipodi:guide
-       position="3,3.0000174"
+       id="guide4095"
        orientation="0,16"
-       id="guide4095" />
+       position="3,3.0000174" />
     <sodipodi:guide
-       position="19,3.0000174"
+       id="guide4097"
        orientation="-16,0"
-       id="guide4097" />
+       position="19,3.0000174" />
     <sodipodi:guide
-       position="19,19.000017"
+       id="guide4099"
        orientation="0,-16"
-       id="guide4099" />
+       position="19,19.000017" />
     <inkscape:grid
-       type="xygrid"
-       id="grid4101" />
+       id="grid4101"
+       type="xygrid" />
   </sodipodi:namedview>
+  <defs
+     id="defs4" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -83,24 +83,24 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
+     transform="translate(0,-1030.3622)"
      id="layer1"
-     transform="translate(0,-1030.3622)">
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1">
     <path
-       inkscape:connector-curvature="0"
-       style="fill:#182128;fill-opacity:1;stroke:none"
+       id="rect4071"
        d="m 16.5,1049.5692 -0.207031,-0.207 -3.292969,-3.293 0.707031,-0.707 2.292969,2.2929 0,-4.2929 1,0 0,4.2929 2.292969,-2.2929 0.707031,0.707 -3.292969,3.293 -0.207031,0.207 z"
-       id="rect4071" />
+       style="fill:#e7ded7;fill-opacity:1;stroke:none"
+       inkscape:connector-curvature="0" />
     <path
-       style="opacity:1;fill:#182128;fill-opacity:1;stroke:none"
-       d="M 11 3 C 6.5680018 3 3 6.568 3 11 C 3 15.092537 6.0443284 18.441581 10 18.931641 L 10 17.921875 C 6.6006429 17.438059 4 14.537216 4 11 C 4 7.122 7.1220013 4 11 4 C 14.877999 4 18 7.122 18 11 C 18 11.340784 17.968487 11.672498 17.921875 12 L 18.931641 12 C 18.97229 11.67189 19 11.339463 19 11 C 19 6.568 15.431998 3 11 3 z M 10 5 L 10 12 L 16 12 L 16 11 L 11 11 L 11 5 L 10 5 z "
+       id="rect4131"
        transform="translate(0,1030.3622)"
-       id="rect4131" />
+       d="M 11 3 C 6.5680018 3 3 6.568 3 11 C 3 15.092537 6.0443284 18.441581 10 18.931641 L 10 17.921875 C 6.6006429 17.438059 4 14.537216 4 11 C 4 7.122 7.1220013 4 11 4 C 14.877999 4 18 7.122 18 11 C 18 11.340784 17.968487 11.672498 17.921875 12 L 18.931641 12 C 18.97229 11.67189 19 11.339463 19 11 C 19 6.568 15.431998 3 11 3 z M 10 5 L 10 12 L 16 12 L 16 11 L 11 11 L 11 5 L 10 5 z "
+       style="opacity:1;fill:#e7ded7;fill-opacity:1;stroke:none" />
   </g>
 </svg>

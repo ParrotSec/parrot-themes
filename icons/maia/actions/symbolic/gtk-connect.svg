@@ -13,10 +13,8 @@
    height="22"
    id="svg18109"
    version="1.1"
-   inkscape:version="0.48+devel r"
-   sodipodi:docname="network-connect.svg">
-  <defs
-     id="defs18111" />
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="gtk-connect.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,54 +23,56 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="25.109089"
-     inkscape:cx="11.472758"
+     inkscape:cx="5.2996945"
      inkscape:cy="11.992513"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="666"
-     inkscape:window-x="-2"
-     inkscape:window-y="25"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      showguides="true">
     <inkscape:grid
-       type="xygrid"
-       id="grid4122" />
+       id="grid4122"
+       type="xygrid" />
     <sodipodi:guide
-       position="3,3.0000174"
+       id="guide4126"
        orientation="-16,0"
-       id="guide4126" />
+       position="3,3.0000174" />
     <sodipodi:guide
-       position="3,19.000017"
+       id="guide4128"
        orientation="0,16"
-       id="guide4128" />
+       position="3,19.000017" />
     <sodipodi:guide
-       position="19,19.000017"
+       id="guide4130"
        orientation="16,0"
-       id="guide4130" />
+       position="19,19.000017" />
     <sodipodi:guide
-       position="19,3.0000174"
+       id="guide4132"
        orientation="0,-16"
-       id="guide4132" />
+       position="19,3.0000174" />
     <sodipodi:guide
-       position="2,2.0000174"
+       id="guide4134"
        orientation="-18,0"
-       id="guide4134" />
+       position="2,2.0000174" />
     <sodipodi:guide
-       position="2,20.000017"
+       id="guide4136"
        orientation="0,18"
-       id="guide4136" />
+       position="2,20.000017" />
     <sodipodi:guide
-       position="20,20.000017"
+       id="guide4138"
        orientation="18,0"
-       id="guide4138" />
+       position="20,20.000017" />
     <sodipodi:guide
-       position="20,2.0000174"
+       id="guide4140"
        orientation="0,-18"
-       id="guide4140" />
+       position="20,2.0000174" />
   </sodipodi:namedview>
+  <defs
+     id="defs18111" />
   <metadata
      id="metadata18114">
     <rdf:RDF>
@@ -86,22 +86,22 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
+     transform="translate(0,-1030.3622)"
      id="layer1"
-     transform="translate(0,-1030.3622)">
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1">
     <rect
-       style="opacity:1;fill:#182128;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455"
-       id="rect4149"
-       width="1"
-       height="21.627001"
-       x="743.63245"
+       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
        y="717.76263"
-       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" />
+       x="743.63245"
+       height="21.627001"
+       width="1"
+       id="rect4149"
+       style="opacity:1;fill:#e7ded7;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455" />
     <path
-       style="opacity:1;fill:#182128;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455"
-       d="M 13.292969 5 L 11.292969 7 L 8 10.292969 L 6 12.292969 L 9.7070312 16 L 11.707031 14 L 15 10.707031 L 17 8.7070312 L 13.292969 5 z "
+       id="rect4151"
        transform="translate(0,1030.3622)"
-       id="rect4151" />
+       d="M 13.292969 5 L 11.292969 7 L 8 10.292969 L 6 12.292969 L 9.7070312 16 L 11.707031 14 L 15 10.707031 L 17 8.7070312 L 13.292969 5 z "
+       style="opacity:1;fill:#e7ded7;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455" />
   </g>
 </svg>

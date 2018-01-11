@@ -13,10 +13,8 @@
    height="22"
    id="svg3760"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="cartesian-plot-two-axes-centered.svg">
-  <defs
-     id="defs3762" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,7 +23,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627417"
-     inkscape:cx="10.77734"
+     inkscape:cx="3.9272431"
      inkscape:cy="15.473977"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -34,52 +32,54 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1366"
-     inkscape:window-height="672"
-     inkscape:window-x="-4"
-     inkscape:window-y="25"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      showguides="true"
      inkscape:snap-bbox="true">
     <inkscape:grid
-       type="xygrid"
-       id="grid4106"
+       originy="-1.0000252px"
        originx="-0.99998557px"
-       originy="-1.0000252px" />
+       id="grid4106"
+       type="xygrid" />
     <sodipodi:guide
-       position="2.00001,19.99997"
+       id="guide4229"
        orientation="0,18"
-       id="guide4229" />
+       position="2.00001,19.99997" />
     <sodipodi:guide
-       position="20.00001,19.99997"
+       id="guide4231"
        orientation="18,0"
-       id="guide4231" />
+       position="20.00001,19.99997" />
     <sodipodi:guide
-       position="20.00001,1.99997"
+       id="guide4233"
        orientation="0,-18"
-       id="guide4233" />
+       position="20.00001,1.99997" />
     <sodipodi:guide
-       position="2.00001,1.99997"
+       id="guide4235"
        orientation="-18,0"
-       id="guide4235" />
+       position="2.00001,1.99997" />
     <sodipodi:guide
-       position="3.00001,18.99997"
+       id="guide4237"
        orientation="0,16"
-       id="guide4237" />
+       position="3.00001,18.99997" />
     <sodipodi:guide
-       position="19.00001,18.99997"
+       id="guide4239"
        orientation="16,0"
-       id="guide4239" />
+       position="19.00001,18.99997" />
     <sodipodi:guide
-       position="19.00001,2.99997"
+       id="guide4241"
        orientation="0,-16"
-       id="guide4241" />
+       position="19.00001,2.99997" />
     <sodipodi:guide
-       position="3.00001,2.99997"
+       id="guide4243"
        orientation="-16,0"
-       id="guide4243" />
+       position="3.00001,2.99997" />
   </sodipodi:namedview>
+  <defs
+     id="defs3762" />
   <metadata
      id="metadata3765">
     <rdf:RDF>
@@ -93,14 +93,14 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
+     transform="translate(-551.28571,-607.64788)"
      id="layer1"
-     transform="translate(-551.28571,-607.64788)">
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1">
     <path
-       style="fill:#182128;fill-opacity:1;stroke:none"
-       d="M 10.5 3 L 10.5 10.5 L 3 10.5 L 3 11.5 L 10.5 11.5 L 10.5 14.783203 L 6.9882812 18 L 3 18 L 3 19 L 7 19 L 7.3769531 19 L 10.5 16.138672 L 10.5 19 L 11.5 19 L 11.5 15.222656 L 15 12.017578 L 15 11.5 L 19 11.5 L 19 10.5 L 15 10.5 L 15 9.4609375 L 18.994141 6 L 19 6 L 19 5.9941406 L 19 4.671875 L 19 3 L 18 3 L 18 5.5390625 L 14.003906 9 L 14 9 L 14 9.0039062 L 14 10.328125 L 14 10.5 L 11.5 10.5 L 11.5 3 L 10.5 3 z M 11.5 11.5 L 14 11.5 L 14 11.578125 L 11.5 13.867188 L 11.5 11.5 z "
+       id="rect3764"
        transform="translate(551.28571,607.64788)"
-       id="rect3764" />
+       d="M 10.5 3 L 10.5 10.5 L 3 10.5 L 3 11.5 L 10.5 11.5 L 10.5 14.783203 L 6.9882812 18 L 3 18 L 3 19 L 7 19 L 7.3769531 19 L 10.5 16.138672 L 10.5 19 L 11.5 19 L 11.5 15.222656 L 15 12.017578 L 15 11.5 L 19 11.5 L 19 10.5 L 15 10.5 L 15 9.4609375 L 18.994141 6 L 19 6 L 19 5.9941406 L 19 4.671875 L 19 3 L 18 3 L 18 5.5390625 L 14.003906 9 L 14 9 L 14 9.0039062 L 14 10.328125 L 14 10.5 L 11.5 10.5 L 11.5 3 L 10.5 3 z M 11.5 11.5 L 14 11.5 L 14 11.578125 L 11.5 13.867188 L 11.5 11.5 z "
+       style="fill:#e7ded7;fill-opacity:1;stroke:none" />
   </g>
 </svg>

@@ -13,10 +13,8 @@
    height="22"
    id="svg3760"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="office-chart-bar-stacked.svg">
-  <defs
-     id="defs3762" />
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="view-statistics.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,7 +23,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="34.047365"
-     inkscape:cx="13.775888"
+     inkscape:cx="9.2234065"
      inkscape:cy="10.801838"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -34,48 +32,50 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1864"
-     inkscape:window-height="1060"
-     inkscape:window-x="54"
-     inkscape:window-y="-3"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      showguides="true"
      inkscape:snap-bbox="true">
     <inkscape:grid
-       type="xygrid"
-       id="grid4106"
+       originy="-1.0000252px"
        originx="-0.99998557px"
-       originy="-1.0000252px" />
+       id="grid4106"
+       type="xygrid" />
     <sodipodi:guide
-       position="2.00001,19.99997"
+       id="guide4229"
        orientation="0,18"
-       id="guide4229" />
+       position="2.00001,19.99997" />
     <sodipodi:guide
-       position="20.00001,19.99997"
+       id="guide4231"
        orientation="18,0"
-       id="guide4231" />
+       position="20.00001,19.99997" />
     <sodipodi:guide
-       position="20.00001,1.99997"
+       id="guide4233"
        orientation="0,-18"
-       id="guide4233" />
+       position="20.00001,1.99997" />
     <sodipodi:guide
-       position="2.00001,1.99997"
+       id="guide4235"
        orientation="-18,0"
-       id="guide4235" />
+       position="2.00001,1.99997" />
     <sodipodi:guide
-       position="3.00001,18.99997"
+       id="guide4237"
        orientation="0,16"
-       id="guide4237" />
+       position="3.00001,18.99997" />
     <sodipodi:guide
-       position="19.00001,18.99997"
+       id="guide4239"
        orientation="16,0"
-       id="guide4239" />
+       position="19.00001,18.99997" />
     <sodipodi:guide
-       position="3.00001,2.99997"
+       id="guide4243"
        orientation="-16,0"
-       id="guide4243" />
+       position="3.00001,2.99997" />
   </sodipodi:namedview>
+  <defs
+     id="defs3762" />
   <metadata
      id="metadata3765">
     <rdf:RDF>
@@ -84,35 +84,35 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
+     transform="translate(-551.28571,-607.64788)"
      id="layer1"
-     transform="translate(-551.28571,-607.64788)">
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1">
     <rect
-       style="color:#000000;fill:#182128;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect2991"
-       width="4"
-       height="4.9999313"
+       y="621.64789"
        x="554.28571"
-       y="621.64789" />
-    <rect
-       style="color:#000000;fill:#182128;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect2993"
+       height="4.9999313"
        width="4"
-       height="8.9999485"
+       id="rect2991"
+       style="color:#000000;fill:#e7ded7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       y="617.64789"
        x="560.28571"
-       y="617.64789" />
-    <rect
-       style="color:#000000;fill:#182128;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect2995"
+       height="8.9999485"
        width="4"
-       height="15.999978"
+       id="rect2993"
+       style="color:#000000;fill:#e7ded7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       y="610.64789"
        x="566.28571"
-       y="610.64789" />
+       height="15.999978"
+       width="4"
+       id="rect2995"
+       style="color:#000000;fill:#e7ded7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
 </svg>

@@ -1,35 +1,76 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48">
-<defs>
-<defs
-     id="defs1874">
-  </defs>
-  <path
-     d="M 24,2 C 11.849736,2 2,11.846433 2,24 2,36.153566 11.849736,46 24,46 36.150264,46 46,36.153566 46,24 46,11.846433 36.150264,2 24,2 z m 5.270833,10.624672 c 0.429442,-0.03046 0.89753,0.0067 1.375001,0.115485 l 0.05729,0.02887 c 5.606661,0.944642 8.850977,7.650456 6.101563,12.472441 -0.0045,0.0079 0.0045,0.021 0,0.02887 -0.006,0.01213 -0.02262,0.01677 -0.02864,0.02887 -2.695383,5.419572 -8.793709,8.486124 -12.120767,12.551837 -0.185363,0.23437 -0.390225,0.371719 -0.655275,0.371719 -0.264697,0 -0.559203,-0.232753 -0.744791,-0.33563 -3.339591,-4.081024 -9.121116,-7.049828 -11.802084,-12.443569 -0.0096,-0.01939 -0.01909,-0.03829 -0.02864,-0.05774 -2.7505903,-4.824417 0.523814,-11.527885 6.130208,-12.472441 l 0.0573,-0.02887 c 1.744604,-0.402521 3.431546,0.200268 4.726563,1.299213 0.740787,0.628629 1.352371,1.432772 1.833333,2.309711 1.063828,-2.063424 2.867332,-3.710479 5.098958,-3.868766 z"
-     id="path-main"
-      />
-</defs>
-<acyl-settings>
-<linearGradient
-     id="linearGradient4321">
-    <stop
-       style="stop-color:#00F6FF;stop-opacity:1.0;"
-       offset="0.0"
-       id="stop1" />
-    <stop
-       style="stop-color:#00F6FF;stop-opacity:1.0;"
-       offset="1.0"
-       id="stop2" />
-  </linearGradient>
-<linearGradient
-     inkscape:collect="always"
-     xlink:href="#linearGradient4321"
-     id="acyl_gradient"
-     x1="91.0%"
-     y1="22.0%"
-     x2="88.0%"
-     y2="82.0%" />
-<filter>
-    </filter>
-<use id="1" style="fill:url(#acyl_gradient);filter:url(#filter1111)" xlink:href="#path-main" />
-</acyl-settings>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="emblem-favorite.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#ffffff"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="13.870845"
+     inkscape:cx="-7.4610814"
+     inkscape:cy="10.58586"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-1028.3622)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1">
+    <path
+       inkscape:transform-center-y="-0.81859563"
+       inkscape:transform-center-x="-0.020849147"
+       transform="matrix(0.97203306,0,0,1.0218728,9.0824665,1032.0083)"
+       d="M 8.0826633,16.00381 2.9976267,13.301162 -2.0903897,15.998196 -1.0913816,10.326875 -5.2286971,6.3213133 0.47376038,5.5188918 3.0047752,0.34628428 5.5300796,5.5216818 11.231648,6.3303962 7.0899148,10.331389 Z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="1.5713481"
+       sodipodi:arg1="0.9430296"
+       sodipodi:r2="4.3011627"
+       sodipodi:r1="8.653717"
+       sodipodi:cy="9"
+       sodipodi:cx="3"
+       sodipodi:sides="5"
+       id="path3756"
+       style="fill:#e7ded7;fill-opacity:1;stroke:none"
+       sodipodi:type="star" />
+  </g>
 </svg>

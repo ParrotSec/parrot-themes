@@ -13,11 +13,9 @@
    height="22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r"
+   inkscape:version="0.91 r13725"
    viewBox="0 0 21.999999 22"
    sodipodi:docname="arrow-up.svg">
-  <defs
-     id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,15 +24,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627417"
-     inkscape:cx="6.1436703"
+     inkscape:cx="-0.70642664"
      inkscape:cy="10.33508"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="718"
-     inkscape:window-x="-2"
-     inkscape:window-y="23"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -42,177 +40,179 @@
      width="24px"
      showguides="true">
     <inkscape:grid
-       type="xygrid"
-       id="grid4081" />
+       id="grid4081"
+       type="xygrid" />
     <sodipodi:guide
-       position="2,20.000017"
+       id="guide4113"
        orientation="18,0"
-       id="guide4113" />
+       position="2,20.000017" />
     <sodipodi:guide
-       position="2,2.0000174"
+       id="guide4115"
        orientation="0,18"
-       id="guide4115" />
+       position="2,2.0000174" />
     <sodipodi:guide
-       position="20,2.0000174"
+       id="guide4117"
        orientation="-18,0"
-       id="guide4117" />
+       position="20,2.0000174" />
     <sodipodi:guide
-       position="20,20.000017"
+       id="guide4119"
        orientation="0,-18"
-       id="guide4119" />
+       position="20,20.000017" />
     <sodipodi:guide
-       position="2,20.000017"
+       id="guide4143"
        orientation="18,0"
-       id="guide4143" />
+       position="2,20.000017" />
     <sodipodi:guide
-       position="2,2.0000174"
+       id="guide4145"
        orientation="0,3.9999995"
-       id="guide4145" />
+       position="2,2.0000174" />
     <sodipodi:guide
-       position="5.9999995,20.000017"
+       id="guide4149"
        orientation="0,-3.9999995"
-       id="guide4149" />
+       position="5.9999995,20.000017" />
     <sodipodi:guide
-       position="15.999999,2.0000174"
+       id="guide4153"
        orientation="0,4.0000019"
-       id="guide4153" />
+       position="15.999999,2.0000174" />
     <sodipodi:guide
-       position="20,2.0000174"
+       id="guide4155"
        orientation="-18,0"
-       id="guide4155" />
+       position="20,2.0000174" />
     <sodipodi:guide
-       position="20,20.000017"
+       id="guide4157"
        orientation="0,-4.0000019"
-       id="guide4157" />
+       position="20,20.000017" />
     <sodipodi:guide
-       position="3,19.000017"
+       id="guide4278"
        orientation="16,0"
-       id="guide4278" />
+       position="3,19.000017" />
     <sodipodi:guide
-       position="3,3.0000174"
+       id="guide4280"
        orientation="0,16"
-       id="guide4280" />
+       position="3,3.0000174" />
     <sodipodi:guide
-       position="19,3.0000174"
+       id="guide4282"
        orientation="-16,0"
-       id="guide4282" />
+       position="19,3.0000174" />
     <sodipodi:guide
-       position="19,19.000017"
+       id="guide4284"
        orientation="0,-16"
-       id="guide4284" />
+       position="19,19.000017" />
     <sodipodi:guide
-       position="3,4.0000174"
+       id="guide4290"
        orientation="1,0"
-       id="guide4290" />
+       position="3,4.0000174" />
     <sodipodi:guide
-       position="3,3.0000174"
+       id="guide4292"
        orientation="0,16"
-       id="guide4292" />
+       position="3,3.0000174" />
     <sodipodi:guide
-       position="19,3.0000174"
+       id="guide4294"
        orientation="-1,0"
-       id="guide4294" />
+       position="19,3.0000174" />
     <sodipodi:guide
-       position="3,19.000262"
+       id="guide4298"
        orientation="1,0"
-       id="guide4298" />
+       position="3,19.000262" />
     <sodipodi:guide
-       position="19,18.000262"
+       id="guide4302"
        orientation="-1,0"
-       id="guide4302" />
+       position="19,18.000262" />
     <sodipodi:guide
-       position="19,19.000262"
+       id="guide4304"
        orientation="0,-16"
-       id="guide4304" />
+       position="19,19.000262" />
     <sodipodi:guide
-       position="3,19.000017"
+       id="guide4132"
        orientation="16,0"
-       id="guide4132" />
+       position="3,19.000017" />
     <sodipodi:guide
-       position="3,3.0000174"
+       id="guide4134"
        orientation="0,4.0000005"
-       id="guide4134" />
+       position="3,3.0000174" />
     <sodipodi:guide
-       position="7.0000005,19.000017"
+       id="guide4138"
        orientation="0,-4.0000005"
-       id="guide4138" />
+       position="7.0000005,19.000017" />
     <sodipodi:guide
-       position="15.000001,3.0000174"
+       id="guide4142"
        orientation="0,4"
-       id="guide4142" />
+       position="15.000001,3.0000174" />
     <sodipodi:guide
-       position="19,3.0000174"
+       id="guide4144"
        orientation="-16,0"
-       id="guide4144" />
+       position="19,3.0000174" />
     <sodipodi:guide
-       position="19,19.000017"
+       id="guide4146"
        orientation="0,-4"
-       id="guide4146" />
+       position="19,19.000017" />
     <sodipodi:guide
-       position="7.0000005,3.0005057"
+       id="guide4160"
        orientation="0,8"
-       id="guide4160" />
+       position="7.0000005,3.0005057" />
     <sodipodi:guide
-       position="7.0000005,3.0005057"
+       id="guide4170"
        orientation="0,0.99999952"
-       id="guide4170" />
+       position="7.0000005,3.0005057" />
     <sodipodi:guide
-       position="8,19.000017"
+       id="guide4174"
        orientation="0,-0.99999952"
-       id="guide4174" />
+       position="8,19.000017" />
     <sodipodi:guide
-       position="14,3.0000174"
+       id="guide4323"
        orientation="0,1.000001"
-       id="guide4323" />
+       position="14,3.0000174" />
     <sodipodi:guide
-       position="15.000001,19.000262"
+       id="guide4327"
        orientation="0,-1.000001"
-       id="guide4327" />
+       position="15.000001,19.000262" />
     <sodipodi:guide
-       position="3.7070312,8"
+       id="guide4154"
        orientation="-0.707,-0.7070312"
-       id="guide4154" />
+       position="3.7070312,8" />
     <sodipodi:guide
-       position="3,8.707"
+       id="guide4156"
        orientation="-6.125,6.125"
-       id="guide4156" />
+       position="3,8.707" />
     <sodipodi:guide
-       position="9.125,14.832"
+       id="guide4159"
        orientation="-1.875,1.8750005"
-       id="guide4159" />
+       position="9.125,14.832" />
     <sodipodi:guide
-       position="11.000001,16.707"
+       id="guide4161"
        orientation="1.875,1.875"
-       id="guide4161" />
+       position="11.000001,16.707" />
     <sodipodi:guide
-       position="12.875001,14.832"
+       id="guide4163"
        orientation="6.125,6.125"
-       id="guide4163" />
+       position="12.875001,14.832" />
     <sodipodi:guide
-       position="19,8.707"
+       id="guide4165"
        orientation="0.707,-0.707032"
-       id="guide4165" />
+       position="19,8.707" />
     <sodipodi:guide
-       position="18.292969,8"
+       id="guide4167"
        orientation="-6.125,-6.125"
-       id="guide4167" />
+       position="18.292969,8" />
     <sodipodi:guide
-       position="12.167968,14.125"
+       id="guide4169"
        orientation="-1.168,-1.167968"
-       id="guide4169" />
+       position="12.167968,14.125" />
     <sodipodi:guide
-       position="11,15.293"
+       id="guide4171"
        orientation="1.168,-1.1679693"
-       id="guide4171" />
+       position="11,15.293" />
     <sodipodi:guide
-       position="9.8320312,14.125"
+       id="guide4173"
        orientation="6.125,-6.125"
-       id="guide4173" />
+       position="9.8320312,14.125" />
     <sodipodi:guide
-       position="3.7070312,8"
+       id="guide4175"
        orientation="0,8.8817842e-16"
-       id="guide4175" />
+       position="3.7070312,8" />
   </sodipodi:namedview>
+  <defs
+     id="defs4" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -221,19 +221,19 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
+     transform="translate(0,-1030.3622)"
      id="layer1"
-     transform="translate(0,-1030.3622)">
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1">
     <path
-       style="fill:#182128;fill-opacity:1;stroke:none"
-       d="m 3.7070307,1044.3622 -0.7070312,-0.707 6.125,-6.125 1.8750005,-1.875 1.875,1.875 6.125,6.125 -0.707032,0.707 -6.125,-6.125 -1.167968,-1.168 -1.1679693,1.168 -6.125,6.125 z"
+       inkscape:connector-curvature="0"
        id="rect4176"
-       inkscape:connector-curvature="0" />
+       d="m 3.7070307,1044.3622 -0.7070312,-0.707 6.125,-6.125 1.8750005,-1.875 1.875,1.875 6.125,6.125 -0.707032,0.707 -6.125,-6.125 -1.167968,-1.168 -1.1679693,1.168 -6.125,6.125 z"
+       style="fill:#e7ded7;fill-opacity:1;stroke:none" />
   </g>
 </svg>

@@ -16,8 +16,6 @@
    inkscape:version="0.91 r13725"
    viewBox="0 0 24 24"
    sodipodi:docname="exchange-positions-zorder.svg">
-  <defs
-     id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,7 +24,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="8.420999"
-     inkscape:cx="28.070252"
+     inkscape:cx="9.6638848"
      inkscape:cy="-5.4286025"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -34,9 +32,9 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
-     inkscape:window-x="-4"
-     inkscape:window-y="0"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      units="px"
      fit-margin-top="0"
@@ -91,6 +89,8 @@
        orientation="0,-2"
        id="guide4137" />
   </sodipodi:namedview>
+  <defs
+     id="defs4" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -99,7 +99,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -109,12 +109,12 @@
      id="layer1"
      transform="translate(1,-1029.3622)">
     <path
-       style="fill:#292f34;fill-opacity:1;stroke:none;stroke-opacity:1"
+       style="fill:#d6d0cb;fill-opacity:1;stroke:none;stroke-opacity:1"
        d="m 3,1033.3622 0,7 8,0 0,-7 -8,0 z m 1,1 6,0 0,5 -6,0 0,-5 z"
        id="rect4253-5"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#292f34;fill-opacity:1;stroke:none;stroke-opacity:1"
+       style="fill:#d6d0cb;fill-opacity:1;stroke:none;stroke-opacity:1"
        d="m 12,1034.4403 0,1.0117 a 6,6 0 0 1 5,5.9102 l 1,0 a 7,7 0 0 0 -6,-6.9219 z m -8,6.9219 a 7,7 0 0 0 6,6.9219 l 0,-1.0117 a 6,6 0 0 1 -5,-5.9102 l -1,0 z"
        id="path4291-38"
        inkscape:connector-curvature="0" />
@@ -129,14 +129,14 @@
        d="m 12.5,1048.3622 0,-4.0859 -1.5,1.5 0,-1.4141 1.792969,-1.793 0.207031,-0.207 0.207031,0.207 1.792969,1.793 0,1.4141 -1.5,-1.5 0,4.0859 -1,0 z"
        id="rect4071-3" />
     <rect
-       style="fill:#292f34;fill-opacity:1;stroke:none;stroke-opacity:1"
+       style="fill:#d6d0cb;fill-opacity:1;stroke:none;stroke-opacity:1"
        id="rect4296-8-7"
        width="1"
        height="3"
        x="12"
        y="1035.3622" />
     <rect
-       style="fill:#292f34;fill-opacity:1;stroke:none;stroke-opacity:1"
+       style="fill:#d6d0cb;fill-opacity:1;stroke:none;stroke-opacity:1"
        id="rect4298-6-0"
        width="1"
        height="3"

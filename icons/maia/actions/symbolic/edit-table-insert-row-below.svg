@@ -13,10 +13,8 @@
    height="22"
    id="svg3815"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="edit-table-insert-row-below.svg">
-  <defs
-     id="defs3817" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,7 +23,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="26.436636"
-     inkscape:cx="1.9162396"
+     inkscape:cx="-3.9468362"
      inkscape:cy="11.389764"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -34,10 +32,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1366"
-     inkscape:window-height="670"
-     inkscape:window-x="-4"
-     inkscape:window-y="29"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="false">
@@ -77,6 +75,8 @@
        type="xygrid"
        id="grid3354" />
   </sodipodi:namedview>
+  <defs
+     id="defs3817" />
   <metadata
      id="metadata3820">
     <rdf:RDF>
@@ -103,10 +103,10 @@
        inkscape:connector-curvature="0"
        id="rect4139"
        d="m 475.71429,542.79075 2,0 0,2 1,0 0,-2 2,0 0,-1 -2,0 0,-2 -1,0 0,2 -2,0 0,1 z"
-       style="fill:#182128;fill-opacity:1;stroke:none" />
+       style="fill:#e7ded7;fill-opacity:1;stroke:none" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#182128;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#e7ded7;fill-opacity:1;stroke:none"
        d="m 464.71429,528.79075 1,0 15,0 0,1 0,9 -1,0 0,-4 -2,0 0,4 -1,0 0,-4 -2,0 0,4 0,6 -1,0 0,-6 0,-4 -2,0 0,4 -1,0 0,-4 -2,0 0,4 -1,0 0,-4 -1,0 -1,0 0,4 0,6 -1,0 0,-6 0,-10 z m 1,1 0,4 1,0 1,0 0,-1 0,-3 -2,0 z m 3,0 0,3 0,1 2,0 0,-4 -2,0 z m 3,0 0,4 2,0 0,-4 -2,0 z m 3,0 0,4 2,0 0,-1 0,-3 -2,0 z m 3,0 0,3 0,1 1.09961,0 0.90039,0 0,-4 -2,0 z"
        id="rect4108-9" />
   </g>

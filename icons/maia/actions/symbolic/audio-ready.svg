@@ -15,8 +15,6 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="audio-ready.svg">
-  <defs
-     id="defs4185" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,16 +22,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="9.6553148"
-     inkscape:cy="8.4362661"
+     inkscape:zoom="22.627417"
+     inkscape:cx="2.1620442"
+     inkscape:cy="4.1671587"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1006"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -44,49 +42,51 @@
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true">
     <inkscape:grid
-       type="xygrid"
-       id="grid4103" />
+       id="grid4103"
+       type="xygrid" />
     <sodipodi:guide
-       position="2,20.000017"
+       id="guide4095"
        orientation="18,0"
-       id="guide4095" />
+       position="2,20.000017" />
     <sodipodi:guide
-       position="2,2.0000174"
+       id="guide4097"
        orientation="0,18"
-       id="guide4097" />
+       position="2,2.0000174" />
     <sodipodi:guide
-       position="20,2.0000174"
+       id="guide4099"
        orientation="-18,0"
-       id="guide4099" />
+       position="20,2.0000174" />
     <sodipodi:guide
-       position="20,20.000017"
+       id="guide4101"
        orientation="0,-18"
-       id="guide4101" />
+       position="20,20.000017" />
     <sodipodi:guide
-       position="3,19.000017"
+       id="guide4103"
        orientation="16,0"
-       id="guide4103" />
+       position="3,19.000017" />
     <sodipodi:guide
-       position="3,3.0000174"
+       id="guide4105"
        orientation="0,16"
-       id="guide4105" />
+       position="3,3.0000174" />
     <sodipodi:guide
-       position="19,3.0000174"
+       id="guide4107"
        orientation="-1,6.123234e-17"
-       id="guide4107" />
+       position="19,3.0000174" />
     <sodipodi:guide
-       position="19,19.000017"
+       id="guide4109"
        orientation="0,-16"
-       id="guide4109" />
+       position="19,19.000017" />
     <sodipodi:guide
-       position="10.292994,3.0001395"
+       id="guide4266"
        orientation="0,1.414012"
-       id="guide4266" />
+       position="10.292994,3.0001395" />
     <sodipodi:guide
-       position="10,3.0000174"
+       id="guide4137"
        orientation="0,2"
-       id="guide4137" />
+       position="10,3.0000174" />
   </sodipodi:namedview>
+  <defs
+     id="defs4185" />
   <metadata
      id="metadata4188">
     <rdf:RDF>
@@ -100,20 +100,20 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
+     transform="translate(0,-1036.3622)"
      id="layer1"
-     transform="translate(0,-1036.3622)">
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1">
     <path
-       inkscape:connector-curvature="0"
-       style="fill:#182128;fill-opacity:1;stroke:none"
+       id="path4151"
        d="M 7.988281,1036.3622 3,1040.3583 l 0,1.0039 0,7 0,0 4.988281,3.9961 0.011719,0 1,0 0,-0.4707 0,-15.0586 0,-0.4707 -1,0 -0.011719,0 z M 8,1037.6337 l 0,13.457 -4,-3.2051 0,-7.0468 4,-3.2051 z m -8,3.7285 0,6 2,0 0,-6 -2,0 z"
-       id="path4151" />
+       style="fill:#e7ded7;fill-opacity:1;stroke:none"
+       inkscape:connector-curvature="0" />
     <circle
-       r="2.0000048"
-       cy="1044.3622"
-       cx="12.999995"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#f67400;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="path4147"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#f67400;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" />
+       cx="12.999995"
+       cy="1044.3622"
+       r="2.0000048" />
   </g>
 </svg>

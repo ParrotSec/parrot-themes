@@ -13,10 +13,8 @@
    height="22"
    id="svg3760"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="kdenlive-insert-unicode.svg">
-  <defs
-     id="defs3762" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,9 +22,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32.625"
-     inkscape:cx="3.3993129"
-     inkscape:cy="9.5284136"
+     inkscape:zoom="16.3125"
+     inkscape:cx="-10.693327"
+     inkscape:cy="9.4149171"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -34,50 +32,52 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="796"
-     inkscape:window-height="411"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      showguides="true"
      inkscape:snap-bbox="true">
     <sodipodi:guide
-       position="0,14"
+       id="guide4116"
        orientation="22,0"
-       id="guide4116" />
+       position="0,14" />
     <sodipodi:guide
-       position="4.1796875e-06,-2.6953124e-06"
+       id="guide4118"
        orientation="0,22"
-       id="guide4118" />
+       position="4.1796875e-06,-2.6953124e-06" />
     <sodipodi:guide
-       position="22.000004,-2.6953124e-06"
+       id="guide4120"
        orientation="-22,0"
-       id="guide4120" />
+       position="22.000004,-2.6953124e-06" />
     <sodipodi:guide
-       position="22.000004,21.999997"
+       id="guide4122"
        orientation="0,-22"
-       id="guide4122" />
+       position="22.000004,21.999997" />
     <sodipodi:guide
-       position="19,-33"
+       id="guide4124"
        orientation="18,0"
-       id="guide4124" />
+       position="19,-33" />
     <sodipodi:guide
-       position="3.0000042,18.999997"
+       id="guide4132"
        orientation="16,0"
-       id="guide4132" />
+       position="3.0000042,18.999997" />
     <sodipodi:guide
-       position="3.0000042,2.9999973"
+       id="guide4134"
        orientation="0,16"
-       id="guide4134" />
+       position="3.0000042,2.9999973" />
     <sodipodi:guide
-       position="19.000004,18.999997"
+       id="guide4138"
        orientation="0,-16"
-       id="guide4138" />
+       position="19.000004,18.999997" />
     <inkscape:grid
-       type="xygrid"
-       id="grid4140" />
+       id="grid4140"
+       type="xygrid" />
   </sodipodi:namedview>
+  <defs
+     id="defs3762" />
   <metadata
      id="metadata3765">
     <rdf:RDF>
@@ -86,19 +86,19 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
+     transform="translate(-553.72253,-583.11926)"
      id="layer1"
-     transform="translate(-553.72253,-583.11926)">
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1">
     <path
-       style="fill:#182128;fill-opacity:1;stroke:none"
-       d="M 3 3 L 3 14.5 C 3 16.98528 5.01472 19 7.5 19 C 9.98528 19 12 16.98528 12 14.5 L 12 7.75 L 16.90625 19 L 18 19 L 19 19 L 19 7 L 17 7 L 17 14.25 L 12.09375 3 L 11 3 L 10 3 L 10 14.5 C 10 15.88071 8.88071 17 7.5 17 C 6.11929 17 5 15.88071 5 14.5 L 5 3 L 3 3 z M 17 3 L 17 5 L 19 5 L 19 3 L 17 3 z "
+       id="rect3791"
        transform="translate(553.72253,583.11926)"
-       id="rect3791" />
+       d="M 3 3 L 3 14.5 C 3 16.98528 5.01472 19 7.5 19 C 9.98528 19 12 16.98528 12 14.5 L 12 7.75 L 16.90625 19 L 18 19 L 19 19 L 19 7 L 17 7 L 17 14.25 L 12.09375 3 L 11 3 L 10 3 L 10 14.5 C 10 15.88071 8.88071 17 7.5 17 C 6.11929 17 5 15.88071 5 14.5 L 5 3 L 3 3 z M 17 3 L 17 5 L 19 5 L 19 3 L 17 3 z "
+       style="fill:#e7ded7;fill-opacity:1;stroke:none" />
   </g>
 </svg>

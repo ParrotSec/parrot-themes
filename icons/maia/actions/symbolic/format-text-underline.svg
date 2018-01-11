@@ -13,23 +13,9 @@
    height="22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.91 r13725"
    viewBox="0 0 22 22"
    sodipodi:docname="format-text-underline.svg">
-  <defs
-     id="defs4">
-    <clipPath
-       id="clipPath4160"
-       clipPathUnits="userSpaceOnUse">
-      <rect
-         y="1028.3619"
-         x="-6"
-         height="32.000015"
-         width="32"
-         id="rect4162"
-         style="opacity:1;fill:#aade87;fill-opacity:0.47247709;stroke:none;stroke-opacity:1" />
-    </clipPath>
-  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -38,63 +24,77 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="17.447601"
-     inkscape:cx="1.8501224"
+     inkscape:cx="-7.0336204"
      inkscape:cy="12.317819"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="670"
-     inkscape:window-x="-4"
-     inkscape:window-y="29"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      showguides="true">
     <inkscape:grid
-       type="xygrid"
-       id="grid4120" />
+       id="grid4120"
+       type="xygrid" />
     <sodipodi:guide
-       position="2,20.000017"
+       id="guide4126"
        orientation="18,0"
-       id="guide4126" />
+       position="2,20.000017" />
     <sodipodi:guide
-       position="2,2.0000174"
+       id="guide4128"
        orientation="0,18"
-       id="guide4128" />
+       position="2,2.0000174" />
     <sodipodi:guide
-       position="20,2.0000174"
+       id="guide4130"
        orientation="-18,0"
-       id="guide4130" />
+       position="20,2.0000174" />
     <sodipodi:guide
-       position="20,20.000017"
+       id="guide4132"
        orientation="0,-18"
-       id="guide4132" />
+       position="20,20.000017" />
     <sodipodi:guide
-       position="3,19.000017"
+       id="guide4134"
        orientation="16,0"
-       id="guide4134" />
+       position="3,19.000017" />
     <sodipodi:guide
-       position="3,3.0000174"
+       id="guide4136"
        orientation="0,16"
-       id="guide4136" />
+       position="3,3.0000174" />
     <sodipodi:guide
-       position="19,3.0000174"
+       id="guide4138"
        orientation="-16,0"
-       id="guide4138" />
+       position="19,3.0000174" />
     <sodipodi:guide
-       position="19,19.000017"
+       id="guide4140"
        orientation="0,-16"
-       id="guide4140" />
+       position="19,19.000017" />
     <sodipodi:guide
-       position="19,13.000017"
+       id="guide4199"
        orientation="-6,0"
-       id="guide4199" />
+       position="19,13.000017" />
     <sodipodi:guide
-       position="19,19.000017"
+       id="guide4201"
        orientation="0,-6.0000172"
-       id="guide4201" />
+       position="19,19.000017" />
   </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4160">
+      <rect
+         style="opacity:1;fill:#aade87;fill-opacity:0.47247709;stroke:none;stroke-opacity:1"
+         id="rect4162"
+         width="32"
+         height="32.000015"
+         x="-6"
+         y="1028.3619" />
+    </clipPath>
+  </defs>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -108,14 +108,14 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
+     transform="translate(0,-1030.3622)"
      id="layer1"
-     transform="translate(0,-1030.3622)">
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1">
     <path
-       inkscape:connector-curvature="0"
-       style="opacity:1;fill:#182128;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="rect4164"
        d="m 6,1033.3622 0,7 c 0,2.77 2.23,5 5,5 2.77,0 5,-2.23 5,-5 l 0,-7 -2,0 0,8 c 0,1.108 -0.892,2 -2,2 -1.108,0 -2,-0.892 -2,-2 l 0,-8 -4,0 z m -2,15 0,1 14,0 0,-1 -14,0 z"
-       id="rect4164" />
+       style="opacity:1;fill:#e7ded7;fill-opacity:1;stroke:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

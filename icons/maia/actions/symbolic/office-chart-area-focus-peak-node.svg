@@ -13,10 +13,8 @@
    height="22"
    id="svg3760"
    version="1.1"
-   inkscape:version="0.48+devel r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="office-chart-area-focus-peak-node.svg">
-  <defs
-     id="defs3762" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,9 +22,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="12.198405"
-     inkscape:cx="4.6677055"
-     inkscape:cy="19.954883"
+     inkscape:zoom="34.5023"
+     inkscape:cx="3.9888958"
+     inkscape:cy="9.7203131"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -34,10 +32,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1366"
-     inkscape:window-height="666"
-     inkscape:window-x="-2"
-     inkscape:window-y="25"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      showguides="true">
@@ -95,6 +93,8 @@
        orientation="0.70710678,-0.70710678"
        id="guide4197" />
   </sodipodi:namedview>
+  <defs
+     id="defs3762" />
   <metadata
      id="metadata3765">
     <rdf:RDF>
@@ -113,12 +113,12 @@
      id="layer1"
      transform="translate(-551.28571,-607.64788)">
     <path
-       style="opacity:1;fill:#182128;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455"
+       style="opacity:1;fill:#e7ded7;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455"
        d="M 4 3 L 4 15 L 4 16 L 4 17 L 3 17 L 3 18 L 4 18 L 4 19 L 5 19 L 5 18 L 19 18 L 19 17 L 5 17 L 5 16 L 5.0078125 16 L 6 16 L 8 16 L 8 15.992188 L 8.0078125 16 L 10.007812 14 L 11.599609 14 L 13.599609 16 L 17.099609 16 L 19 16 L 19 15 L 17.099609 15 L 14.013672 15 L 12.013672 13 L 12 13 L 11.007812 13 L 10.599609 13 L 9.59375 13 L 7.59375 15 L 6 15 L 5.0078125 15 L 5 15 L 5 11 L 10 11 L 10 10.992188 L 10.007812 11 L 11.003906 10.003906 L 10.296875 9.296875 L 9.59375 10 L 5 10 L 5 3 L 4 3 z M 14 5.59375 L 13.292969 6.3007812 L 12.296875 7.296875 L 13.003906 8.0039062 L 14 7.0078125 L 14.996094 8.0039062 L 15.703125 7.296875 L 14 5.59375 z M 19 8 L 18 9 L 19 9 L 19 8 z "
        transform="translate(551.28571,607.64788)"
        id="rect4144" />
     <path
-       style="opacity:1;fill:#182128;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455"
+       style="opacity:1;fill:#e7ded7;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455"
        d="M 11 4 L 11 6 L 12 6 L 12 5 L 13 5 L 13 4 L 11 4 z M 15 4 L 15 5 L 16 5 L 16 6 L 17 6 L 17 4 L 15 4 z M 11 8 L 11 10 L 13 10 L 13 9 L 12 9 L 12 8 L 11 8 z M 16 8 L 16 9 L 15 9 L 15 10 L 17 10 L 17 8 L 16 8 z "
        transform="translate(551.28571,607.64788)"
        id="rect4274" />
