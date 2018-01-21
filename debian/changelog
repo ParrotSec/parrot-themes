@@ -1,3 +1,10 @@
+parrot-themes (2.6+parrot1) testing; urgency=medium
+
+  * Add anonsurf icon.
+  * Change parrot logo.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Sun, 21 Jan 2018 18:02:01 +0100
+
 parrot-themes (2.5+parrot1) testing; urgency=medium
 
   * Remove broken icons.
