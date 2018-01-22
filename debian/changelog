@@ -1,3 +1,9 @@
+parrot-themes (2.6+parrot3) testing; urgency=medium
+
+  * Add missing automotive icon.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Mon, 22 Jan 2018 20:11:29 +0100
+
 parrot-themes (2.6+parrot2) testing; urgency=medium
 
   * Rebuild package.
