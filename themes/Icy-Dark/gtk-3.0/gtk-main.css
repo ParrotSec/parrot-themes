@@ -52,7 +52,7 @@
 @define-color button_hover_gradient_color_b shade(@button_gradient_color_b, 1.06);
 
 @define-color insensitive_bg_color shade(@theme_bg_color, 0.95);
-@define-color insensitive_fg_color shade(@theme_bg_color, 0.6);
+@define-color insensitive_fg_color shade(@theme_fg_color, 0.6);
 @define-color insensitive_borders shade(@internal_element_color, 1.37);
 @define-color insensitive_scale_borders @insensitive_borders;
 
