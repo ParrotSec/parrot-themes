@@ -20,7 +20,7 @@ PanelSizes=16,22,32,48,64,128,256
 DialogDefault=32
 DialogSizes=16,22,32,48,64,128,256
 
-Directories=actions/scalable,actions/symbolic,apps/scalable,categories/scalable,categories/start-menu,devices/hardware,devices/scalable,emblems/scalable,emblems/small,mimetypes/file-types,parrot-categories,places/user-folders,places/user-folders-small,status/scalable,status/small
+Directories=actions/scalable,actions/symbolic,apps/scalable,categories/scalable,categories/start-menu,devices/hardware,devices/scalable,emblems/scalable,emblems/small,mimetypes/file-types,parrot-categories,places/user-folders,places/user-folders-small,status/scalable,status/small,animations/scalable
 
 ## Actions Start
 
@@ -153,4 +153,12 @@ Context=Categories
 Type=Scalable
 MinSize=12
 MaxSize=128
+
+## Animations
+[animations/scalable]
+Size=24
+Context=Status
+Type=Scalable
+MinSize=16
+MaxSize=32
 
