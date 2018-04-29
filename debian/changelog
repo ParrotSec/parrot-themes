@@ -1,3 +1,9 @@
+parrot-themes (2.6+parrot4) testing; urgency=medium
+
+  * Import pull requests from external contributors.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Sun, 29 Apr 2018 15:54:35 +0200
+
 parrot-themes (2.6+parrot3) testing; urgency=medium
 
   * Add missing automotive icon.
