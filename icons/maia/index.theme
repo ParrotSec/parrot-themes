@@ -360,11 +360,11 @@ MinSize=16
 MaxSize=256
 
 [status/scalable]
-Size=32
+Size=48
 Context=Status
 Type=Scalable
 MinSize=16
-MaxSize=32
+MaxSize=128
 
 [devices/scalable]
 Size=24
