@@ -1,4 +1,10 @@
-parrot-themes (2.6+parrot5) UNRELEASED; urgency=medium
+parrot-themes (2.6+parrot6) testing; urgency=medium
+
+  * Update and fix maia icons (patched by hairoes).
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Sun, 06 May 2018 01:02:30 +0200
+
+parrot-themes (2.6+parrot5) testing; urgency=medium
 
   * Fix GTK-Warning on Terminal (patched by hairoes).
   * Add wireless animation icons (patched by hairoes).
