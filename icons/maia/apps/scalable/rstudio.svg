@@ -1,164 +1,39 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
-   height="48"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.48.4 r9939"
-   viewBox="0 0 13.546666 13.546668"
-   sodipodi:docname="rstudio.svg">
-  <defs
-     id="defs4" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="10.875"
-     inkscape:cx="26.504635"
-     inkscape:cy="22.075298"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:showpageshadow="false"
-     borderlayer="true"
-     units="px"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     showguides="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="744"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1">
-    <sodipodi:guide
-       position="-6.6748425e-06,47.999999"
-       orientation="47.999977,0"
-       id="guide4120" />
-    <sodipodi:guide
-       position="-6.6748425e-06,2.2810037e-05"
-       orientation="0,48.000004"
-       id="guide4122" />
-    <sodipodi:guide
-       position="47.999997,2.2810037e-05"
-       orientation="-47.999977,0"
-       id="guide4124" />
-    <sodipodi:guide
-       position="47.999997,47.999999"
-       orientation="0,-48.000004"
-       id="guide4126" />
-    <sodipodi:guide
-       position="3.9999733,44.000154"
-       orientation="39.999962,0"
-       id="guide4138" />
-    <sodipodi:guide
-       position="3.9999733,4.0001921"
-       orientation="0,40.000003"
-       id="guide4140" />
-    <sodipodi:guide
-       position="43.999976,4.0001921"
-       orientation="-39.999962,0"
-       id="guide4142" />
-    <sodipodi:guide
-       position="43.999976,44.000154"
-       orientation="0,-40.000003"
-       id="guide4144" />
-    <sodipodi:guide
-       position="6.9999922,47.999999"
-       orientation="39.999962,0"
-       id="guide4148" />
-    <sodipodi:guide
-       position="6.9999922,8.0000369"
-       orientation="0,34.000006"
-       id="guide4150" />
-    <sodipodi:guide
-       position="40.999998,8.0000369"
-       orientation="-39.999962,0"
-       id="guide4152" />
-    <sodipodi:guide
-       position="40.999998,47.999999"
-       orientation="0,-34.000006"
-       id="guide4154" />
-    <sodipodi:guide
-       position="14.999993,32.999986"
-       orientation="17.999951,0"
-       id="guide4158" />
-    <sodipodi:guide
-       position="14.999993,15.000036"
-       orientation="0,17.999998"
-       id="guide4160" />
-    <sodipodi:guide
-       position="32.999991,15.000036"
-       orientation="-17.999951,0"
-       id="guide4162" />
-    <sodipodi:guide
-       position="32.999991,32.999986"
-       orientation="0,-17.999998"
-       id="guide4164" />
-    <sodipodi:guide
-       position="1.9999969,44.000046"
-       orientation="39.999962,0"
-       id="guide3279" />
-    <sodipodi:guide
-       position="1.9999969,4.0000839"
-       orientation="0,44.000003"
-       id="guide3281" />
-    <sodipodi:guide
-       position="46,4.0000839"
-       orientation="-39.999962,0"
-       id="guide3283" />
-    <sodipodi:guide
-       position="46,44.000046"
-       orientation="0,-44.000003"
-       id="guide3285" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(38.119153,-397.84494)">
-    <rect
-       style="fill:#2980b9;fill-opacity:1;stroke:none"
-       id="rect4118"
-       width="12.249096"
-       height="12.249084"
-       x="-37.690964"
-       y="398.55856"
-       ry="6.1245418" />
-    <g
-       style="font-size:11.28888988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ecf0f1;fill-opacity:1;stroke:none;font-family:Iceberg;-inkscape-font-specification:Iceberg"
-       id="text3772"
-       transform="matrix(0.79095141,0,0,0.79095141,-6.2272838,84.293544)">
-      <path
-         d="m -30.22906,409.13382 -1.736328,-3.40651 c -0.106573,0.0147 -0.216816,0.0257 -0.330729,0.0331 -0.110247,0.007 -0.224165,0.011 -0.341754,0.011 -0.13597,0 -0.275611,-0.006 -0.418924,-0.0165 -0.139644,-0.011 -0.284797,-0.0257 -0.43546,-0.0441 l 0,2.80018 1.245747,0.39687 0,0.226 -3.274219,0 0,-0.226 1.014236,-0.39687 0,-6.88468 -1.014236,-0.39688 0,-0.226 3.103342,0 c 0.477716,1e-5 0.902151,0.0551 1.273308,0.16537 0.371146,0.10657 0.683501,0.25908 0.937066,0.45751 0.257227,0.19844 0.45199,0.4373 0.584288,0.71658 0.132285,0.27561 0.198431,0.58245 0.198437,0.92053 -6e-6,0.4961 -0.128623,0.93707 -0.38585,1.32291 -0.253565,0.38218 -0.630229,0.67433 -1.129992,0.87644 l 1.604037,3.1309 0.810286,0.31419 0,0.226 -1.703255,0 m -2.028472,-7.55165 -1.234723,0 0,3.54431 c 0.150663,0.0184 0.292141,0.0331 0.424436,0.0441 0.135963,0.007 0.268255,0.011 0.396875,0.011 1.418456,0 2.127686,-0.61001 2.127691,-1.83004 -5e-6,-0.59163 -0.146996,-1.03444 -0.440972,-1.32843 -0.293986,-0.29397 -0.718422,-0.44096 -1.273307,-0.44097"
-         style="fill:#ecf0f1;fill-opacity:1;font-family:Amethysta;-inkscape-font-specification:Amethysta"
-         id="path3777"
-         inkscape:connector-curvature="0" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
+   <stop style="stop-color:#4694c6;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#569dcb;stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <path d="m 36.31 5 c 5.859 4.062 9.688 10.831 9.688 18.5 c 0 12.426 -10.07 22.5 -22.5 22.5 c -7.669 0 -14.438 -3.828 -18.5 -9.688 c 1.037 1.822 2.306 3.499 3.781 4.969 c 4.085 3.712 9.514 5.969 15.469 5.969 c 12.703 0 23 -10.298 23 -23 c 0 -5.954 -2.256 -11.384 -5.969 -15.469 c -1.469 -1.475 -3.147 -2.744 -4.969 -3.781 z m 4.969 3.781 c 3.854 4.113 6.219 9.637 6.219 15.719 c 0 12.703 -10.297 23 -23 23 c -6.081 0 -11.606 -2.364 -15.719 -6.219 c 4.16 4.144 9.883 6.719 16.219 6.719 c 12.703 0 23 -10.298 23 -23 c 0 -6.335 -2.575 -12.06 -6.719 -16.219 z" style="opacity:0.05"/>
+  <path d="m 41.28 8.781 c 3.712 4.085 5.969 9.514 5.969 15.469 c 0 12.703 -10.297 23 -23 23 c -5.954 0 -11.384 -2.256 -15.469 -5.969 c 4.113 3.854 9.637 6.219 15.719 6.219 c 12.703 0 23 -10.298 23 -23 c 0 -6.081 -2.364 -11.606 -6.219 -15.719 z" style="opacity:0.1"/>
+  <path d="m 31.25 2.375 c 8.615 3.154 14.75 11.417 14.75 21.13 c 0 12.426 -10.07 22.5 -22.5 22.5 c -9.708 0 -17.971 -6.135 -21.12 -14.75 a 23 23 0 0 0 44.875 -7 a 23 23 0 0 0 -16 -21.875 z" style="opacity:0.2"/>
+ </g>
+ <g>
+  <path d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
+ </g>
+ <g>
+  <g>
+   <g transform="translate(1,1)">
+    <g style="opacity:0.1">
+     <!-- color: #569dcb -->
+     <g>
+      <path d="m 19.2 12.871 c 1.262 -0.301 2.375 -0.449 3.637 -0.449 c 3.855 0 6.01 1.797 6.01 4.977 c 0 3.441 -2.707 5.609 -7.01 5.609 c -0.258 0 -0.594 0 -1.074 -0.035 c -0.074 0.148 -0.148 0.297 -0.223 0.449 c 3.426 4.527 7.04 9.05 10.469 13.578 c 1.742 -0.113 1.922 -0.113 2.328 -0.113 c 0.336 0 0.336 0 2.672 0.113 c 0 -0.375 0 -0.625 0 -1 c -1.188 -0.113 -1.781 -0.457 -2.262 -1.094 c -2.809 -3.691 -5.613 -7.383 -8.422 -11.07 c 2.078 -0.523 3.039 -0.934 4.266 -1.797 c 1.93 -1.383 2.969 -3.254 2.969 -5.422 c 0 -3.594 -2.598 -5.613 -7.199 -5.613 c -4.82 0 -5.414 0.113 -6.676 0.113 c -1.227 0 -1.484 0 -6.68 -0.113 c 0 0.375 0 0.625 0 1 c 0.508 0.039 1.551 0.199 2.055 0.234 c 1.707 0.113 1.945 0.449 1.945 3.367 c 0 5.598 0 11.199 0 16.797 c 0 2.957 -0.512 3.434 -2.219 3.547 c -0.594 0.039 -1.188 0.074 -1.777 0.113 c 0 0.371 0 0.57 0 0.941 c 2.188 -0.074 3.484 -0.109 5.414 -0.109 c 1.93 0 3.395 0.035 5.586 0.109 c 0 -0.371 -0.133 -0.57 -0.133 -0.941 c -0.594 -0.039 -1.188 -0.074 -1.781 -0.113 c -1.707 -0.113 -2.086 -0.59 -2.086 -3.547 c 0 -6.508 0.195 -13.02 0.195 -19.527" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+     </g>
     </g>
+   </g>
   </g>
+ </g>
+ <g>
+  <g>
+   <!-- color: #569dcb -->
+   <g>
+    <path d="m 19.2 12.871 c 1.262 -0.301 2.375 -0.449 3.637 -0.449 c 3.855 0 6.01 1.797 6.01 4.977 c 0 3.441 -2.707 5.609 -7.01 5.609 c -0.258 0 -0.594 0 -1.074 -0.035 c -0.074 0.148 -0.148 0.297 -0.223 0.449 c 3.426 4.527 7.04 9.05 10.469 13.578 c 1.742 -0.113 1.922 -0.113 2.328 -0.113 c 0.336 0 0.336 0 2.672 0.113 c 0 -0.375 0 -0.625 0 -1 c -1.188 -0.113 -1.781 -0.457 -2.262 -1.094 c -2.809 -3.691 -5.613 -7.383 -8.422 -11.07 c 2.078 -0.523 3.039 -0.934 4.266 -1.797 c 1.93 -1.383 2.969 -3.254 2.969 -5.422 c 0 -3.594 -2.598 -5.613 -7.199 -5.613 c -4.82 0 -5.414 0.113 -6.676 0.113 c -1.227 0 -1.484 0 -6.68 -0.113 c 0 0.375 0 0.625 0 1 c 0.508 0.039 1.551 0.199 2.055 0.234 c 1.707 0.113 1.945 0.449 1.945 3.367 c 0 5.598 0 11.199 0 16.797 c 0 2.957 -0.512 3.434 -2.219 3.547 c -0.594 0.039 -1.188 0.074 -1.777 0.113 c 0 0.371 0 0.57 0 0.941 c 2.188 -0.074 3.484 -0.109 5.414 -0.109 c 1.93 0 3.395 0.035 5.586 0.109 c 0 -0.371 -0.133 -0.57 -0.133 -0.941 c -0.594 -0.039 -1.188 -0.074 -1.781 -0.113 c -1.707 -0.113 -2.086 -0.59 -2.086 -3.547 c 0 -6.508 0.195 -13.02 0.195 -19.527" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+   </g>
+  </g>
+ </g>
+ <g>
+  <path d="m 40.03 7.531 c 3.712 4.084 5.969 9.514 5.969 15.469 0 12.703 -10.297 23 -23 23 c -5.954 0 -11.384 -2.256 -15.469 -5.969 4.178 4.291 10.01 6.969 16.469 6.969 c 12.703 0 23 -10.298 23 -23 0 -6.462 -2.677 -12.291 -6.969 -16.469 z" style="opacity:0.1"/>
+ </g>
 </svg>
