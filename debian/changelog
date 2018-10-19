@@ -1,3 +1,9 @@
+parrot-themes (2.7+parrot1) testing; urgency=medium
+
+  * Import pull requests.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Fri, 19 Oct 2018 15:46:59 +0200
+
 parrot-themes (2.6+parrot6) testing; urgency=medium
 
   * Update and fix maia icons (patched by hairoes).
