@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
  <defs>
   <style id="current-color-scheme" type="text/css">
    .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#16a085; }
   </style>
  </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 2,2 C 2,2 1,2 1,3 V 12 C 1,13 2,13 2,13 H 4 L 5,14 H 9 V 12 H 6 L 5,11 H 3 V 4 H 13 V 8 C 13.774,8 14.471,8.309 15,8.801 V 3 C 15,2 14,2 14,2 Z"/>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 13,9 C 11.892,9 11,9.911 11,11.031 V 12 H 10 V 16 H 16 V 12 H 15 V 11.031 C 15,9.911 14.108,9 13,9 Z M 13,10 C 13.554,10 14,10.442 14,11 V 12 H 12 V 11 C 12,10.442 12.446,10 13,10 Z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 6 6 C 6 6 5 6 5 7 L 5 16 C 5 17 6 17 6 17 L 8 17 L 9 18 L 13 18 L 13 16 L 10 16 L 9 15 L 7 15 L 7 8 L 17 8 L 17 12 C 17.774415 12 18.470818 12.309484 19 12.800781 L 19 7 C 19 6 18 6 18 6 L 6 6 z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m 17,13 c -1.108,0 -2,0.91085 -2,2.0312 l 0,0.96875 -1,0 0,4 6,0 0,-4 -1,0 0,-0.96875 C 19,13.9113 18.108,13 17,13 Z m 0,1 c 0.554,0 1,0.4424 1,1 l 0,1 -2,0 0,-1 c 0,-0.5576 0.446,-1 1,-1 z"/>
 </svg>
