@@ -1,3 +1,12 @@
+parrot-themes (3.0+parrot1) testing; urgency=medium
+
+  * Import pull requests.
+  * Remove some old icon alternatives.
+  * Remove broken links.
+  * Import new reworked icons from parrot dev team.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Tue, 30 Oct 2018 01:30:35 +0100
+
 parrot-themes (2.7+parrot1) testing; urgency=medium
 
   * Import pull requests.
