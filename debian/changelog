@@ -1,3 +1,9 @@
+parrot-themes (3.0+parrot2) testing; urgency=medium
+
+  * Add vscodium icon.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Mon, 08 Apr 2019 02:33:34 +0200
+
 parrot-themes (3.0+parrot1) testing; urgency=medium
 
   * Import pull requests.
