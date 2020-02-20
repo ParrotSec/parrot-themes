@@ -55,7 +55,7 @@
 }
 
 .caja-pathbar button:nth-child(odd) {
-   margin: 0px -7px 0px 0px;
+   margin: 0px -3px 0px 0px;
    padding: 0px;
 }
 
@@ -64,13 +64,14 @@
 }
 
 .caja-pathbar button:nth-child(even) {
-   margin: 0px 0px 0px -7px;
+   margin: 0px 0px 0px -3px;
   padding: 0px;
 }
 
 /* folder buttons */
 .caja-pathbar button.toggle {
-   margin: 0px -8px 0px 0px;
+   margin: 0px -4px 0px -4px;
+   padding: 0px 4px 0px 4px;
 }
 
 .caja-pathbar button.toggle image {
@@ -750,4 +751,3 @@ GvcMixerDialog notebook.frame box.vertical box.horizontal box.horizontal frame b
 	padding-top: 3px;
 	padding-bottom: 3px;
 }
-
