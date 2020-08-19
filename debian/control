@@ -5,7 +5,7 @@ Maintainer: Parrot Dev Team <team@parrotsec.org>
 Uploaders: Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>,
            Lisetta "Sheireen" Ferrero <sheireen@parrotsec.org>,
            Federica "Marafed" Marasà <federica.marasa@parrotsec.org>
-Standards-Version: 4.2.1
+Standards-Version: 4.5.0
 Build-Depends: debhelper (>= 10), gtk-update-icon-cache
 Homepage: https://www.parrotsec.org/
 
