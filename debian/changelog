@@ -1,3 +1,11 @@
+parrot-themes (3.2+parrot1+nmu1) rolling-testing; urgency=medium
+
+  * Update debian standard version
+  * Update template copyright
+  * Fix windows 10 theme invalid namey
+
+ -- Nong Hoang Tu <dmknght@parrotsec.org>  Thu, 20 Aug 2020 02:48:09 +0700
+
 parrot-themes (3.1+parrot1) rolling-testing; urgency=medium
 
   * Add Windows-10 theme.
