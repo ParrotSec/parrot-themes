@@ -10,9 +10,14 @@ License: GPL-3.0+
 Files:
   debian/copyright
   debian/control
-
 Copyright: 2020 Nong Hoang Tu <dmknght@parrotsec.org>
 License: GPL-3.0+
+
+Files:
+  icons/Windows 10/*
+  themes/Windows 10 Light/
+Copyright: Christian Medel
+License: GPL-3.0
 
 License: GPL-3.0+
  This program is free software: you can redistribute it and/or modify
