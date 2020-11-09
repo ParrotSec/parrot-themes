@@ -80,7 +80,7 @@ parrot-themes (2.5+parrot1) testing; urgency=medium
   * Rebuild cache & include images in cache.
   * Deduplicate icons with symlinks.
 
- -- Lorenzo "Palinuro" Faletra <palinuro@localhost.localdomain>  Thu, 11 Jan 2018 22:30:33 +0100
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Thu, 11 Jan 2018 22:30:33 +0100
 
 parrot-themes (2.4+parrot2) testing; urgency=medium
 
