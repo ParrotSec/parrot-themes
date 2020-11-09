@@ -5,8 +5,8 @@ Comment=Windows 10 UI for Linux OSes
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Windows 10
-MetacityTheme=Windows 10
+GtkTheme=Windows 10 Light
+MetacityTheme=Windows 10 Light
 IconTheme=Windows 10
 CursorTheme=DMZ-White
 ButtonLayout=menu:minimize,maximize,close
