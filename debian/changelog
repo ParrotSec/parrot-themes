@@ -1,3 +1,9 @@
+parrot-themes (3.4+parrot1) lts-updates; urgency=medium
+
+  * Import new Windows 10 GTK theme updates from git.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Wed, 29 Sep 2021 01:16:52 +0200
+
 parrot-themes (3.3+parrot1) lts-updates; urgency=medium
 
   * Move Maia and Win10 icon themes to dedicated packages.
