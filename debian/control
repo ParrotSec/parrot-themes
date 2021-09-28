@@ -13,9 +13,21 @@ Homepage: https://www.parrotsec.org/
 Package: parrot-themes
 Architecture: all
 Priority: optional
-Depends: gtk3-engines-breeze
-Recommends: humanity-icon-theme, gtk2-engines
-Replaces: acvamarin-theme, gnome-icon-theme
-Provides: acvamarin-theme, gnome-icon-theme
-Description: Parrot GNU/Linux default themes and icons
- This package contains the default themes and icons for Parrot GNU/Linux
+Depends: gtk3-engines-breeze, maia-icon-theme
+Recommends: humanity-icon-theme, gtk2-engines, win10-icon-theme
+Description: Parrot OS default themes.
+ This package contains the default themes for Parrot OS.
+
+Package: maia-icon-theme
+Architecture: all
+Priority: optional
+Replaces: acvamarin-theme, gnome-icon-theme, mate-icon-theme
+Provides: acvamarin-theme, gnome-icon-theme, mate-icon-theme
+Description: Maia icon set for Parrot OS
+ This package contains the Maia icon set for Parrot OS.
+
+Package: win10-icon-theme
+Architecture: all
+Priority: optional
+Description: Windows 10 icon set for Parrot OS
+ This package contains the Windows 10 icon set for Parrot OS.

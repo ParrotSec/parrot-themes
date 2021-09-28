@@ -1,10 +1,17 @@
+parrot-themes (3.3+parrot1) lts-updates; urgency=medium
+
+  * Move Maia and Win10 icon themes to dedicated packages.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Wed, 29 Sep 2021 01:13:04 +0200
+
 parrot-themes (3.2+parrot3) rolling-testing; urgency=medium
 
+  [ Nong Hoang Tu ]
   * Fix localhost mail in changelog
   * Fix wrong GTK theme name
   * Change section name "parrot" to "utils"
 
- -- Nong Hoang Tu <dmknght@parrotsec.org>  Mon, 09 Nov 2020 23:46:33 +0700
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Mon, 12 Apr 2021 13:55:16 +0200
 
 parrot-themes (3.2+parrot2) rolling-testing; urgency=medium
 
