@@ -21,13 +21,15 @@ Description: Parrot OS default themes.
 Package: maia-icon-theme
 Architecture: all
 Priority: optional
-Replaces: acvamarin-theme, gnome-icon-theme, mate-icon-theme
-Provides: acvamarin-theme, gnome-icon-theme, mate-icon-theme
+Replaces: mate-icon-theme
+Provides: mate-icon-theme
+Breaks: parrot-themes (<= 3.2+parrot3)
 Description: Maia icon set for Parrot OS
  This package contains the Maia icon set for Parrot OS.
 
 Package: win10-icon-theme
 Architecture: all
 Priority: optional
+Breaks: parrot-themes (<= 3.2+parrot3)
 Description: Windows 10 icon set for Parrot OS
  This package contains the Windows 10 icon set for Parrot OS.

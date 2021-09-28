@@ -1,3 +1,9 @@
+parrot-themes (3.4+parrot2) lts-updates; urgency=medium
+
+  * Fix conflict with previous versions.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Wed, 29 Sep 2021 01:32:10 +0200
+
 parrot-themes (3.4+parrot1) lts-updates; urgency=medium
 
   * Import new Windows 10 GTK theme updates from git.
