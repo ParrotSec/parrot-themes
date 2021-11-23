@@ -1,3 +1,15 @@
+parrot-themes (3.4+parrot4) lts-updates; urgency=medium
+
+  * Update icon set.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Wed, 24 Nov 2021 00:12:14 +0100
+
+parrot-themes (3.4+parrot3) lts-updates; urgency=medium
+
+  * Fix missing parrot icons.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Fri, 08 Oct 2021 13:33:16 +0200
+
 parrot-themes (3.4+parrot2) lts-updates; urgency=medium
 
   * Fix conflict with previous versions.
