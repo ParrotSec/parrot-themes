@@ -13,8 +13,8 @@ Homepage: https://www.parrotsec.org/
 Package: parrot-themes
 Architecture: all
 Priority: optional
-Depends: gtk3-engines-breeze, maia-icon-theme
-Recommends: humanity-icon-theme, gtk2-engines, win10-icon-theme
+Depends: gtk3-engines-breeze, ara-icon-theme
+Recommends: humanity-icon-theme, gtk2-engines, win10-icon-theme, maia-icon-theme, hackthebox-icon-theme
 Description: Parrot OS default themes.
  This package contains the default themes for Parrot OS.
 
@@ -26,6 +26,15 @@ Provides: mate-icon-theme
 Breaks: parrot-themes (<= 3.2+parrot3)
 Description: Maia icon set for Parrot OS
  This package contains the Maia icon set for Parrot OS.
+
+Package: hackthebox-icon-theme
+Architecture: all
+Priority: optional
+Replaces: mate-icon-theme
+Provides: mate-icon-theme
+Breaks: parrot-themes (<= 3.2+parrot3)
+Description: Icons for Parrot OS HackTheBox edition
+ This package contains the icons for Parrot OS HackTheBox edition.
 
 Package: win10-icon-theme
 Architecture: all

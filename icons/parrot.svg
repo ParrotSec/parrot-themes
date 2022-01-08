@@ -1,23 +1,57 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="190.2997mm"
-   height="180.30882mm"
-   viewBox="0 0 190.2997 180.30882"
+   width="181.31606mm"
+   height="181.31599mm"
+   viewBox="0 0 181.31606 181.31599"
    version="1.1"
-   id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="parrot.svg">
+   id="svg4631"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="parrot-logo-new.svg"
+   inkscape:export-filename="/media/marafed/Seagate Basic/fede/parrot OS/graphics/logos/parrot-logo-new.png"
+   inkscape:export-xdpi="840.52155"
+   inkscape:export-ydpi="840.52155">
   <defs
-     id="defs2" />
+     id="defs4625">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8893">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop8889" />
+      <stop
+         style="stop-color:#00e7fc;stop-opacity:0"
+         offset="1"
+         id="stop8891" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient8856"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop8854" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8893"
+       id="linearGradient8895"
+       x1="95.892574"
+       y1="114.05157"
+       x2="182.34073"
+       y2="118.93025"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(4e-6)" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,24 +59,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="169.70464"
-     inkscape:cy="346.96567"
+     inkscape:zoom="1"
+     inkscape:cx="373.38708"
+     inkscape:cy="328.56315"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:measure-start="0,0"
-     inkscape:measure-end="0,0"
-     inkscape:snap-others="false"
-     inkscape:snap-nodes="false"
-     inkscape:snap-global="false"
      inkscape:window-width="1920"
-     inkscape:window-height="994"
+     inkscape:window-height="1001"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0" />
   <metadata
-     id="metadata5">
+     id="metadata4628">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -54,22 +84,52 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
+     inkscape:label="Livello 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-12.544004,-57.922972)">
+     transform="translate(-14.397736,-20.92775)">
     <path
-       id="path21"
-       style="fill:#55ddff;stroke:none;stroke-width:0.26237845;stroke-opacity:1"
-       d="M 200.14143,166.85831 A 94.831083,89.958327 11.422728 0 1 89.37279,236.25388 94.831083,89.958327 11.422728 0 1 14.235959,129.29645 94.831083,89.958327 11.422728 0 1 125.0046,59.900888 94.831083,89.958327 11.422728 0 1 200.14143,166.85831 Z"
-       inkscape:connector-curvature="0"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       style="opacity:1;fill:#55ddff;fill-opacity:1;stroke:none;stroke-width:0.30797049;stroke-opacity:1"
+       id="path7201"
+       sodipodi:type="arc"
+       sodipodi:cx="105.05576"
+       sodipodi:cy="112.17424"
+       sodipodi:rx="90.658028"
+       sodipodi:ry="90.657997"
+       sodipodi:start="0"
+       sodipodi:end="6.2684246"
+       d="m 195.71379,112.17424 a 90.658028,90.657997 0 0 1 -90.32348,90.65738 90.658028,90.657997 0 0 1 -90.990105,-89.9883 90.658028,90.657997 0 0 1 89.651945,-91.321522 90.658028,90.657997 0 0 1 91.65176,89.314312"
+       sodipodi:open="true" />
     <path
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.33713615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 57.480079,81.913596 4.701,31.702494 10.90744,-19.124515 12.289354,9.252975 14.478841,34.01343 20.926006,7.30825 2.9322,84.76626 10.75949,-44.37016 13.20487,24.49601 0.97814,-52.68952 26.40971,14.79004 L 108.4232,88.043909 C 107.85523,87.44326 78.164029,78.275528 77.169872,77.852766 Z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 62.903711,58.218316 -0.746246,23.879864 10.074319,-13.805547 13.805543,10.820563 12.313058,24.999224 16.790525,5.22373 1.11937,70.1471 8.2087,-35.8198 10.07432,19.77551 0.74625,-42.536 20.14863,11.93993 L 110.29031,66.80014 77.828626,54.860208 Z"
        id="path8217"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Livello 0">
+    <path
+       style="opacity:0.76200005;fill:url(#linearGradient8895);fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 95.892578,45.872389 45.147862,66.042751 -20.14863,-11.939932 -0.74625,42.536002 -10.07432,-19.77551 -8.2087,35.8198 17.7282,18.58344 c 22.26858,-8.08048 31.55654,-18.96599 33.20075,-19.91627 2.29371,-2.09479 6.49728,-6.29961 9.69406,-10.73512 2.53067,-3.51128 7.92312,-11.78798 8.3419,-13.66552 46.47615,-208.366313 6.01404,-14.44849 10.33323,-32.11833 z"
+       id="path8887"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccsscc"
+       inkscape:export-xdpi="878.25311"
+       inkscape:export-ydpi="878.25311" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot10145"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.3721784,0,0,0.31047784,-6.8135841,-16.980342)"><flowRegion
+         id="flowRegion10147"><rect
+           id="rect10149"
+           width="142.90314"
+           height="164.79956"
+           x="61.079563"
+           y="363.75677" /></flowRegion><flowPara
+         id="flowPara10151">ParrotOSpa</flowPara></flowRoot>
   </g>
 </svg>
