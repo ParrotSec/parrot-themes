@@ -7,6 +7,6 @@ Encoding=UTF-8
 [X-GNOME-Metatheme]
 GtkTheme=ARK-Dark
 MetacityTheme=ARK-Dark
-IconTheme=maia
+IconTheme=ara
 CursorTheme=Breeze
 ButtonLayout=close,maximize,minimize:menu,minimize,maximize,close

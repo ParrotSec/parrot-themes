@@ -7,7 +7,7 @@ Encoding=UTF-8
 [X-GNOME-Metatheme]
 GtkTheme=Icy-Light
 MetacityTheme=Icy-Light
-IconTheme=maia-light
+IconTheme=ara-light
 GtkColorScheme=fg_color:#5c616c,bg_color:#F5F6F7,text_color:#5c616c,base_color:#f9f9f9,selected_fg_color:#f9f9f9,selected_bg_color:#008080,tooltip_fg_color:#dedede,tooltip_bg_color:#2d2d2d
 CursorTheme=default
 CursorSize=18
