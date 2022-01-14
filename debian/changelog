@@ -1,3 +1,9 @@
+parrot-themes (4.2) parrot-updates; urgency=medium
+
+  * Add hackthebox icon theme.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Fri, 14 Jan 2022 14:06:41 +0100
+
 parrot-themes (4.1) lts-updates; urgency=medium
 
   * Fix windows themes.
