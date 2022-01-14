@@ -1,2 +1,3 @@
 themes usr/share/
-icons/parrot-logo-black.png usr/share/icons/
+icons/parrot-logo.svg usr/share/icons/
+icons/parrot-logo.png usr/share/icons/
