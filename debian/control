@@ -13,9 +13,9 @@ Homepage: https://www.parrotsec.org/
 Package: parrot-themes
 Architecture: all
 Priority: optional
-Depends: gtk3-engines-breeze, ara-icon-theme
-Recommends: gtk2-engines, hackthebox-icon-theme
-Suggests: win10-icon-theme, maia-icon-theme
+Depends: ara-icon-theme
+Recommends: hackthebox-icon-theme
+Suggests: win10-icon-theme, maia-icon-theme, gtk2-engines, gtk3-engines-breeze
 Description: Parrot OS default themes.
  This package contains the default themes for Parrot OS.
 
