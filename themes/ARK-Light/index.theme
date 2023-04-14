@@ -9,4 +9,4 @@ GtkTheme=ARK-Light
 MetacityTheme=ARK-Light
 IconTheme=ara
 CursorTheme=Breeze
-ButtonLayout=close,maximize,minimize:menu,minimize,maximize,close
+ButtonLayout=close,maximize,minimize
