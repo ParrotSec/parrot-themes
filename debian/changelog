@@ -1,3 +1,12 @@
+parrot-themes (7.0) echo-updates; urgency=medium
+
+  * Update control file with newer configurations.
+  * Update copyright file to the current year.
+  * Remove old team members.
+  * Add Echo theme depedency.
+
+ -- Dario "danterolle" Camonita <danterolle@parrotsec.org>  Mon, 01 Dec 2025 14:00:42 +0100
+
 parrot-themes (4.3) parrot-updates; urgency=medium
 
   [ Nong Hoang Tu ]

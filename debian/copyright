@@ -4,13 +4,7 @@ Upstream-Contact: Parrot Team <team@parrotsec.org>
 Source: https://nest.parrotsec.org/packages/parrot/parrot-themes/
 
 Files: *
-Copyright: 2013 - 2020, Lorenzo Faletra  <palinuro@parrotsec.org>
-License: GPL-3.0+
-
-Files:
-  debian/copyright
-  debian/control
-Copyright: 2020 Nong Hoang Tu <dmknght@parrotsec.org>
+Copyright: 2013 - 2025, Parrot Dev Team <team@parrotsec.org>
 License: GPL-3.0+
 
 Files:

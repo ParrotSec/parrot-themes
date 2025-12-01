@@ -3,17 +3,16 @@ Section: utils
 Priority: optional
 Maintainer: Parrot Dev Team <team@parrotsec.org>
 Uploaders: Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>,
-           Lisetta "Sheireen" Ferrero <sheireen@parrotsec.org>,
-           Federica "Marafed" Marasà <federica.marasa@parrotsec.org>
-           Nong Hoang "DmKnght" Tu <dmknght@parrotsec.org>
-Standards-Version: 4.5.0
-Build-Depends: debhelper (>= 10), gtk-update-icon-cache
+           Dario "danterolle" Camonita <danterolle@parrotsec.org>
+Standards-Version: 4.7.0
+Rules-Requires-Root: no
+Build-Depends: debhelper-compat (= 13), gtk-update-icon-cache
 Homepage: https://www.parrotsec.org/
 
 Package: parrot-themes
 Architecture: all
 Priority: optional
-Depends: ara-icon-theme
+Depends: echo-themes
 Recommends: hackthebox-icon-theme
 Suggests: win10-icon-theme, maia-icon-theme, gtk2-engines, gtk3-engines-breeze
 Description: Parrot OS default themes.
